@@ -1,0 +1,447 @@
+AdultObesity,Adult Smokers (% of pop),ChildrenInPoverty,County,Diabetic (% of pop),FoodInsecure,Number of Records,Physically Inactive (% of pop),Region,State
+0.29,0.16,0.11,Fairbanks North Star,0.06,0.13,1,0.20,West,Alaska
+0.27,0.16,0.14,Anchorage,0.07,0.12,1,0.18,West,Alaska
+0.27,0.17,0.10,Juneau,0.07,0.11,1,0.16,West,Alaska
+0.25,0.18,0.09,Denali,0.07,0.14,1,0.18,West,Alaska
+0.29,0.21,0.13,Matanuska-Susitna,0.07,0.12,1,0.22,West,Alaska
+0.29,0.17,0.11,Kodiak Island,0.08,0.13,1,0.20,West,Alaska
+0.28,0.20,0.15,Kenai Peninsula,0.08,0.13,1,0.24,West,Alaska
+0.27,0.18,0.10,Sitka,0.08,0.13,1,0.17,West,Alaska
+0.30,0.19,0.11,Valdez-Cordova,0.08,0.13,1,0.23,West,Alaska
+0.29,0.20,0.18,Ketchikan Gateway,0.09,0.14,1,0.22,West,Alaska
+0.36,0.18,0.10,Aleutians West,0.09,0.16,1,0.24,West,Alaska
+0.33,0.20,0.21,Southeast Fairbanks,0.09,0.16,1,0.21,West,Alaska
+0.35,0.25,0.17,North Slope,0.09,0.14,1,0.25,West,Alaska
+0.30,0.19,0.13,Petersburg Borough,0.09,0.15,1,0.21,West,Alaska
+0.34,0.21,0.12,Bristol Bay,0.09,0.12,1,0.23,West,Alaska
+0.27,0.18,0.15,Haines,0.10,0.15,1,0.20,West,Alaska
+0.31,0.20,0.16,Aleutians East,0.10,0.18,1,0.29,West,Alaska
+0.32,0.21,0.25,Yakutat,0.10,0.16,1,0.25,West,Alaska
+0.31,0.21,0.25,Skagway,0.11,0.18,1,0.20,West,Alaska
+0.35,0.25,0.26,Prince of Wales-Hyder,0.11,0.18,1,0.29,West,Alaska
+0.33,0.35,0.29,Northwest Arctic,0.12,0.21,1,0.26,West,Alaska
+0.32,0.31,0.22,Lake and Peninsula,0.12,0.17,1,0.23,West,Alaska
+0.35,0.32,0.25,Dillingham,0.12,0.18,1,0.26,West,Alaska
+0.32,0.34,0.32,Bethel,0.13,0.21,1,0.27,West,Alaska
+0.33,0.35,0.34,Nome,0.13,0.21,1,0.27,West,Alaska
+0.34,0.41,0.44,Wade Hampton,0.14,0.26,1,0.28,West,Alaska
+0.27,0.32,0.33,Yukon-Koyukuk,0.15,0.21,1,0.25,West,Alaska
+0.22,0.20,0.25,Coconino,0.09,0.20,1,0.16,West,Arizona
+0.22,0.15,0.24,Maricopa,0.09,0.16,1,0.20,West,Arizona
+0.22,0.15,0.26,Pima,0.09,0.16,1,0.18,West,Arizona
+0.33,0.17,0.12,Greenlee,0.10,0.14,1,0.24,West,Arizona
+0.25,0.15,0.24,Yavapai,0.10,0.18,1,0.20,West,Arizona
+0.32,0.18,0.24,Graham,0.11,0.16,1,0.23,West,Arizona
+0.30,0.17,0.25,Pinal,0.11,0.16,1,0.26,West,Arizona
+0.25,0.16,0.28,Cochise,0.11,0.16,1,0.23,West,Arizona
+0.28,0.20,0.32,Mohave,0.12,0.19,1,0.32,West,Arizona
+0.30,0.15,0.30,Yuma,0.12,0.22,1,0.28,West,Arizona
+0.27,0.18,0.39,Gila,0.12,0.18,1,0.26,West,Arizona
+0.31,0.23,0.35,Navajo,0.14,0.24,1,0.24,West,Arizona
+0.21,0.15,0.35,Santa Cruz,0.14,0.15,1,0.19,West,Arizona
+0.32,0.16,0.35,La Paz,0.15,0.18,1,0.30,West,Arizona
+0.33,0.26,0.40,Apache,0.17,0.28,1,0.22,West,Arizona
+0.25,0.15,0.20,Lassen,0.08,0.18,1,0.17,West,California
+0.20,0.09,0.09,Santa Clara,0.08,0.12,1,0.15,West,California
+0.20,0.12,0.18,Yolo,0.08,0.16,1,0.14,West,California
+0.23,0.11,0.10,Placer,0.08,0.13,1,0.14,West,California
+0.15,0.12,0.14,San Francisco,0.08,0.17,1,0.14,West,California
+0.22,0.14,0.16,Mono,0.08,0.14,1,0.14,West,California
+0.22,0.12,0.16,San Luis Obispo,0.09,0.14,1,0.15,West,California
+0.21,0.13,0.19,Santa Cruz,0.09,0.14,1,0.11,West,California
+0.20,0.09,0.10,San Mateo,0.09,0.11,1,0.16,West,California
+0.20,0.11,0.18,Orange,0.09,0.11,1,0.15,West,California
+0.18,0.11,0.10,Marin,0.09,0.12,1,0.11,West,California
+0.19,0.12,0.13,El Dorado,0.09,0.14,1,0.15,West,California
+0.21,0.11,0.16,Ventura,0.09,0.10,1,0.17,West,California
+0.20,0.11,0.14,Alameda,0.09,0.15,1,0.15,West,California
+0.23,0.11,0.14,Contra Costa,0.09,0.13,1,0.17,West,California
+0.19,0.12,0.23,Santa Barbara,0.09,0.12,1,0.15,West,California
+0.25,0.15,0.24,Humboldt,0.09,0.19,1,0.14,West,California
+0.26,0.15,0.29,Yuba,0.09,0.19,1,0.15,West,California
+0.22,0.12,0.14,Sonoma,0.09,0.13,1,0.13,West,California
+0.20,0.12,0.19,San Diego,0.09,0.14,1,0.15,West,California
+0.24,0.11,0.12,Napa,0.09,0.11,1,0.14,West,California
+0.25,0.15,0.24,Butte,0.10,0.18,1,0.18,West,California
+0.27,0.15,0.24,Sacramento,0.10,0.17,1,0.17,West,California
+0.20,0.12,0.18,Nevada,0.10,0.15,1,0.15,West,California
+0.30,0.12,0.17,Solano,0.10,0.15,1,0.18,West,California
+0.27,0.14,0.20,Shasta,0.10,0.19,1,0.20,West,California
+0.24,0.12,0.20,San Benito,0.10,0.11,1,0.14,West,California
+0.28,0.13,0.21,Sutter,0.10,0.18,1,0.22,West,California
+0.29,0.14,0.28,San Joaquin,0.10,0.16,1,0.19,West,California
+0.24,0.14,0.25,Monterey,0.10,0.13,1,0.17,West,California
+0.26,0.14,0.24,Riverside,0.10,0.13,1,0.18,West,California
+0.32,0.15,0.24,Stanislaus,0.10,0.16,1,0.18,West,California
+0.25,0.16,0.34,Kings,0.10,0.16,1,0.18,West,California
+0.21,0.13,0.21,Tuolumne,0.10,0.17,1,0.16,West,California
+0.29,0.14,0.28,San Bernardino,0.10,0.13,1,0.19,West,California
+0.27,0.13,0.19,Amador,0.10,0.15,1,0.17,West,California
+0.29,0.17,0.33,Kern,0.10,0.15,1,0.22,West,California
+0.25,0.12,0.21,Calaveras,0.11,0.15,1,0.17,West,California
+0.27,0.16,0.31,Del Norte,0.11,0.19,1,0.18,West,California
+0.29,0.15,0.27,Tehama,0.11,0.17,1,0.21,West,California
+0.21,0.12,0.27,Los Angeles,0.11,0.15,1,0.17,West,California
+0.23,0.13,0.20,Inyo,0.11,0.15,1,0.16,West,California
+0.28,0.15,0.24,Glenn,0.11,0.16,1,0.17,West,California
+0.29,0.16,0.36,Merced,0.11,0.17,1,0.21,West,California
+0.23,0.13,0.25,Mariposa,0.11,0.17,1,0.17,West,California
+0.23,0.15,0.26,Mendocino,0.11,0.16,1,0.18,West,California
+0.24,0.14,0.20,Colusa,0.11,0.15,1,0.16,West,California
+0.27,0.16,0.31,Madera,0.11,0.14,1,0.20,West,California
+0.29,0.13,0.38,Fresno,0.11,0.17,1,0.19,West,California
+0.30,0.15,0.37,Tulare,0.11,0.15,1,0.18,West,California
+0.24,0.13,0.19,Sierra,0.12,0.19,1,0.17,West,California
+0.24,0.13,0.22,Plumas,0.12,0.19,1,0.16,West,California
+0.23,0.15,0.30,Siskiyou,0.12,0.21,1,0.20,West,California
+0.27,0.15,0.32,Lake,0.12,0.20,1,0.22,West,California
+0.25,0.14,0.31,Modoc,0.12,0.19,1,0.21,West,California
+0.24,0.16,0.28,Alpine,0.12,0.17,1,0.18,West,California
+0.27,0.15,0.32,Trinity,0.12,0.20,1,0.20,West,California
+0.25,0.14,0.31,Imperial,0.13,0.17,1,0.22,West,California
+0.17,0.10,0.04,Douglas,0.05,0.10,1,0.11,West,Colorado
+0.13,0.11,0.14,Boulder,0.05,0.14,1,0.09,West,Colorado
+0.11,0.14,0.12,Eagle,0.06,0.11,1,0.10,West,Colorado
+0.13,0.15,0.13,Summit,0.06,0.14,1,0.09,West,Colorado
+0.18,0.12,0.06,Broomfield,0.06,0.13,1,0.13,West,Colorado
+0.14,0.13,0.11,Routt,0.06,0.14,1,0.12,West,Colorado
+0.16,0.16,0.17,Gunnison,0.06,0.16,1,0.12,West,Colorado
+0.19,0.13,0.12,Larimer,0.06,0.14,1,0.12,West,Colorado
+0.19,0.13,0.11,Jefferson,0.06,0.13,1,0.12,West,Colorado
+0.14,0.13,0.09,Pitkin,0.06,0.14,1,0.10,West,Colorado
+0.16,0.15,0.15,San Miguel,0.06,0.14,1,0.13,West,Colorado
+0.19,0.13,0.09,Elbert,0.06,0.11,1,0.18,West,Colorado
+0.17,0.13,0.13,La Plata,0.07,0.14,1,0.13,West,Colorado
+0.21,0.15,0.15,El Paso,0.07,0.16,1,0.16,West,Colorado
+0.18,0.16,0.14,Garfield,0.07,0.12,1,0.12,West,Colorado
+0.23,0.15,0.16,Rio Blanco,0.07,0.14,1,0.18,West,Colorado
+0.17,0.15,0.15,Grand,0.07,0.13,1,0.12,West,Colorado
+0.26,0.16,0.13,Weld,0.07,0.12,1,0.18,West,Colorado
+0.17,0.16,0.23,Denver,0.07,0.16,1,0.13,West,Colorado
+0.21,0.14,0.16,Arapahoe,0.07,0.15,1,0.16,West,Colorado
+0.17,0.13,0.14,Clear Creek,0.07,0.13,1,0.16,West,Colorado
+0.19,0.15,0.12,Gilpin,0.07,0.13,1,0.17,West,Colorado
+0.26,0.16,0.16,Moffat,0.07,0.13,1,0.22,West,Colorado
+0.25,0.13,0.20,Cheyenne,0.07,0.11,1,0.25,West,Colorado
+0.23,0.16,0.20,Mesa,0.07,0.15,1,0.18,West,Colorado
+0.28,0.14,0.20,Yuma,0.07,0.11,1,0.25,West,Colorado
+0.19,0.15,0.26,Lake,0.07,0.13,1,0.16,West,Colorado
+0.20,0.13,0.15,Park,0.08,0.12,1,0.16,West,Colorado
+0.25,0.16,0.21,Logan,0.08,0.15,1,0.21,West,Colorado
+0.26,0.18,0.18,Adams,0.08,0.12,1,0.20,West,Colorado
+0.18,0.16,0.15,Teller,0.08,0.13,1,0.17,West,Colorado
+0.19,0.14,0.19,Chaffee,0.08,0.13,1,0.15,West,Colorado
+0.26,0.16,0.24,Lincoln,0.08,0.15,1,0.22,West,Colorado
+0.24,0.14,0.17,Washington,0.08,0.14,1,0.18,West,Colorado
+0.28,0.14,0.19,Morgan,0.08,0.12,1,0.20,West,Colorado
+0.21,0.13,0.25,Hinsdale,0.08,0.12,1,0.16,West,Colorado
+0.17,0.13,0.15,Ouray,0.08,0.13,1,0.14,West,Colorado
+0.27,0.17,0.20,Kit Carson,0.08,0.13,1,0.27,West,Colorado
+0.21,0.15,0.27,Jackson,0.08,0.12,1,0.19,West,Colorado
+0.23,0.16,0.24,Fremont,0.09,0.17,1,0.20,West,Colorado
+0.19,0.14,0.13,Mineral,0.09,0.13,1,0.19,West,Colorado
+0.22,0.17,0.27,Montezuma,0.09,0.16,1,0.20,West,Colorado
+0.21,0.15,0.20,Kiowa,0.09,0.15,1,0.21,West,Colorado
+0.23,0.15,0.17,Phillips,0.09,0.13,1,0.21,West,Colorado
+0.23,0.17,0.29,Alamosa,0.09,0.14,1,0.19,West,Colorado
+0.23,0.14,0.22,Sedgwick,0.09,0.14,1,0.22,West,Colorado
+0.16,0.14,0.27,Archuleta,0.09,0.13,1,0.15,West,Colorado
+0.22,0.14,0.23,Delta,0.09,0.15,1,0.18,West,Colorado
+0.20,0.17,0.32,San Juan,0.09,0.16,1,0.17,West,Colorado
+0.21,0.15,0.30,Baca,0.09,0.14,1,0.22,West,Colorado
+0.24,0.17,0.34,Bent,0.09,0.15,1,0.23,West,Colorado
+0.23,0.21,0.38,Crowley,0.09,0.16,1,0.21,West,Colorado
+0.20,0.16,0.23,Montrose,0.09,0.15,1,0.17,West,Colorado
+0.21,0.17,0.20,Dolores,0.10,0.16,1,0.16,West,Colorado
+0.26,0.17,0.25,Pueblo,0.10,0.14,1,0.20,West,Colorado
+0.27,0.17,0.30,Prowers,0.10,0.13,1,0.22,West,Colorado
+0.23,0.15,0.31,Rio Grande,0.10,0.13,1,0.20,West,Colorado
+0.21,0.16,0.31,Custer,0.11,0.15,1,0.19,West,Colorado
+0.27,0.17,0.35,Otero,0.11,0.15,1,0.21,West,Colorado
+0.21,0.15,0.26,Las Animas,0.11,0.13,1,0.22,West,Colorado
+0.22,0.15,0.30,Conejos,0.12,0.11,1,0.21,West,Colorado
+0.21,0.14,0.38,Huerfano,0.12,0.15,1,0.22,West,Colorado
+0.21,0.18,0.40,Saguache,0.12,0.15,1,0.19,West,Colorado
+0.21,0.16,0.40,Costilla,0.14,0.11,1,0.26,West,Colorado
+0.22,0.13,0.17,Maui,0.09,0.13,1,0.19,West,Hawaii
+0.22,0.13,0.13,Honolulu,0.09,0.13,1,0.19,West,Hawaii
+0.21,0.13,0.15,Kauai,0.09,0.13,1,0.19,West,Hawaii
+0.24,0.18,0.25,Hawaii,0.10,0.15,1,0.20,West,Hawaii
+0.24,0.14,0.00,Kalawao,0.16,0.22,1,0.23,West,Hawaii
+0.25,0.20,0.21,Madison,0.05,0.21,1,0.16,West,Idaho
+0.27,0.16,0.16,Latah,0.06,0.18,1,0.17,West,Idaho
+0.25,0.15,0.13,Ada,0.07,0.15,1,0.16,West,Idaho
+0.27,0.16,0.18,Teton,0.07,0.12,1,0.16,West,Idaho
+0.31,0.14,0.20,Bonneville,0.08,0.13,1,0.20,West,Idaho
+0.30,0.16,0.15,Jefferson,0.08,0.13,1,0.23,West,Idaho
+0.30,0.18,0.22,Elmore,0.08,0.16,1,0.27,West,Idaho
+0.28,0.16,0.15,Franklin,0.08,0.13,1,0.23,West,Idaho
+0.19,0.14,0.16,Blaine,0.08,0.12,1,0.14,West,Idaho
+0.28,0.15,0.15,Caribou,0.08,0.12,1,0.25,West,Idaho
+0.28,0.16,0.20,Bannock,0.08,0.16,1,0.20,West,Idaho
+0.25,0.17,0.18,Kootenai,0.08,0.16,1,0.18,West,Idaho
+0.27,0.19,0.19,Twin Falls,0.08,0.15,1,0.23,West,Idaho
+0.27,0.16,0.24,Fremont,0.09,0.13,1,0.20,West,Idaho
+0.32,0.20,0.23,Jerome,0.09,0.13,1,0.23,West,Idaho
+0.32,0.18,0.24,Canyon,0.09,0.15,1,0.22,West,Idaho
+0.31,0.17,0.21,Cassia,0.09,0.13,1,0.24,West,Idaho
+0.35,0.18,0.20,Bingham,0.09,0.13,1,0.26,West,Idaho
+0.24,0.14,0.20,Valley,0.09,0.16,1,0.21,West,Idaho
+0.29,0.16,0.20,Bear Lake,0.09,0.14,1,0.25,West,Idaho
+0.32,0.16,0.18,Nez Perce,0.09,0.15,1,0.24,West,Idaho
+0.32,0.18,0.21,Payette,0.09,0.15,1,0.24,West,Idaho
+0.36,0.15,0.19,Oneida,0.09,0.14,1,0.19,West,Idaho
+0.26,0.17,0.25,Bonner,0.10,0.17,1,0.22,West,Idaho
+0.32,0.19,0.22,Lincoln,0.10,0.14,1,0.23,West,Idaho
+0.29,0.16,0.19,Butte,0.10,0.16,1,0.24,West,Idaho
+0.29,0.16,0.24,Clearwater,0.10,0.18,1,0.21,West,Idaho
+0.35,0.16,0.23,Minidoka,0.10,0.11,1,0.22,West,Idaho
+0.27,0.17,0.23,Idaho,0.10,0.17,1,0.24,West,Idaho
+0.27,0.17,0.25,Gem,0.10,0.16,1,0.23,West,Idaho
+0.27,0.17,0.25,Boundary,0.10,0.18,1,0.25,West,Idaho
+0.31,0.18,0.27,Shoshone,0.10,0.20,1,0.28,West,Idaho
+0.27,0.16,0.21,Custer,0.10,0.16,1,0.23,West,Idaho
+0.32,0.19,0.25,Gooding,0.10,0.13,1,0.24,West,Idaho
+0.29,0.17,0.24,Benewah,0.10,0.18,1,0.25,West,Idaho
+0.31,0.20,0.23,Power,0.11,0.12,1,0.24,West,Idaho
+0.24,0.16,0.25,Boise,0.11,0.16,1,0.25,West,Idaho
+0.29,0.17,0.26,Lewis,0.11,0.16,1,0.21,West,Idaho
+0.32,0.21,0.30,Owyhee,0.11,0.15,1,0.29,West,Idaho
+0.24,0.19,0.27,Lemhi,0.11,0.20,1,0.22,West,Idaho
+0.32,0.18,0.25,Washington,0.11,0.14,1,0.29,West,Idaho
+0.26,0.21,0.21,Camas,0.12,0.15,1,0.22,West,Idaho
+0.29,0.17,0.27,Adams,0.12,0.19,1,0.22,West,Idaho
+0.33,0.23,0.20,Clark,0.13,0.11,1,0.25,West,Idaho
+0.16,0.15,0.12,Gallatin,0.06,0.13,1,0.15,West,Montana
+0.21,0.17,0.16,Missoula,0.07,0.15,1,0.17,West,Montana
+0.27,0.15,0.10,Fallon,0.08,0.10,1,0.32,West,Montana
+0.29,0.18,0.11,Richland,0.08,0.11,1,0.27,West,Montana
+0.24,0.16,0.15,Lewis and Clark,0.08,0.12,1,0.18,West,Montana
+0.25,0.19,0.15,Yellowstone,0.08,0.12,1,0.24,West,Montana
+0.28,0.17,0.14,Dawson,0.08,0.12,1,0.27,West,Montana
+0.29,0.18,0.19,Cascade,0.09,0.14,1,0.26,West,Montana
+0.30,0.17,0.16,Custer,0.09,0.12,1,0.28,West,Montana
+0.27,0.20,0.21,Toole,0.09,0.14,1,0.27,West,Montana
+0.27,0.17,0.23,Beaverhead,0.09,0.13,1,0.23,West,Montana
+0.22,0.17,0.19,Flathead,0.09,0.14,1,0.18,West,Montana
+0.22,0.16,0.12,Stillwater,0.09,0.10,1,0.27,West,Montana
+0.24,0.16,0.14,Jefferson,0.09,0.10,1,0.22,West,Montana
+0.30,0.16,0.12,Sheridan,0.09,0.11,1,0.32,West,Montana
+0.26,0.17,0.21,Liberty,0.09,0.15,1,0.28,West,Montana
+0.23,0.15,0.19,Park,0.09,0.13,1,0.19,West,Montana
+0.25,0.21,0.23,Silver Bow,0.09,0.15,1,0.23,West,Montana
+0.26,0.14,0.13,Daniels,0.09,0.11,1,0.25,West,Montana
+0.26,0.15,0.18,Garfield,0.09,0.11,1,0.29,West,Montana
+0.28,0.18,0.23,Powell,0.09,0.14,1,0.26,West,Montana
+0.24,0.16,0.21,McCone,0.09,0.10,1,0.32,West,Montana
+0.26,0.15,0.18,Fergus,0.10,0.13,1,0.23,West,Montana
+0.34,0.16,0.16,Broadwater,0.10,0.13,1,0.27,West,Montana
+0.29,0.17,0.18,Valley,0.10,0.13,1,0.28,West,Montana
+0.24,0.17,0.18,Carbon,0.10,0.12,1,0.23,West,Montana
+0.26,0.19,0.19,Teton,0.10,0.12,1,0.26,West,Montana
+0.26,0.16,0.18,Judith Basin,0.10,0.12,1,0.26,West,Montana
+0.23,0.15,0.14,Sweet Grass,0.10,0.11,1,0.24,West,Montana
+0.27,0.17,0.16,Powder River,0.10,0.11,1,0.33,West,Montana
+0.21,0.16,0.17,Madison,0.10,0.11,1,0.26,West,Montana
+0.26,0.16,0.22,Carter,0.10,0.11,1,0.26,West,Montana
+0.28,0.17,0.18,Wibaux,0.10,0.12,1,0.30,West,Montana
+0.30,0.20,0.27,Pondera,0.10,0.14,1,0.27,West,Montana
+0.27,0.20,0.23,Deer Lodge,0.10,0.15,1,0.24,West,Montana
+0.21,0.17,0.27,Ravalli,0.10,0.14,1,0.19,West,Montana
+0.25,0.18,0.27,Petroleum,0.10,0.13,1,0.25,West,Montana
+0.34,0.23,0.21,Hill,0.10,0.15,1,0.29,West,Montana
+0.27,0.18,0.29,Musselshell,0.11,0.12,1,0.32,West,Montana
+0.26,0.21,0.29,Chouteau,0.11,0.15,1,0.28,West,Montana
+0.26,0.18,0.20,Phillips,0.11,0.13,1,0.32,West,Montana
+0.34,0.23,0.27,Rosebud,0.11,0.14,1,0.25,West,Montana
+0.26,0.15,0.24,Granite,0.11,0.15,1,0.27,West,Montana
+0.26,0.17,0.28,Wheatland,0.11,0.13,1,0.30,West,Montana
+0.27,0.17,0.30,Lincoln,0.11,0.18,1,0.24,West,Montana
+0.27,0.18,0.20,Treasure,0.11,0.11,1,0.29,West,Montana
+0.27,0.18,0.36,Golden Valley,0.12,0.13,1,0.28,West,Montana
+0.27,0.16,0.19,Prairie,0.12,0.13,1,0.28,West,Montana
+0.24,0.19,0.30,Meagher,0.12,0.13,1,0.27,West,Montana
+0.27,0.20,0.30,Lake,0.12,0.16,1,0.24,West,Montana
+0.26,0.17,0.28,Mineral,0.12,0.17,1,0.24,West,Montana
+0.35,0.29,0.31,Roosevelt,0.12,0.17,1,0.31,West,Montana
+0.28,0.20,0.30,Sanders,0.13,0.18,1,0.25,West,Montana
+0.34,0.27,0.32,Blaine,0.13,0.17,1,0.30,West,Montana
+0.37,0.28,0.36,Big Horn,0.13,0.20,1,0.29,West,Montana
+0.34,0.31,0.36,Glacier,0.14,0.21,1,0.30,West,Montana
+0.32,0.18,0.15,Elko,0.08,0.10,1,0.21,West,Nevada
+0.22,0.16,0.19,Washoe,0.09,0.15,1,0.16,West,Nevada
+0.25,0.17,0.15,Humboldt,0.09,0.10,1,0.21,West,Nevada
+0.25,0.17,0.17,White Pine,0.09,0.13,1,0.26,West,Nevada
+0.29,0.17,0.15,Lander,0.09,0.08,1,0.22,West,Nevada
+0.26,0.17,0.13,Eureka,0.10,0.14,1,0.23,West,Nevada
+0.32,0.20,0.21,Pershing,0.10,0.15,1,0.23,West,Nevada
+0.25,0.18,0.20,Lincoln,0.10,0.19,1,0.22,West,Nevada
+0.29,0.18,0.18,Churchill,0.10,0.15,1,0.24,West,Nevada
+0.22,0.15,0.17,Douglas,0.10,0.14,1,0.16,West,Nevada
+0.24,0.17,0.27,Carson City,0.11,0.15,1,0.17,West,Nevada
+0.26,0.18,0.23,Clark,0.11,0.15,1,0.22,West,Nevada
+0.30,0.17,0.21,Lyon,0.11,0.17,1,0.28,West,Nevada
+0.26,0.14,0.14,Storey,0.11,0.13,1,0.24,West,Nevada
+0.29,0.18,0.28,Nye,0.14,0.17,1,0.29,West,Nevada
+0.26,0.19,0.32,Mineral,0.14,0.18,1,0.27,West,Nevada
+0.27,0.22,0.18,Esmeralda,0.15,0.15,1,0.24,West,Nevada
+0.20,0.11,0.05,Los Alamos,0.08,0.13,1,0.15,West,New Mexico
+0.30,0.20,0.27,Curry,0.09,0.17,1,0.28,West,New Mexico
+0.28,0.20,0.29,Roosevelt,0.09,0.18,1,0.25,West,New Mexico
+0.35,0.18,0.21,Lea,0.09,0.13,1,0.33,West,New Mexico
+0.14,0.14,0.21,Santa Fe,0.10,0.14,1,0.12,West,New Mexico
+0.20,0.17,0.25,Bernalillo,0.10,0.16,1,0.17,West,New Mexico
+0.24,0.15,0.16,Sandoval,0.10,0.15,1,0.19,West,New Mexico
+0.30,0.18,0.19,Eddy,0.10,0.13,1,0.24,West,New Mexico
+0.26,0.20,0.30,Otero,0.10,0.18,1,0.23,West,New Mexico
+0.30,0.18,0.32,Chaves,0.11,0.15,1,0.26,West,New Mexico
+0.30,0.21,0.29,San Juan,0.11,0.19,1,0.24,West,New Mexico
+0.28,0.17,0.24,Union,0.11,0.15,1,0.27,West,New Mexico
+0.23,0.17,0.39,Dona Ana,0.12,0.15,1,0.20,West,New Mexico
+0.27,0.19,0.30,Valencia,0.12,0.14,1,0.24,West,New Mexico
+0.22,0.18,0.33,Lincoln,0.12,0.15,1,0.25,West,New Mexico
+0.21,0.15,0.28,Grant,0.12,0.15,1,0.22,West,New Mexico
+0.26,0.20,0.37,Torrance,0.13,0.18,1,0.25,West,New Mexico
+0.26,0.17,0.34,Hidalgo,0.13,0.15,1,0.27,West,New Mexico
+0.24,0.16,0.31,Colfax,0.13,0.15,1,0.25,West,New Mexico
+0.32,0.18,0.36,Quay,0.13,0.16,1,0.28,West,New Mexico
+0.27,0.16,0.33,Guadalupe,0.14,0.11,1,0.23,West,New Mexico
+0.21,0.16,0.40,Sierra,0.14,0.18,1,0.24,West,New Mexico
+0.24,0.17,0.32,De Baca,0.14,0.15,1,0.29,West,New Mexico
+0.26,0.21,0.43,Socorro,0.14,0.15,1,0.23,West,New Mexico
+0.17,0.17,0.30,Taos,0.14,0.16,1,0.16,West,New Mexico
+0.33,0.26,0.38,Cibola,0.14,0.18,1,0.26,West,New Mexico
+0.22,0.16,0.43,Catron,0.14,0.17,1,0.24,West,New Mexico
+0.24,0.18,0.31,Rio Arriba,0.14,0.12,1,0.22,West,New Mexico
+0.33,0.21,0.43,McKinley,0.14,0.24,1,0.23,West,New Mexico
+0.23,0.15,0.19,Harding,0.15,0.14,1,0.30,West,New Mexico
+0.23,0.19,0.38,Luna,0.15,0.21,1,0.25,West,New Mexico
+0.22,0.19,0.34,San Miguel,0.15,0.13,1,0.20,West,New Mexico
+0.24,0.20,0.35,Mora,0.19,0.13,1,0.26,West,New Mexico
+0.24,0.12,0.16,Washington,0.08,0.12,1,0.14,West,Oregon
+0.20,0.15,0.13,Benton,0.08,0.16,1,0.13,West,Oregon
+0.21,0.17,0.23,Multnomah,0.08,0.16,1,0.13,West,Oregon
+0.26,0.13,0.13,Clackamas,0.09,0.13,1,0.15,West,Oregon
+0.27,0.15,0.20,Lane,0.09,0.17,1,0.16,West,Oregon
+0.23,0.15,0.18,Deschutes,0.09,0.16,1,0.15,West,Oregon
+0.34,0.16,0.17,Polk,0.09,0.14,1,0.18,West,Oregon
+0.30,0.16,0.21,Yamhill,0.10,0.13,1,0.18,West,Oregon
+0.25,0.15,0.20,Hood River,0.10,0.10,1,0.17,West,Oregon
+0.32,0.16,0.17,Columbia,0.10,0.14,1,0.19,West,Oregon
+0.33,0.15,0.25,Marion,0.10,0.14,1,0.16,West,Oregon
+0.32,0.17,0.25,Umatilla,0.10,0.13,1,0.21,West,Oregon
+0.27,0.17,0.22,Union,0.10,0.17,1,0.19,West,Oregon
+0.29,0.17,0.23,Clatsop,0.10,0.15,1,0.17,West,Oregon
+0.25,0.18,0.26,Jackson,0.10,0.16,1,0.19,West,Oregon
+0.32,0.17,0.27,Linn,0.10,0.16,1,0.20,West,Oregon
+0.27,0.13,0.20,Gilliam,0.11,0.14,1,0.19,West,Oregon
+0.27,0.16,0.22,Morrow,0.11,0.11,1,0.20,West,Oregon
+0.27,0.16,0.23,Wasco,0.11,0.14,1,0.18,West,Oregon
+0.29,0.18,0.29,Klamath,0.11,0.17,1,0.20,West,Oregon
+0.31,0.18,0.29,Douglas,0.11,0.17,1,0.19,West,Oregon
+0.28,0.15,0.23,Sherman,0.11,0.16,1,0.21,West,Oregon
+0.25,0.14,0.26,Wallowa,0.11,0.16,1,0.20,West,Oregon
+0.29,0.19,0.38,Malheur,0.12,0.15,1,0.20,West,Oregon
+0.26,0.16,0.29,Baker,0.12,0.17,1,0.23,West,Oregon
+0.26,0.17,0.33,Josephine,0.12,0.18,1,0.20,West,Oregon
+0.27,0.16,0.26,Tillamook,0.12,0.14,1,0.19,West,Oregon
+0.32,0.17,0.28,Lake,0.12,0.18,1,0.19,West,Oregon
+0.28,0.17,0.30,Lincoln,0.12,0.15,1,0.18,West,Oregon
+0.31,0.18,0.32,Jefferson,0.12,0.16,1,0.19,West,Oregon
+0.28,0.17,0.30,Coos,0.12,0.17,1,0.20,West,Oregon
+0.30,0.17,0.32,Harney,0.12,0.19,1,0.20,West,Oregon
+0.26,0.15,0.27,Grant,0.12,0.18,1,0.19,West,Oregon
+0.27,0.17,0.27,Crook,0.12,0.18,1,0.19,West,Oregon
+0.29,0.15,0.25,Curry,0.12,0.17,1,0.19,West,Oregon
+0.27,0.14,0.40,Wheeler,0.13,0.15,1,0.21,West,Oregon
+0.23,0.07,0.11,Utah,0.06,0.15,1,0.15,West,Utah
+0.22,0.08,0.13,Cache,0.06,0.16,1,0.16,West,Utah
+0.14,0.07,0.08,Summit,0.06,0.12,1,0.12,West,Utah
+0.25,0.08,0.08,Davis,0.07,0.13,1,0.16,West,Utah
+0.23,0.08,0.10,Wasatch,0.07,0.13,1,0.15,West,Utah
+0.23,0.09,0.05,Morgan,0.07,0.11,1,0.18,West,Utah
+0.28,0.11,0.11,Uintah,0.07,0.14,1,0.24,West,Utah
+0.26,0.11,0.12,Duchesne,0.07,0.13,1,0.24,West,Utah
+0.31,0.11,0.11,Tooele,0.07,0.13,1,0.21,West,Utah
+0.25,0.10,0.15,Salt Lake,0.07,0.14,1,0.17,West,Utah
+0.23,0.11,0.26,Iron,0.08,0.18,1,0.19,West,Utah
+0.25,0.11,0.20,Sanpete,0.08,0.15,1,0.23,West,Utah
+0.33,0.09,0.15,Box Elder,0.08,0.13,1,0.21,West,Utah
+0.28,0.10,0.15,Juab,0.08,0.15,1,0.22,West,Utah
+0.28,0.10,0.13,Beaver,0.08,0.14,1,0.30,West,Utah
+0.27,0.13,0.15,Weber,0.08,0.14,1,0.18,West,Utah
+0.26,0.09,0.11,Daggett,0.09,0.15,1,0.24,West,Utah
+0.27,0.11,0.17,Emery,0.09,0.14,1,0.26,West,Utah
+0.29,0.09,0.18,Millard,0.09,0.14,1,0.27,West,Utah
+0.31,0.10,0.17,Sevier,0.09,0.16,1,0.25,West,Utah
+0.23,0.08,0.18,Washington,0.09,0.16,1,0.18,West,Utah
+0.27,0.10,0.14,Rich,0.09,0.13,1,0.20,West,Utah
+0.29,0.13,0.19,Carbon,0.09,0.16,1,0.24,West,Utah
+0.23,0.12,0.22,Grand,0.09,0.17,1,0.17,West,Utah
+0.23,0.10,0.23,Wayne,0.09,0.19,1,0.22,West,Utah
+0.23,0.09,0.17,Kane,0.09,0.14,1,0.23,West,Utah
+0.29,0.11,0.18,Garfield,0.10,0.17,1,0.25,West,Utah
+0.25,0.11,0.34,Piute,0.12,0.16,1,0.21,West,Utah
+0.26,0.17,0.31,San Juan,0.13,0.20,1,0.26,West,Utah
+0.24,0.18,0.17,Whitman,0.06,0.20,1,0.16,West,Washington
+0.22,0.10,0.14,King,0.07,0.13,1,0.15,West,Washington
+0.29,0.14,0.16,Thurston,0.08,0.14,1,0.17,West,Washington
+0.28,0.16,0.19,Kittitas,0.08,0.17,1,0.16,West,Washington
+0.29,0.13,0.13,Snohomish,0.08,0.12,1,0.19,West,Washington
+0.23,0.14,0.18,Whatcom,0.08,0.15,1,0.16,West,Washington
+0.31,0.17,0.18,Pierce,0.08,0.15,1,0.20,West,Washington
+0.30,0.13,0.14,Kitsap,0.09,0.13,1,0.19,West,Washington
+0.30,0.14,0.14,Clark,0.09,0.15,1,0.19,West,Washington
+0.28,0.16,0.21,Spokane,0.09,0.16,1,0.19,West,Washington
+0.31,0.14,0.21,Benton,0.09,0.13,1,0.18,West,Washington
+0.32,0.15,0.25,Franklin,0.09,0.10,1,0.19,West,Washington
+0.26,0.14,0.15,Island,0.09,0.14,1,0.18,West,Washington
+0.26,0.14,0.21,Walla Walla,0.10,0.14,1,0.20,West,Washington
+0.30,0.15,0.20,Skamania,0.10,0.15,1,0.23,West,Washington
+0.28,0.15,0.23,Skagit,0.10,0.13,1,0.19,West,Washington
+0.26,0.14,0.20,Chelan,0.10,0.12,1,0.17,West,Washington
+0.35,0.16,0.21,Grant,0.10,0.13,1,0.29,West,Washington
+0.29,0.14,0.24,Douglas,0.10,0.11,1,0.20,West,Washington
+0.32,0.14,0.24,Asotin,0.10,0.15,1,0.24,West,Washington
+0.32,0.17,0.27,Cowlitz,0.10,0.17,1,0.22,West,Washington
+0.33,0.15,0.25,Lewis,0.10,0.16,1,0.22,West,Washington
+0.33,0.16,0.24,Mason,0.11,0.15,1,0.24,West,Washington
+0.37,0.18,0.29,Grays Harbor,0.11,0.17,1,0.28,West,Washington
+0.33,0.13,0.18,Lincoln,0.11,0.14,1,0.27,West,Washington
+0.26,0.15,0.23,Klickitat,0.11,0.15,1,0.22,West,Washington
+0.27,0.14,0.26,Clallam,0.11,0.16,1,0.20,West,Washington
+0.18,0.12,0.20,San Juan,0.11,0.13,1,0.14,West,Washington
+0.33,0.16,0.27,Adams,0.11,0.09,1,0.25,West,Washington
+0.32,0.14,0.21,Garfield,0.11,0.14,1,0.30,West,Washington
+0.29,0.17,0.30,Yakima,0.11,0.12,1,0.24,West,Washington
+0.30,0.17,0.28,Stevens,0.11,0.16,1,0.23,West,Washington
+0.23,0.13,0.25,Jefferson,0.12,0.15,1,0.15,West,Washington
+0.32,0.15,0.26,Columbia,0.12,0.16,1,0.25,West,Washington
+0.27,0.16,0.33,Pend Oreille,0.12,0.18,1,0.21,West,Washington
+0.35,0.15,0.29,Pacific,0.13,0.16,1,0.27,West,Washington
+0.29,0.18,0.32,Okanogan,0.13,0.15,1,0.26,West,Washington
+0.33,0.14,0.27,Wahkiakum,0.13,0.18,1,0.24,West,Washington
+0.27,0.19,0.29,Ferry,0.13,0.18,1,0.20,West,Washington
+0.34,0.19,0.09,Campbell,0.06,0.10,1,0.25,West,Wyoming
+0.13,0.15,0.10,Teton,0.07,0.12,1,0.11,West,Wyoming
+0.21,0.19,0.15,Albany,0.07,0.17,1,0.17,West,Wyoming
+0.28,0.20,0.14,Natrona,0.07,0.12,1,0.23,West,Wyoming
+0.21,0.15,0.08,Sublette,0.07,0.10,1,0.19,West,Wyoming
+0.29,0.19,0.12,Sweetwater,0.08,0.11,1,0.26,West,Wyoming
+0.28,0.17,0.13,Converse,0.08,0.11,1,0.28,West,Wyoming
+0.28,0.15,0.11,Crook,0.08,0.12,1,0.29,West,Wyoming
+0.25,0.16,0.16,Park,0.08,0.13,1,0.23,West,Wyoming
+0.30,0.18,0.13,Uinta,0.08,0.13,1,0.25,West,Wyoming
+0.28,0.20,0.14,Laramie,0.09,0.12,1,0.23,West,Wyoming
+0.24,0.14,0.12,Lincoln,0.09,0.12,1,0.23,West,Wyoming
+0.27,0.18,0.14,Carbon,0.09,0.11,1,0.28,West,Wyoming
+0.25,0.16,0.13,Sheridan,0.09,0.13,1,0.22,West,Wyoming
+0.23,0.15,0.12,Johnson,0.09,0.13,1,0.24,West,Wyoming
+0.29,0.18,0.18,Weston,0.09,0.13,1,0.25,West,Wyoming
+0.27,0.18,0.18,Niobrara,0.10,0.15,1,0.27,West,Wyoming
+0.28,0.16,0.15,Big Horn,0.10,0.12,1,0.23,West,Wyoming
+0.26,0.19,0.20,Fremont,0.10,0.14,1,0.25,West,Wyoming
+0.28,0.18,0.19,Goshen,0.10,0.14,1,0.27,West,Wyoming
+0.27,0.17,0.19,Platte,0.10,0.13,1,0.27,West,Wyoming
+0.25,0.16,0.16,Washakie,0.11,0.12,1,0.22,West,Wyoming
+0.25,0.16,0.17,Hot Springs,0.11,0.14,1,0.26,West,Wyoming

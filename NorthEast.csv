@@ -1,0 +1,509 @@
+AdultObesity,Adult Smokers (% of pop),ChildrenInPoverty,County,Diabetic (% of pop),FoodInsecure,Number of Records,Physically Inactive (% of pop),Region,State
+0.21,0.14,0.12,Fairfield,0.08,0.11,1,0.20,Northeast,Connecticut
+0.27,0.13,0.18,Hartford,0.09,0.13,1,0.23,Northeast,Connecticut
+0.23,0.13,0.09,Litchfield,0.08,0.11,1,0.21,Northeast,Connecticut
+0.24,0.13,0.09,Middlesex,0.08,0.11,1,0.21,Northeast,Connecticut
+0.26,0.14,0.18,New Haven,0.09,0.14,1,0.23,Northeast,Connecticut
+0.27,0.14,0.17,New London,0.08,0.13,1,0.22,Northeast,Connecticut
+0.24,0.14,0.07,Tolland,0.07,0.11,1,0.18,Northeast,Connecticut
+0.29,0.15,0.16,Windham,0.08,0.13,1,0.24,Northeast,Connecticut
+0.33,0.18,0.21,Kent,0.12,0.13,1,0.28,Northeast,Delaware
+0.27,0.17,0.17,New Castle,0.10,0.12,1,0.23,Northeast,Delaware
+0.31,0.17,0.24,Sussex,0.13,0.11,1,0.27,Northeast,Delaware
+0.22,0.16,0.29,District of Columbia,0.08,0.15,1,0.17,Northeast,District of Columbia
+0.30,0.21,0.29,Adams,0.11,0.14,1,0.31,Northeast,Indiana
+0.29,0.20,0.22,Allen,0.11,0.15,1,0.24,Northeast,Indiana
+0.32,0.19,0.16,Bartholomew,0.10,0.13,1,0.27,Northeast,Indiana
+0.33,0.21,0.18,Benton,0.11,0.13,1,0.33,Northeast,Indiana
+0.36,0.20,0.24,Blackford,0.12,0.16,1,0.31,Northeast,Indiana
+0.28,0.17,0.08,Boone,0.09,0.12,1,0.25,Northeast,Indiana
+0.31,0.20,0.21,Brown,0.12,0.13,1,0.29,Northeast,Indiana
+0.29,0.20,0.16,Carroll,0.11,0.13,1,0.33,Northeast,Indiana
+0.34,0.22,0.21,Cass,0.11,0.13,1,0.30,Northeast,Indiana
+0.31,0.20,0.16,Clark,0.10,0.14,1,0.34,Northeast,Indiana
+0.33,0.20,0.21,Clay,0.10,0.15,1,0.27,Northeast,Indiana
+0.30,0.20,0.20,Clinton,0.11,0.13,1,0.32,Northeast,Indiana
+0.35,0.22,0.30,Crawford,0.11,0.16,1,0.32,Northeast,Indiana
+0.33,0.21,0.22,Daviess,0.10,0.13,1,0.32,Northeast,Indiana
+0.30,0.19,0.17,Dearborn,0.10,0.13,1,0.31,Northeast,Indiana
+0.30,0.21,0.19,Decatur,0.11,0.14,1,0.32,Northeast,Indiana
+0.31,0.20,0.15,DeKalb,0.10,0.13,1,0.28,Northeast,Indiana
+0.32,0.23,0.26,Delaware,0.10,0.18,1,0.31,Northeast,Indiana
+0.28,0.17,0.10,Dubois,0.10,0.11,1,0.24,Northeast,Indiana
+0.33,0.20,0.20,Elkhart,0.11,0.14,1,0.29,Northeast,Indiana
+0.32,0.23,0.23,Fayette,0.12,0.18,1,0.35,Northeast,Indiana
+0.31,0.20,0.17,Floyd,0.10,0.14,1,0.32,Northeast,Indiana
+0.31,0.19,0.20,Fountain,0.11,0.15,1,0.31,Northeast,Indiana
+0.26,0.21,0.15,Franklin,0.10,0.14,1,0.27,Northeast,Indiana
+0.37,0.21,0.22,Fulton,0.11,0.15,1,0.25,Northeast,Indiana
+0.32,0.19,0.17,Gibson,0.10,0.13,1,0.35,Northeast,Indiana
+0.35,0.23,0.31,Grant,0.12,0.17,1,0.30,Northeast,Indiana
+0.32,0.20,0.22,Greene,0.11,0.15,1,0.30,Northeast,Indiana
+0.25,0.13,0.06,Hamilton,0.08,0.10,1,0.19,Northeast,Indiana
+0.35,0.18,0.09,Hancock,0.10,0.12,1,0.29,Northeast,Indiana
+0.35,0.20,0.16,Harrison,0.10,0.13,1,0.32,Northeast,Indiana
+0.30,0.16,0.08,Hendricks,0.09,0.11,1,0.29,Northeast,Indiana
+0.32,0.22,0.22,Henry,0.11,0.16,1,0.30,Northeast,Indiana
+0.36,0.22,0.24,Howard,0.12,0.16,1,0.30,Northeast,Indiana
+0.32,0.22,0.17,Huntington,0.10,0.14,1,0.29,Northeast,Indiana
+0.39,0.21,0.20,Jackson,0.10,0.13,1,0.30,Northeast,Indiana
+0.29,0.18,0.14,Jasper,0.10,0.12,1,0.29,Northeast,Indiana
+0.35,0.20,0.35,Jay,0.11,0.14,1,0.35,Northeast,Indiana
+0.35,0.22,0.25,Jefferson,0.11,0.14,1,0.29,Northeast,Indiana
+0.33,0.21,0.22,Jennings,0.10,0.15,1,0.32,Northeast,Indiana
+0.32,0.19,0.13,Johnson,0.09,0.13,1,0.25,Northeast,Indiana
+0.32,0.20,0.24,Knox,0.10,0.15,1,0.34,Northeast,Indiana
+0.30,0.19,0.17,Kosciusko,0.10,0.12,1,0.23,Northeast,Indiana
+0.34,0.22,0.17,LaGrange,0.10,0.13,1,0.27,Northeast,Indiana
+0.36,0.24,0.27,Lake,0.12,0.16,1,0.30,Northeast,Indiana
+0.34,0.20,0.29,LaPorte,0.11,0.16,1,0.28,Northeast,Indiana
+0.38,0.23,0.19,Lawrence,0.11,0.15,1,0.30,Northeast,Indiana
+0.34,0.22,0.23,Madison,0.11,0.17,1,0.28,Northeast,Indiana
+0.32,0.22,0.31,Marion,0.11,0.19,1,0.27,Northeast,Indiana
+0.29,0.22,0.16,Marshall,0.11,0.13,1,0.27,Northeast,Indiana
+0.35,0.21,0.19,Martin,0.11,0.13,1,0.34,Northeast,Indiana
+0.35,0.23,0.23,Miami,0.11,0.16,1,0.31,Northeast,Indiana
+0.21,0.20,0.19,Monroe,0.08,0.18,1,0.21,Northeast,Indiana
+0.34,0.21,0.19,Montgomery,0.10,0.14,1,0.27,Northeast,Indiana
+0.34,0.19,0.18,Morgan,0.10,0.13,1,0.30,Northeast,Indiana
+0.35,0.22,0.18,Newton,0.11,0.13,1,0.33,Northeast,Indiana
+0.34,0.20,0.17,Noble,0.10,0.13,1,0.27,Northeast,Indiana
+0.32,0.19,0.17,Ohio,0.11,0.13,1,0.28,Northeast,Indiana
+0.32,0.21,0.28,Orange,0.12,0.16,1,0.32,Northeast,Indiana
+0.32,0.22,0.24,Owen,0.11,0.15,1,0.30,Northeast,Indiana
+0.32,0.22,0.26,Parke,0.11,0.14,1,0.33,Northeast,Indiana
+0.30,0.20,0.20,Perry,0.10,0.13,1,0.26,Northeast,Indiana
+0.34,0.19,0.17,Pike,0.11,0.13,1,0.32,Northeast,Indiana
+0.31,0.19,0.13,Porter,0.10,0.12,1,0.27,Northeast,Indiana
+0.32,0.18,0.14,Posey,0.10,0.12,1,0.29,Northeast,Indiana
+0.32,0.21,0.22,Pulaski,0.11,0.13,1,0.30,Northeast,Indiana
+0.32,0.20,0.18,Putnam,0.09,0.13,1,0.31,Northeast,Indiana
+0.34,0.20,0.24,Randolph,0.12,0.15,1,0.32,Northeast,Indiana
+0.32,0.20,0.16,Ripley,0.10,0.14,1,0.28,Northeast,Indiana
+0.33,0.20,0.21,Rush,0.11,0.14,1,0.35,Northeast,Indiana
+0.29,0.23,0.27,Scott,0.11,0.16,1,0.32,Northeast,Indiana
+0.32,0.21,0.17,Shelby,0.10,0.14,1,0.31,Northeast,Indiana
+0.29,0.18,0.13,Spencer,0.10,0.13,1,0.29,Northeast,Indiana
+0.29,0.21,0.27,St. Joseph,0.10,0.16,1,0.25,Northeast,Indiana
+0.36,0.23,0.24,Starke,0.12,0.15,1,0.34,Northeast,Indiana
+0.34,0.20,0.19,Steuben,0.10,0.13,1,0.30,Northeast,Indiana
+0.33,0.22,0.22,Sullivan,0.11,0.17,1,0.35,Northeast,Indiana
+0.31,0.23,0.28,Switzerland,0.12,0.15,1,0.33,Northeast,Indiana
+0.25,0.21,0.20,Tippecanoe,0.08,0.17,1,0.25,Northeast,Indiana
+0.32,0.18,0.13,Tipton,0.10,0.13,1,0.31,Northeast,Indiana
+0.32,0.20,0.22,Union,0.11,0.14,1,0.34,Northeast,Indiana
+0.34,0.20,0.25,Vanderburgh,0.10,0.16,1,0.29,Northeast,Indiana
+0.31,0.20,0.20,Vermillion,0.11,0.16,1,0.31,Northeast,Indiana
+0.33,0.24,0.28,Vigo,0.11,0.18,1,0.30,Northeast,Indiana
+0.31,0.19,0.21,Wabash,0.11,0.14,1,0.36,Northeast,Indiana
+0.27,0.17,0.16,Warren,0.10,0.13,1,0.26,Northeast,Indiana
+0.28,0.17,0.11,Warrick,0.10,0.11,1,0.26,Northeast,Indiana
+0.28,0.21,0.25,Washington,0.10,0.15,1,0.30,Northeast,Indiana
+0.31,0.22,0.26,Wayne,0.12,0.18,1,0.29,Northeast,Indiana
+0.28,0.19,0.16,Wells,0.10,0.13,1,0.31,Northeast,Indiana
+0.34,0.19,0.18,White,0.11,0.12,1,0.28,Northeast,Indiana
+0.32,0.18,0.13,Whitley,0.10,0.12,1,0.24,Northeast,Indiana
+0.32,0.18,0.23,Androscoggin,0.09,0.16,1,0.24,Northeast,Maine
+0.34,0.19,0.28,Aroostook,0.11,0.17,1,0.28,Northeast,Maine
+0.22,0.12,0.14,Cumberland,0.08,0.14,1,0.16,Northeast,Maine
+0.30,0.17,0.23,Franklin,0.10,0.16,1,0.22,Northeast,Maine
+0.24,0.18,0.19,Hancock,0.09,0.16,1,0.19,Northeast,Maine
+0.30,0.21,0.19,Kennebec,0.10,0.15,1,0.21,Northeast,Maine
+0.24,0.14,0.20,Knox,0.09,0.14,1,0.19,Northeast,Maine
+0.24,0.14,0.19,Lincoln,0.10,0.13,1,0.21,Northeast,Maine
+0.32,0.17,0.23,Oxford,0.11,0.16,1,0.23,Northeast,Maine
+0.31,0.17,0.22,Penobscot,0.09,0.17,1,0.25,Northeast,Maine
+0.31,0.19,0.30,Piscataquis,0.11,0.17,1,0.26,Northeast,Maine
+0.26,0.16,0.16,Sagadahoc,0.09,0.13,1,0.20,Northeast,Maine
+0.34,0.21,0.25,Somerset,0.10,0.17,1,0.28,Northeast,Maine
+0.29,0.16,0.22,Waldo,0.10,0.16,1,0.25,Northeast,Maine
+0.31,0.19,0.26,Washington,0.12,0.18,1,0.28,Northeast,Maine
+0.27,0.16,0.14,York,0.09,0.14,1,0.20,Northeast,Maine
+0.28,0.17,0.23,Allegany,0.10,0.14,1,0.29,Northeast,Maryland
+0.28,0.13,0.09,Anne Arundel,0.09,0.09,1,0.23,Northeast,Maryland
+0.28,0.15,0.13,Baltimore,0.10,0.13,1,0.25,Northeast,Maryland
+0.34,0.21,0.32,Baltimore City,0.13,0.23,1,0.29,Northeast,Maryland
+0.30,0.14,0.08,Calvert,0.09,0.08,1,0.23,Northeast,Maryland
+0.34,0.18,0.24,Caroline,0.11,0.13,1,0.31,Northeast,Maryland
+0.28,0.13,0.07,Carroll,0.09,0.08,1,0.22,Northeast,Maryland
+0.32,0.16,0.15,Cecil,0.10,0.11,1,0.26,Northeast,Maryland
+0.35,0.14,0.10,Charles,0.11,0.11,1,0.23,Northeast,Maryland
+0.33,0.17,0.29,Dorchester,0.14,0.17,1,0.31,Northeast,Maryland
+0.28,0.12,0.08,Frederick,0.09,0.08,1,0.20,Northeast,Maryland
+0.23,0.10,0.07,Howard,0.08,0.08,1,0.18,Northeast,Maryland
+0.19,0.08,0.09,Montgomery,0.09,0.08,1,0.18,Northeast,Maryland
+0.28,0.15,0.10,Harford,0.09,0.10,1,0.23,Northeast,Maryland
+0.30,0.15,0.12,St. Mary's,0.09,0.10,1,0.24,Northeast,Maryland
+0.28,0.14,0.11,Queen Anne's,0.10,0.08,1,0.23,Northeast,Maryland
+0.31,0.15,0.20,Garrett,0.10,0.12,1,0.30,Northeast,Maryland
+0.33,0.17,0.20,Washington,0.10,0.13,1,0.27,Northeast,Maryland
+0.35,0.18,0.24,Wicomico,0.11,0.16,1,0.28,Northeast,Maryland
+0.27,0.14,0.21,Kent,0.11,0.13,1,0.26,Northeast,Maryland
+0.28,0.14,0.18,Talbot,0.12,0.11,1,0.22,Northeast,Maryland
+0.40,0.20,0.33,Somerset,0.12,0.19,1,0.31,Northeast,Maryland
+0.33,0.13,0.15,Prince George's,0.12,0.15,1,0.24,Northeast,Maryland
+0.30,0.15,0.21,Worcester,0.13,0.14,1,0.27,Northeast,Maryland
+0.21,0.15,0.13,Hampshire,0.08,0.11,1,0.16,Northeast,Massachusetts
+0.23,0.12,0.10,Middlesex,0.08,0.09,1,0.21,Northeast,Massachusetts
+0.21,0.15,0.08,Nantucket,0.09,0.09,1,0.18,Northeast,Massachusetts
+0.21,0.15,0.32,Suffolk,0.09,0.16,1,0.20,Northeast,Massachusetts
+0.20,0.12,0.07,Norfolk,0.09,0.09,1,0.19,Northeast,Massachusetts
+0.26,0.16,0.15,Worcester,0.09,0.11,1,0.23,Northeast,Massachusetts
+0.24,0.15,0.16,Essex,0.10,0.10,1,0.21,Northeast,Massachusetts
+0.22,0.15,0.17,Franklin,0.10,0.11,1,0.18,Northeast,Massachusetts
+0.26,0.17,0.12,Plymouth,0.10,0.10,1,0.25,Northeast,Massachusetts
+0.20,0.12,0.13,Barnstable,0.10,0.10,1,0.17,Northeast,Massachusetts
+0.23,0.15,0.20,Berkshire,0.10,0.12,1,0.20,Northeast,Massachusetts
+0.22,0.15,0.13,Dukes,0.10,0.10,1,0.20,Northeast,Massachusetts
+0.28,0.19,0.17,Bristol,0.11,0.13,1,0.27,Northeast,Massachusetts
+0.29,0.18,0.26,Hampden,0.11,0.12,1,0.26,Northeast,Massachusetts
+0.26,0.15,0.10,Ottawa,0.08,0.11,1,0.19,Northeast,Michigan
+0.30,0.22,0.22,Isabella,0.08,0.18,1,0.22,Northeast,Michigan
+0.23,0.14,0.14,Washtenaw,0.08,0.15,1,0.16,Northeast,Michigan
+0.29,0.15,0.08,Livingston,0.08,0.11,1,0.19,Northeast,Michigan
+0.29,0.16,0.20,Kent,0.09,0.13,1,0.20,Northeast,Michigan
+0.32,0.16,0.15,Midland,0.09,0.13,1,0.23,Northeast,Michigan
+0.30,0.18,0.24,Ingham,0.09,0.17,1,0.19,Northeast,Michigan
+0.36,0.19,0.19,Ionia,0.09,0.14,1,0.21,Northeast,Michigan
+0.30,0.16,0.20,Kalamazoo,0.09,0.16,1,0.19,Northeast,Michigan
+0.33,0.16,0.11,Clinton,0.09,0.11,1,0.21,Northeast,Michigan
+0.31,0.18,0.19,Houghton,0.09,0.17,1,0.22,Northeast,Michigan
+0.29,0.19,0.17,Marquette,0.09,0.15,1,0.17,Northeast,Michigan
+0.28,0.17,0.14,Grand Traverse,0.09,0.13,1,0.21,Northeast,Michigan
+0.34,0.18,0.15,Monroe,0.09,0.13,1,0.22,Northeast,Michigan
+0.26,0.14,0.12,Oakland,0.09,0.14,1,0.20,Northeast,Michigan
+0.34,0.17,0.15,Barry,0.09,0.12,1,0.22,Northeast,Michigan
+0.33,0.19,0.31,Mecosta,0.10,0.17,1,0.26,Northeast,Michigan
+0.35,0.16,0.14,Eaton,0.10,0.13,1,0.25,Northeast,Michigan
+0.32,0.17,0.15,Allegan,0.10,0.12,1,0.23,Northeast,Michigan
+0.30,0.17,0.16,Lapeer,0.10,0.13,1,0.23,Northeast,Michigan
+0.33,0.20,0.18,Macomb,0.10,0.14,1,0.23,Northeast,Michigan
+0.36,0.18,0.23,Gratiot,0.10,0.15,1,0.31,Northeast,Michigan
+0.32,0.17,0.23,Shiawassee,0.10,0.15,1,0.21,Northeast,Michigan
+0.33,0.16,0.21,Lenawee,0.10,0.13,1,0.25,Northeast,Michigan
+0.36,0.17,0.21,Otsego,0.10,0.15,1,0.24,Northeast,Michigan
+0.32,0.17,0.20,St. Clair,0.10,0.15,1,0.24,Northeast,Michigan
+0.28,0.16,0.16,Emmet,0.10,0.15,1,0.18,Northeast,Michigan
+0.35,0.19,0.23,Branch,0.10,0.14,1,0.26,Northeast,Michigan
+0.34,0.19,0.27,St. Joseph,0.10,0.14,1,0.29,Northeast,Michigan
+0.33,0.18,0.25,Bay,0.10,0.14,1,0.24,Northeast,Michigan
+0.33,0.20,0.24,Jackson,0.10,0.15,1,0.21,Northeast,Michigan
+0.31,0.17,0.24,Tuscola,0.10,0.15,1,0.30,Northeast,Michigan
+0.30,0.17,0.19,Dickinson,0.10,0.13,1,0.20,Northeast,Michigan
+0.34,0.19,0.31,Montcalm,0.10,0.16,1,0.25,Northeast,Michigan
+0.35,0.17,0.22,Cass,0.11,0.13,1,0.24,Northeast,Michigan
+0.34,0.18,0.23,Sanilac,0.11,0.15,1,0.22,Northeast,Michigan
+0.31,0.19,0.29,Wexford,0.11,0.17,1,0.23,Northeast,Michigan
+0.32,0.19,0.26,Hillsdale,0.11,0.15,1,0.25,Northeast,Michigan
+0.28,0.17,0.19,Charlevoix,0.11,0.15,1,0.21,Northeast,Michigan
+0.33,0.19,0.25,Missaukee,0.11,0.16,1,0.26,Northeast,Michigan
+0.34,0.19,0.24,Van Buren,0.11,0.14,1,0.26,Northeast,Michigan
+0.31,0.16,0.19,Benzie,0.11,0.14,1,0.21,Northeast,Michigan
+0.35,0.19,0.24,Calhoun,0.11,0.15,1,0.27,Northeast,Michigan
+0.35,0.19,0.28,Newaygo,0.11,0.14,1,0.23,Northeast,Michigan
+0.38,0.21,0.25,Chippewa,0.11,0.17,1,0.28,Northeast,Michigan
+0.31,0.16,0.21,Huron,0.11,0.14,1,0.28,Northeast,Michigan
+0.37,0.17,0.26,Berrien,0.11,0.16,1,0.28,Northeast,Michigan
+0.34,0.17,0.21,Menominee,0.11,0.13,1,0.29,Northeast,Michigan
+0.29,0.18,0.27,Mason,0.11,0.15,1,0.24,Northeast,Michigan
+0.34,0.19,0.22,Baraga,0.11,0.18,1,0.22,Northeast,Michigan
+0.33,0.19,0.26,Alpena,0.11,0.15,1,0.22,Northeast,Michigan
+0.32,0.19,0.27,Kalkaska,0.11,0.15,1,0.23,Northeast,Michigan
+0.34,0.20,0.31,Osceola,0.11,0.17,1,0.28,Northeast,Michigan
+0.33,0.18,0.21,Delta,0.11,0.15,1,0.24,Northeast,Michigan
+0.37,0.20,0.27,Muskegon,0.11,0.16,1,0.25,Northeast,Michigan
+0.32,0.17,0.28,Crawford,0.11,0.15,1,0.24,Northeast,Michigan
+0.36,0.19,0.33,Genesee,0.11,0.18,1,0.27,Northeast,Michigan
+0.32,0.17,0.23,Alger,0.12,0.15,1,0.24,Northeast,Michigan
+0.34,0.18,0.27,Manistee,0.12,0.15,1,0.21,Northeast,Michigan
+0.23,0.14,0.15,Leelanau,0.12,0.12,1,0.22,Northeast,Michigan
+0.40,0.18,0.25,Saginaw,0.12,0.16,1,0.24,Northeast,Michigan
+0.32,0.16,0.23,Antrim,0.12,0.15,1,0.25,Northeast,Michigan
+0.34,0.18,0.32,Arenac,0.12,0.16,1,0.24,Northeast,Michigan
+0.34,0.19,0.31,Oceana,0.12,0.14,1,0.22,Northeast,Michigan
+0.36,0.20,0.29,Luce,0.12,0.17,1,0.24,Northeast,Michigan
+0.30,0.19,0.31,Gogebic,0.12,0.17,1,0.24,Northeast,Michigan
+0.32,0.18,0.28,Cheboygan,0.12,0.16,1,0.27,Northeast,Michigan
+0.31,0.16,0.26,Iron,0.12,0.14,1,0.20,Northeast,Michigan
+0.34,0.22,0.35,Wayne,0.12,0.21,1,0.26,Northeast,Michigan
+0.36,0.18,0.36,Ogemaw,0.12,0.16,1,0.29,Northeast,Michigan
+0.33,0.16,0.26,Presque Isle,0.13,0.16,1,0.30,Northeast,Michigan
+0.34,0.17,0.31,Iosco,0.13,0.17,1,0.24,Northeast,Michigan
+0.36,0.19,0.31,Gladwin,0.13,0.17,1,0.30,Northeast,Michigan
+0.31,0.20,0.39,Clare,0.13,0.18,1,0.30,Northeast,Michigan
+0.32,0.16,0.21,Keweenaw,0.13,0.16,1,0.23,Northeast,Michigan
+0.32,0.17,0.31,Montmorency,0.13,0.17,1,0.26,Northeast,Michigan
+0.30,0.19,0.27,Schoolcraft,0.13,0.17,1,0.25,Northeast,Michigan
+0.33,0.19,0.32,Oscoda,0.13,0.18,1,0.23,Northeast,Michigan
+0.31,0.16,0.31,Alcona,0.14,0.15,1,0.26,Northeast,Michigan
+0.33,0.19,0.26,Mackinac,0.14,0.16,1,0.24,Northeast,Michigan
+0.34,0.17,0.31,Ontonagon,0.14,0.16,1,0.24,Northeast,Michigan
+0.32,0.19,0.34,Roscommon,0.14,0.17,1,0.25,Northeast,Michigan
+0.33,0.21,0.44,Lake,0.16,0.19,1,0.22,Northeast,Michigan
+0.30,0.17,0.14,Strafford,0.08,0.11,1,0.23,Northeast,New Hampshire
+0.26,0.16,0.08,Rockingham,0.08,0.09,1,0.20,Northeast,New Hampshire
+0.29,0.16,0.13,Merrimack,0.09,0.10,1,0.20,Northeast,New Hampshire
+0.27,0.17,0.16,Grafton,0.09,0.11,1,0.18,Northeast,New Hampshire
+0.27,0.15,0.12,Hillsborough,0.09,0.10,1,0.22,Northeast,New Hampshire
+0.25,0.17,0.15,Cheshire,0.09,0.11,1,0.20,Northeast,New Hampshire
+0.28,0.18,0.16,Sullivan,0.10,0.10,1,0.23,Northeast,New Hampshire
+0.31,0.16,0.15,Belknap,0.10,0.10,1,0.22,Northeast,New Hampshire
+0.23,0.16,0.18,Carroll,0.11,0.10,1,0.19,Northeast,New Hampshire
+0.30,0.19,0.23,Coos,0.12,0.13,1,0.26,Northeast,New Hampshire
+0.26,0.15,0.07,Sussex,0.08,0.09,1,0.25,Northeast,New Jersey
+0.21,0.12,0.05,Hunterdon,0.08,0.07,1,0.18,Northeast,New Jersey
+0.20,0.13,0.06,Morris,0.08,0.08,1,0.20,Northeast,New Jersey
+0.21,0.11,0.07,Somerset,0.09,0.08,1,0.20,Northeast,New Jersey
+0.23,0.14,0.11,Monmouth,0.09,0.10,1,0.20,Northeast,New Jersey
+0.20,0.12,0.09,Bergen,0.09,0.10,1,0.23,Northeast,New Jersey
+0.27,0.15,0.11,Warren,0.09,0.10,1,0.24,Northeast,New Jersey
+0.27,0.14,0.09,Burlington,0.09,0.11,1,0.24,Northeast,New Jersey
+0.29,0.15,0.11,Gloucester,0.09,0.12,1,0.25,Northeast,New Jersey
+0.24,0.16,0.16,Mercer,0.09,0.12,1,0.22,Northeast,New Jersey
+0.24,0.12,0.11,Middlesex,0.09,0.10,1,0.24,Northeast,New Jersey
+0.29,0.15,0.19,Camden,0.10,0.14,1,0.27,Northeast,New Jersey
+0.25,0.15,0.16,Union,0.10,0.12,1,0.25,Northeast,New Jersey
+0.24,0.15,0.27,Hudson,0.10,0.14,1,0.25,Northeast,New Jersey
+0.27,0.17,0.21,Ocean,0.11,0.11,1,0.27,Northeast,New Jersey
+0.27,0.17,0.20,Cape May,0.11,0.14,1,0.23,Northeast,New Jersey
+0.24,0.16,0.27,Passaic,0.11,0.12,1,0.25,Northeast,New Jersey
+0.32,0.19,0.20,Salem,0.11,0.14,1,0.28,Northeast,New Jersey
+0.34,0.19,0.28,Cumberland,0.12,0.15,1,0.28,Northeast,New Jersey
+0.27,0.17,0.23,Essex,0.12,0.18,1,0.27,Northeast,New Jersey
+0.27,0.19,0.24,Atlantic,0.12,0.15,1,0.26,Northeast,New Jersey
+0.24,0.15,0.17,Tompkins,0.07,0.14,1,0.25,Northeast,New York
+0.27,0.16,0.23,Jefferson,0.08,0.15,1,0.27,Northeast,New York
+0.28,0.15,0.19,Cortland,0.08,0.14,1,0.21,Northeast,New York
+0.26,0.14,0.10,Saratoga,0.08,0.10,1,0.23,Northeast,New York
+0.27,0.13,0.07,Putnam,0.08,0.06,1,0.22,Northeast,New York
+0.29,0.15,0.18,Madison,0.08,0.12,1,0.26,Northeast,New York
+0.24,0.15,0.20,Rensselaer,0.08,0.13,1,0.23,Northeast,New York
+0.30,0.14,0.15,Ontario,0.09,0.11,1,0.17,Northeast,New York
+0.30,0.15,0.19,Livingston,0.09,0.12,1,0.24,Northeast,New York
+0.26,0.15,0.17,Wyoming,0.09,0.12,1,0.24,Northeast,New York
+0.30,0.16,0.19,Clinton,0.09,0.14,1,0.27,Northeast,New York
+0.27,0.14,0.19,Albany,0.09,0.13,1,0.22,Northeast,New York
+0.28,0.16,0.24,Onondaga,0.09,0.14,1,0.25,Northeast,New York
+0.23,0.12,0.09,Nassau,0.09,0.07,1,0.26,Northeast,New York
+0.25,0.13,0.13,Dutchess,0.09,0.10,1,0.21,Northeast,New York
+0.30,0.15,0.20,Cayuga,0.09,0.12,1,0.23,Northeast,New York
+0.30,0.15,0.17,Genesee,0.09,0.12,1,0.26,Northeast,New York
+0.26,0.16,0.22,Otsego,0.09,0.12,1,0.21,Northeast,New York
+0.29,0.16,0.28,Oswego,0.09,0.14,1,0.27,Northeast,New York
+0.29,0.18,0.26,St. Lawrence,0.09,0.15,1,0.25,Northeast,New York
+0.15,0.13,0.24,New York,0.09,0.15,1,0.18,Northeast,New York
+0.26,0.15,0.21,Schenectady,0.09,0.13,1,0.23,Northeast,New York
+0.27,0.15,0.23,Lewis,0.09,0.13,1,0.22,Northeast,New York
+0.30,0.15,0.20,Washington,0.09,0.12,1,0.24,Northeast,New York
+0.30,0.16,0.27,Allegany,0.09,0.13,1,0.22,Northeast,New York
+0.23,0.14,0.10,Suffolk,0.09,0.07,1,0.22,Northeast,New York
+0.32,0.14,0.18,Tioga,0.09,0.11,1,0.27,Northeast,New York
+0.26,0.14,0.21,Warren,0.09,0.12,1,0.21,Northeast,New York
+0.26,0.15,0.21,Orange,0.09,0.10,1,0.24,Northeast,New York
+0.31,0.15,0.21,Seneca,0.09,0.12,1,0.25,Northeast,New York
+0.28,0.14,0.17,Ulster,0.09,0.12,1,0.19,Northeast,New York
+0.27,0.15,0.22,Schoharie,0.09,0.12,1,0.26,Northeast,New York
+0.29,0.15,0.18,Wayne,0.09,0.11,1,0.26,Northeast,New York
+0.27,0.15,0.22,Monroe,0.09,0.14,1,0.21,Northeast,New York
+0.25,0.16,0.24,Broome,0.09,0.14,1,0.24,Northeast,New York
+0.32,0.16,0.27,Chemung,0.09,0.14,1,0.25,Northeast,New York
+0.30,0.16,0.18,Niagara,0.09,0.13,1,0.22,Northeast,New York
+0.31,0.16,0.22,Orleans,0.09,0.13,1,0.24,Northeast,New York
+0.29,0.14,0.18,Essex,0.09,0.13,1,0.27,Northeast,New York
+0.26,0.15,0.21,Richmond,0.09,0.11,1,0.31,Northeast,New York
+0.30,0.15,0.20,Greene,0.09,0.13,1,0.25,Northeast,New York
+0.30,0.15,0.24,Schuyler,0.09,0.12,1,0.27,Northeast,New York
+0.30,0.16,0.29,Oneida,0.09,0.14,1,0.28,Northeast,New York
+0.30,0.16,0.23,Herkimer,0.09,0.13,1,0.23,Northeast,New York
+0.30,0.16,0.24,Steuben,0.09,0.14,1,0.23,Northeast,New York
+0.29,0.17,0.26,Fulton,0.09,0.14,1,0.25,Northeast,New York
+0.30,0.18,0.25,Franklin,0.09,0.15,1,0.26,Northeast,New York
+0.20,0.11,0.13,Westchester,0.10,0.09,1,0.20,Northeast,New York
+0.27,0.15,0.23,Erie,0.10,0.14,1,0.23,Northeast,New York
+0.25,0.16,0.24,Yates,0.10,0.12,1,0.24,Northeast,New York
+0.25,0.14,0.18,Columbia,0.10,0.11,1,0.25,Northeast,New York
+0.33,0.15,0.25,Chenango,0.10,0.12,1,0.27,Northeast,New York
+0.28,0.17,0.23,Cattaraugus,0.10,0.14,1,0.28,Northeast,New York
+0.25,0.16,0.27,Montgomery,0.10,0.14,1,0.21,Northeast,New York
+0.21,0.14,0.26,Rockland,0.10,0.10,1,0.24,Northeast,New York
+0.30,0.16,0.29,Chautauqua,0.10,0.14,1,0.26,Northeast,New York
+0.26,0.15,0.23,Delaware,0.10,0.13,1,0.25,Northeast,New York
+0.28,0.13,0.21,Hamilton,0.10,0.11,1,0.25,Northeast,New York
+0.24,0.12,0.21,Queens,0.11,0.13,1,0.28,Northeast,New York
+0.31,0.16,0.26,Sullivan,0.11,0.14,1,0.23,Northeast,New York
+0.22,0.16,0.33,Kings,0.11,0.20,1,0.26,Northeast,New York
+0.29,0.19,0.43,Bronx,0.15,0.19,1,0.29,Northeast,New York
+0.27,0.14,0.05,Delaware,0.09,0.10,1,0.20,Northeast,Ohio
+0.32,0.18,0.09,Union,0.09,0.12,1,0.27,Northeast,Ohio
+0.29,0.16,0.08,Warren,0.09,0.12,1,0.24,Northeast,Ohio
+0.29,0.23,0.31,Athens,0.09,0.21,1,0.26,Northeast,Ohio
+0.31,0.18,0.12,Wood,0.09,0.15,1,0.23,Northeast,Ohio
+0.29,0.20,0.18,Portage,0.10,0.16,1,0.24,Northeast,Ohio
+0.29,0.16,0.10,Medina,0.10,0.12,1,0.24,Northeast,Ohio
+0.33,0.17,0.10,Putnam,0.10,0.11,1,0.27,Northeast,Ohio
+0.29,0.19,0.15,Clermont,0.10,0.13,1,0.26,Northeast,Ohio
+0.29,0.18,0.18,Greene,0.10,0.15,1,0.27,Northeast,Ohio
+0.30,0.20,0.20,Butler,0.10,0.15,1,0.25,Northeast,Ohio
+0.28,0.20,0.19,Holmes,0.10,0.14,1,0.27,Northeast,Ohio
+0.29,0.19,0.17,Madison,0.10,0.14,1,0.29,Northeast,Ohio
+0.36,0.19,0.19,Pickaway,0.10,0.15,1,0.31,Northeast,Ohio
+0.34,0.21,0.25,Hardin,0.10,0.16,1,0.32,Northeast,Ohio
+0.29,0.16,0.12,Mercer,0.10,0.12,1,0.29,Northeast,Ohio
+0.31,0.18,0.14,Fairfield,0.10,0.14,1,0.27,Northeast,Ohio
+0.29,0.18,0.21,Licking,0.10,0.14,1,0.29,Northeast,Ohio
+0.32,0.19,0.16,Shelby,0.10,0.14,1,0.26,Northeast,Ohio
+0.26,0.18,0.13,Lake,0.11,0.13,1,0.25,Northeast,Ohio
+0.34,0.20,0.12,Auglaize,0.11,0.12,1,0.29,Northeast,Ohio
+0.34,0.20,0.21,Knox,0.11,0.15,1,0.23,Northeast,Ohio
+0.29,0.19,0.25,Franklin,0.11,0.18,1,0.23,Northeast,Ohio
+0.30,0.19,0.18,Hancock,0.11,0.14,1,0.23,Northeast,Ohio
+0.35,0.17,0.14,Wyandot,0.11,0.14,1,0.30,Northeast,Ohio
+0.27,0.19,0.20,Wayne,0.11,0.14,1,0.26,Northeast,Ohio
+0.28,0.16,0.12,Geauga,0.11,0.11,1,0.27,Northeast,Ohio
+0.35,0.19,0.26,Seneca,0.11,0.15,1,0.27,Northeast,Ohio
+0.37,0.20,0.21,Morrow,0.11,0.14,1,0.30,Northeast,Ohio
+0.30,0.20,0.21,Ashland,0.11,0.15,1,0.29,Northeast,Ohio
+0.35,0.20,0.20,Clinton,0.11,0.17,1,0.34,Northeast,Ohio
+0.34,0.18,0.20,Huron,0.11,0.16,1,0.33,Northeast,Ohio
+0.37,0.20,0.18,Champaign,0.11,0.14,1,0.29,Northeast,Ohio
+0.33,0.18,0.15,Fulton,0.11,0.13,1,0.27,Northeast,Ohio
+0.30,0.18,0.22,Lorain,0.11,0.15,1,0.23,Northeast,Ohio
+0.30,0.19,0.15,Henry,0.11,0.13,1,0.26,Northeast,Ohio
+0.32,0.19,0.16,Miami,0.11,0.15,1,0.27,Northeast,Ohio
+0.32,0.19,0.20,Preble,0.11,0.14,1,0.28,Northeast,Ohio
+0.29,0.20,0.20,Summit,0.11,0.17,1,0.24,Northeast,Ohio
+0.36,0.21,0.25,Perry,0.11,0.17,1,0.31,Northeast,Ohio
+0.30,0.19,0.18,Paulding,0.11,0.14,1,0.26,Northeast,Ohio
+0.37,0.19,0.15,Van Wert,0.11,0.14,1,0.33,Northeast,Ohio
+0.32,0.19,0.18,Defiance,0.11,0.13,1,0.30,Northeast,Ohio
+0.31,0.19,0.17,Darke,0.12,0.14,1,0.34,Northeast,Ohio
+0.35,0.18,0.18,Tuscarawas,0.12,0.15,1,0.33,Northeast,Ohio
+0.31,0.19,0.22,Stark,0.12,0.16,1,0.26,Northeast,Ohio
+0.29,0.20,0.24,Hamilton,0.12,0.19,1,0.23,Northeast,Ohio
+0.31,0.20,0.27,Logan,0.12,0.15,1,0.28,Northeast,Ohio
+0.37,0.21,0.24,Brown,0.12,0.15,1,0.35,Northeast,Ohio
+0.33,0.20,0.23,Richland,0.12,0.17,1,0.29,Northeast,Ohio
+0.33,0.21,0.25,Belmont,0.12,0.15,1,0.33,Northeast,Ohio
+0.31,0.17,0.16,Ottawa,0.12,0.14,1,0.30,Northeast,Ohio
+0.34,0.20,0.22,Williams,0.12,0.14,1,0.30,Northeast,Ohio
+0.32,0.21,0.25,Fayette,0.12,0.17,1,0.31,Northeast,Ohio
+0.34,0.21,0.26,Hocking,0.12,0.15,1,0.29,Northeast,Ohio
+0.36,0.21,0.26,Guernsey,0.12,0.17,1,0.34,Northeast,Ohio
+0.34,0.22,0.27,Marion,0.12,0.17,1,0.33,Northeast,Ohio
+0.36,0.22,0.27,Ross,0.12,0.17,1,0.31,Northeast,Ohio
+0.37,0.22,0.30,Jackson,0.12,0.19,1,0.36,Northeast,Ohio
+0.31,0.20,0.22,Erie,0.12,0.16,1,0.25,Northeast,Ohio
+0.34,0.21,0.25,Allen,0.12,0.17,1,0.32,Northeast,Ohio
+0.33,0.22,0.27,Muskingum,0.12,0.18,1,0.35,Northeast,Ohio
+0.32,0.20,0.21,Sandusky,0.12,0.14,1,0.33,Northeast,Ohio
+0.35,0.20,0.21,Carroll,0.12,0.15,1,0.27,Northeast,Ohio
+0.32,0.21,0.24,Columbiana,0.12,0.16,1,0.31,Northeast,Ohio
+0.34,0.22,0.28,Highland,0.12,0.18,1,0.29,Northeast,Ohio
+0.32,0.18,0.25,Crawford,0.12,0.16,1,0.31,Northeast,Ohio
+0.34,0.21,0.27,Coshocton,0.12,0.17,1,0.28,Northeast,Ohio
+0.39,0.21,0.27,Lawrence,0.12,0.16,1,0.37,Northeast,Ohio
+0.33,0.20,0.28,Trumbull,0.12,0.17,1,0.29,Northeast,Ohio
+0.32,0.20,0.29,Lucas,0.12,0.19,1,0.27,Northeast,Ohio
+0.33,0.21,0.21,Washington,0.12,0.15,1,0.34,Northeast,Ohio
+0.30,0.20,0.28,Clark,0.13,0.17,1,0.28,Northeast,Ohio
+0.31,0.22,0.32,Ashtabula,0.13,0.17,1,0.26,Northeast,Ohio
+0.31,0.24,0.33,Pike,0.13,0.19,1,0.26,Northeast,Ohio
+0.29,0.20,0.26,Harrison,0.13,0.16,1,0.29,Northeast,Ohio
+0.36,0.18,0.23,Monroe,0.13,0.17,1,0.36,Northeast,Ohio
+0.31,0.20,0.29,Mahoning,0.13,0.17,1,0.29,Northeast,Ohio
+0.31,0.23,0.36,Vinton,0.13,0.18,1,0.30,Northeast,Ohio
+0.31,0.23,0.38,Gallia,0.13,0.16,1,0.32,Northeast,Ohio
+0.28,0.23,0.33,Adams,0.13,0.19,1,0.30,Northeast,Ohio
+0.29,0.18,0.30,Cuyahoga,0.13,0.19,1,0.26,Northeast,Ohio
+0.31,0.21,0.30,Montgomery,0.13,0.19,1,0.26,Northeast,Ohio
+0.34,0.21,0.31,Jefferson,0.13,0.17,1,0.29,Northeast,Ohio
+0.35,0.23,0.33,Meigs,0.13,0.19,1,0.33,Northeast,Ohio
+0.36,0.25,0.36,Scioto,0.13,0.19,1,0.30,Northeast,Ohio
+0.33,0.21,0.28,Morgan,0.13,0.18,1,0.28,Northeast,Ohio
+0.33,0.20,0.20,Noble,0.14,0.16,1,0.35,Northeast,Ohio
+0.25,0.18,0.12,Centre,0.08,0.15,1,0.19,Northeast,Pennsylvania
+0.24,0.14,0.09,Chester,0.09,0.10,1,0.17,Northeast,Pennsylvania
+0.24,0.16,0.09,Montgomery,0.09,0.11,1,0.19,Northeast,Pennsylvania
+0.26,0.17,0.13,Cumberland,0.09,0.12,1,0.18,Northeast,Pennsylvania
+0.26,0.16,0.08,Bucks,0.09,0.10,1,0.22,Northeast,Pennsylvania
+0.33,0.18,0.15,Perry,0.10,0.11,1,0.29,Northeast,Pennsylvania
+0.29,0.18,0.15,Union,0.10,0.13,1,0.26,Northeast,Pennsylvania
+0.33,0.19,0.20,Snyder,0.10,0.13,1,0.25,Northeast,Pennsylvania
+0.32,0.21,0.23,Clinton,0.10,0.15,1,0.25,Northeast,Pennsylvania
+0.29,0.17,0.15,Lancaster,0.10,0.11,1,0.21,Northeast,Pennsylvania
+0.36,0.20,0.22,Indiana,0.10,0.14,1,0.28,Northeast,Pennsylvania
+0.35,0.21,0.18,Columbia,0.10,0.14,1,0.25,Northeast,Pennsylvania
+0.29,0.18,0.10,Butler,0.10,0.11,1,0.22,Northeast,Pennsylvania
+0.26,0.19,0.19,Allegheny,0.10,0.14,1,0.23,Northeast,Pennsylvania
+0.32,0.17,0.15,Adams,0.10,0.10,1,0.24,Northeast,Pennsylvania
+0.32,0.17,0.17,Montour,0.10,0.11,1,0.24,Northeast,Pennsylvania
+0.31,0.18,0.17,Lebanon,0.10,0.11,1,0.22,Northeast,Pennsylvania
+0.25,0.19,0.15,Delaware,0.10,0.14,1,0.21,Northeast,Pennsylvania
+0.29,0.19,0.14,Washington,0.10,0.12,1,0.27,Northeast,Pennsylvania
+0.33,0.19,0.18,Wyoming,0.10,0.13,1,0.26,Northeast,Pennsylvania
+0.33,0.21,0.22,Greene,0.10,0.13,1,0.31,Northeast,Pennsylvania
+0.30,0.19,0.17,Franklin,0.11,0.12,1,0.27,Northeast,Pennsylvania
+0.30,0.20,0.23,Lycoming,0.11,0.14,1,0.25,Northeast,Pennsylvania
+0.31,0.22,0.23,Erie,0.11,0.15,1,0.26,Northeast,Pennsylvania
+0.28,0.18,0.14,Elk,0.11,0.12,1,0.27,Northeast,Pennsylvania
+0.30,0.20,0.20,Lackawanna,0.11,0.14,1,0.25,Northeast,Pennsylvania
+0.33,0.20,0.19,Clarion,0.11,0.15,1,0.26,Northeast,Pennsylvania
+0.28,0.17,0.14,Northampton,0.11,0.11,1,0.26,Northeast,Pennsylvania
+0.31,0.20,0.21,Berks,0.11,0.11,1,0.25,Northeast,Pennsylvania
+0.32,0.18,0.15,York,0.11,0.12,1,0.23,Northeast,Pennsylvania
+0.30,0.20,0.21,Huntingdon,0.11,0.14,1,0.27,Northeast,Pennsylvania
+0.29,0.18,0.20,Lehigh,0.11,0.12,1,0.22,Northeast,Pennsylvania
+0.35,0.20,0.19,Schuylkill,0.11,0.14,1,0.29,Northeast,Pennsylvania
+0.33,0.20,0.21,Armstrong,0.11,0.13,1,0.29,Northeast,Pennsylvania
+0.31,0.20,0.23,Tioga,0.11,0.14,1,0.27,Northeast,Pennsylvania
+0.33,0.19,0.21,Fulton,0.11,0.13,1,0.27,Northeast,Pennsylvania
+0.33,0.19,0.18,Juniata,0.11,0.12,1,0.26,Northeast,Pennsylvania
+0.33,0.19,0.19,Bradford,0.11,0.13,1,0.25,Northeast,Pennsylvania
+0.29,0.22,0.21,Jefferson,0.11,0.14,1,0.30,Northeast,Pennsylvania
+0.33,0.22,0.25,Mercer,0.11,0.14,1,0.27,Northeast,Pennsylvania
+0.28,0.19,0.14,Westmoreland,0.11,0.12,1,0.25,Northeast,Pennsylvania
+0.30,0.19,0.17,Beaver,0.11,0.13,1,0.28,Northeast,Pennsylvania
+0.36,0.20,0.21,Carbon,0.11,0.13,1,0.26,Northeast,Pennsylvania
+0.34,0.20,0.23,Crawford,0.11,0.14,1,0.29,Northeast,Pennsylvania
+0.31,0.21,0.25,McKean,0.11,0.14,1,0.26,Northeast,Pennsylvania
+0.29,0.17,0.16,Pike,0.11,0.11,1,0.22,Northeast,Pennsylvania
+0.29,0.18,0.24,Luzerne,0.11,0.15,1,0.30,Northeast,Pennsylvania
+0.35,0.19,0.21,Somerset,0.11,0.14,1,0.29,Northeast,Pennsylvania
+0.33,0.19,0.21,Lawrence,0.11,0.14,1,0.25,Northeast,Pennsylvania
+0.34,0.20,0.21,Blair,0.11,0.13,1,0.29,Northeast,Pennsylvania
+0.34,0.21,0.23,Northumberland,0.11,0.14,1,0.28,Northeast,Pennsylvania
+0.32,0.18,0.20,Susquehanna,0.11,0.12,1,0.24,Northeast,Pennsylvania
+0.31,0.19,0.21,Dauphin,0.11,0.14,1,0.24,Northeast,Pennsylvania
+0.29,0.20,0.24,Cambria,0.11,0.14,1,0.26,Northeast,Pennsylvania
+0.33,0.21,0.22,Clearfield,0.11,0.14,1,0.27,Northeast,Pennsylvania
+0.33,0.18,0.24,Warren,0.12,0.12,1,0.22,Northeast,Pennsylvania
+0.27,0.19,0.20,Monroe,0.12,0.12,1,0.25,Northeast,Pennsylvania
+0.34,0.20,0.25,Venango,0.12,0.14,1,0.26,Northeast,Pennsylvania
+0.35,0.21,0.20,Bedford,0.12,0.13,1,0.28,Northeast,Pennsylvania
+0.33,0.20,0.20,Wayne,0.12,0.12,1,0.24,Northeast,Pennsylvania
+0.32,0.21,0.25,Mifflin,0.12,0.14,1,0.27,Northeast,Pennsylvania
+0.33,0.22,0.41,Forest,0.12,0.15,1,0.23,Northeast,Pennsylvania
+0.32,0.20,0.23,Potter,0.12,0.14,1,0.30,Northeast,Pennsylvania
+0.28,0.19,0.22,Cameron,0.12,0.15,1,0.27,Northeast,Pennsylvania
+0.32,0.18,0.22,Sullivan,0.12,0.13,1,0.32,Northeast,Pennsylvania
+0.29,0.23,0.37,Philadelphia,0.12,0.21,1,0.26,Northeast,Pennsylvania
+0.36,0.23,0.31,Fayette,0.13,0.15,1,0.34,Northeast,Pennsylvania
+0.21,0.13,0.09,Bristol,0.08,0.12,1,0.22,Northeast,Rhode Island
+0.24,0.13,0.12,Washington,0.08,0.12,1,0.20,Northeast,Rhode Island
+0.22,0.14,0.13,Newport,0.09,0.14,1,0.19,Northeast,Rhode Island
+0.28,0.15,0.13,Kent,0.09,0.13,1,0.23,Northeast,Rhode Island
+0.28,0.16,0.27,Providence,0.10,0.16,1,0.26,Northeast,Rhode Island
+0.21,0.12,0.11,Chittenden,0.06,0.13,1,0.15,Northeast,Vermont
+0.24,0.13,0.13,Addison,0.07,0.12,1,0.18,Northeast,Vermont
+0.28,0.17,0.14,Franklin,0.07,0.12,1,0.25,Northeast,Vermont
+0.23,0.14,0.14,Washington,0.08,0.12,1,0.18,Northeast,Vermont
+0.25,0.17,0.16,Lamoille,0.08,0.13,1,0.18,Northeast,Vermont
+0.26,0.16,0.14,Grand Isle,0.08,0.11,1,0.19,Northeast,Vermont
+0.23,0.14,0.16,Windsor,0.08,0.12,1,0.19,Northeast,Vermont
+0.26,0.16,0.18,Orange,0.08,0.12,1,0.21,Northeast,Vermont
+0.29,0.15,0.19,Caledonia,0.08,0.14,1,0.21,Northeast,Vermont
+0.23,0.16,0.18,Windham,0.08,0.13,1,0.19,Northeast,Vermont
+0.25,0.15,0.19,Bennington,0.09,0.14,1,0.20,Northeast,Vermont
+0.28,0.17,0.19,Rutland,0.09,0.14,1,0.21,Northeast,Vermont
+0.30,0.18,0.23,Orleans,0.09,0.14,1,0.25,Northeast,Vermont
+0.28,0.19,0.26,Essex,0.10,0.14,1,0.27,Northeast,Vermont

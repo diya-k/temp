@@ -1,0 +1,870 @@
+AdultObesity,Adult Smokers (% of pop),ChildrenInPoverty,County,Diabetic (% of pop),FoodInsecure,Number of Records,Physically Inactive (% of pop),Region,State
+0.35,0.16,0.20,Adams,0.10,0.13,1,0.24,Midwest,Illinois
+0.32,0.24,0.52,Alexander,0.16,0.22,1,0.30,Midwest,Illinois
+0.31,0.17,0.21,Bond,0.10,0.13,1,0.26,Midwest,Illinois
+0.34,0.16,0.15,Boone,0.10,0.11,1,0.24,Midwest,Illinois
+0.32,0.16,0.15,Brown,0.08,0.12,1,0.27,Midwest,Illinois
+0.30,0.15,0.20,Bureau,0.10,0.12,1,0.28,Midwest,Illinois
+0.30,0.15,0.16,Calhoun,0.10,0.13,1,0.30,Midwest,Illinois
+0.32,0.15,0.20,Carroll,0.11,0.13,1,0.27,Midwest,Illinois
+0.29,0.16,0.19,Cass,0.10,0.12,1,0.25,Midwest,Illinois
+0.27,0.17,0.24,Champaign,0.08,0.17,1,0.21,Midwest,Illinois
+0.33,0.16,0.20,Christian,0.10,0.14,1,0.32,Midwest,Illinois
+0.33,0.15,0.20,Clark,0.10,0.14,1,0.28,Midwest,Illinois
+0.32,0.17,0.20,Clay,0.10,0.15,1,0.33,Midwest,Illinois
+0.28,0.15,0.13,Clinton,0.09,0.11,1,0.30,Midwest,Illinois
+0.28,0.20,0.25,Coles,0.09,0.17,1,0.24,Midwest,Illinois
+0.25,0.16,0.25,Cook,0.10,0.15,1,0.20,Midwest,Illinois
+0.34,0.16,0.21,Crawford,0.10,0.14,1,0.26,Midwest,Illinois
+0.30,0.16,0.16,Cumberland,0.10,0.14,1,0.26,Midwest,Illinois
+0.32,0.15,0.17,De Witt,0.09,0.13,1,0.26,Midwest,Illinois
+0.27,0.17,0.16,DeKalb,0.08,0.15,1,0.22,Midwest,Illinois
+0.31,0.16,0.15,Douglas,0.09,0.11,1,0.27,Midwest,Illinois
+0.24,0.12,0.11,DuPage,0.08,0.09,1,0.18,Midwest,Illinois
+0.33,0.17,0.23,Edgar,0.11,0.15,1,0.24,Midwest,Illinois
+0.32,0.16,0.17,Edwards,0.10,0.13,1,0.27,Midwest,Illinois
+0.29,0.15,0.17,Effingham,0.09,0.11,1,0.25,Midwest,Illinois
+0.37,0.17,0.25,Fayette,0.10,0.15,1,0.24,Midwest,Illinois
+0.30,0.15,0.19,Ford,0.10,0.12,1,0.26,Midwest,Illinois
+0.31,0.18,0.30,Franklin,0.11,0.17,1,0.28,Midwest,Illinois
+0.32,0.16,0.22,Fulton,0.10,0.14,1,0.29,Midwest,Illinois
+0.31,0.17,0.28,Gallatin,0.11,0.15,1,0.29,Midwest,Illinois
+0.30,0.17,0.22,Greene,0.10,0.14,1,0.28,Midwest,Illinois
+0.31,0.15,0.11,Grundy,0.08,0.12,1,0.25,Midwest,Illinois
+0.29,0.17,0.21,Hamilton,0.11,0.14,1,0.27,Midwest,Illinois
+0.29,0.15,0.18,Hancock,0.11,0.14,1,0.29,Midwest,Illinois
+0.33,0.18,0.33,Hardin,0.13,0.17,1,0.29,Midwest,Illinois
+0.32,0.15,0.19,Henderson,0.10,0.12,1,0.28,Midwest,Illinois
+0.31,0.15,0.15,Henry,0.10,0.11,1,0.29,Midwest,Illinois
+0.33,0.16,0.22,Iroquois,0.11,0.13,1,0.28,Midwest,Illinois
+0.31,0.21,0.33,Jackson,0.09,0.19,1,0.25,Midwest,Illinois
+0.31,0.15,0.18,Jasper,0.09,0.11,1,0.24,Midwest,Illinois
+0.33,0.17,0.28,Jefferson,0.10,0.15,1,0.27,Midwest,Illinois
+0.32,0.15,0.17,Jersey,0.09,0.11,1,0.28,Midwest,Illinois
+0.29,0.14,0.16,Jo Daviess,0.11,0.11,1,0.28,Midwest,Illinois
+0.31,0.17,0.20,Johnson,0.10,0.15,1,0.26,Midwest,Illinois
+0.26,0.14,0.16,Kane,0.09,0.09,1,0.19,Midwest,Illinois
+0.34,0.17,0.21,Kankakee,0.10,0.16,1,0.25,Midwest,Illinois
+0.35,0.14,0.07,Kendall,0.08,0.08,1,0.22,Midwest,Illinois
+0.25,0.17,0.27,Knox,0.11,0.15,1,0.26,Midwest,Illinois
+0.29,0.14,0.13,Lake,0.09,0.09,1,0.20,Midwest,Illinois
+0.29,0.16,0.20,LaSalle,0.10,0.13,1,0.26,Midwest,Illinois
+0.32,0.17,0.24,Lawrence,0.10,0.14,1,0.26,Midwest,Illinois
+0.33,0.16,0.16,Lee,0.10,0.13,1,0.29,Midwest,Illinois
+0.31,0.15,0.17,Livingston,0.09,0.13,1,0.31,Midwest,Illinois
+0.31,0.17,0.18,Logan,0.09,0.15,1,0.25,Midwest,Illinois
+0.31,0.17,0.26,Macon,0.11,0.18,1,0.24,Midwest,Illinois
+0.33,0.15,0.20,Macoupin,0.10,0.13,1,0.31,Midwest,Illinois
+0.33,0.17,0.18,Madison,0.09,0.14,1,0.27,Midwest,Illinois
+0.36,0.17,0.30,Marion,0.11,0.16,1,0.33,Midwest,Illinois
+0.32,0.15,0.16,Marshall,0.10,0.12,1,0.27,Midwest,Illinois
+0.33,0.17,0.20,Mason,0.10,0.15,1,0.27,Midwest,Illinois
+0.34,0.17,0.30,Massac,0.11,0.15,1,0.29,Midwest,Illinois
+0.29,0.19,0.23,McDonough,0.08,0.17,1,0.23,Midwest,Illinois
+0.28,0.16,0.09,McHenry,0.09,0.09,1,0.22,Midwest,Illinois
+0.29,0.16,0.13,McLean,0.07,0.13,1,0.22,Midwest,Illinois
+0.31,0.15,0.15,Menard,0.09,0.11,1,0.25,Midwest,Illinois
+0.31,0.14,0.13,Mercer,0.10,0.12,1,0.30,Midwest,Illinois
+0.33,0.13,0.06,Monroe,0.08,0.10,1,0.27,Midwest,Illinois
+0.29,0.16,0.23,Montgomery,0.10,0.16,1,0.25,Midwest,Illinois
+0.31,0.17,0.21,Morgan,0.10,0.15,1,0.29,Midwest,Illinois
+0.31,0.17,0.18,Moultrie,0.10,0.12,1,0.27,Midwest,Illinois
+0.29,0.16,0.16,Ogle,0.09,0.13,1,0.23,Midwest,Illinois
+0.29,0.16,0.24,Peoria,0.10,0.17,1,0.25,Midwest,Illinois
+0.30,0.17,0.22,Perry,0.10,0.16,1,0.24,Midwest,Illinois
+0.30,0.14,0.10,Piatt,0.09,0.11,1,0.25,Midwest,Illinois
+0.32,0.16,0.23,Pike,0.10,0.13,1,0.30,Midwest,Illinois
+0.31,0.16,0.31,Pope,0.11,0.15,1,0.27,Midwest,Illinois
+0.32,0.19,0.36,Pulaski,0.14,0.18,1,0.28,Midwest,Illinois
+0.31,0.14,0.15,Putnam,0.10,0.14,1,0.25,Midwest,Illinois
+0.30,0.17,0.19,Randolph,0.10,0.14,1,0.25,Midwest,Illinois
+0.31,0.16,0.22,Richland,0.10,0.14,1,0.29,Midwest,Illinois
+0.31,0.16,0.25,Rock Island,0.10,0.13,1,0.25,Midwest,Illinois
+0.32,0.18,0.32,Saline,0.11,0.16,1,0.26,Midwest,Illinois
+0.30,0.16,0.23,Sangamon,0.10,0.14,1,0.25,Midwest,Illinois
+0.31,0.16,0.17,Schuyler,0.10,0.12,1,0.26,Midwest,Illinois
+0.31,0.16,0.18,Scott,0.10,0.14,1,0.26,Midwest,Illinois
+0.32,0.15,0.18,Shelby,0.10,0.13,1,0.31,Midwest,Illinois
+0.32,0.17,0.27,St. Clair,0.12,0.17,1,0.28,Midwest,Illinois
+0.32,0.14,0.16,Stark,0.10,0.13,1,0.28,Midwest,Illinois
+0.29,0.16,0.22,Stephenson,0.12,0.16,1,0.26,Midwest,Illinois
+0.29,0.15,0.13,Tazewell,0.09,0.12,1,0.26,Midwest,Illinois
+0.31,0.17,0.25,Union,0.11,0.16,1,0.26,Midwest,Illinois
+0.37,0.18,0.28,Vermilion,0.11,0.17,1,0.27,Midwest,Illinois
+0.33,0.16,0.21,Wabash,0.10,0.12,1,0.28,Midwest,Illinois
+0.34,0.17,0.19,Warren,0.10,0.13,1,0.29,Midwest,Illinois
+0.31,0.15,0.13,Washington,0.09,0.11,1,0.27,Midwest,Illinois
+0.31,0.17,0.23,Wayne,0.10,0.13,1,0.28,Midwest,Illinois
+0.31,0.15,0.22,White,0.10,0.13,1,0.25,Midwest,Illinois
+0.27,0.16,0.18,Whiteside,0.10,0.12,1,0.26,Midwest,Illinois
+0.28,0.15,0.12,Will,0.09,0.10,1,0.24,Midwest,Illinois
+0.32,0.17,0.23,Williamson,0.10,0.14,1,0.27,Midwest,Illinois
+0.32,0.17,0.25,Winnebago,0.11,0.16,1,0.26,Midwest,Illinois
+0.32,0.15,0.09,Woodford,0.09,0.11,1,0.22,Midwest,Illinois
+0.31,0.15,0.16,Adair,0.10,0.11,1,0.30,Midwest,Iowa
+0.32,0.16,0.19,Adams,0.10,0.12,1,0.28,Midwest,Iowa
+0.30,0.16,0.19,Allamakee,0.11,0.12,1,0.25,Midwest,Iowa
+0.32,0.17,0.25,Appanoose,0.11,0.14,1,0.34,Midwest,Iowa
+0.33,0.16,0.17,Audubon,0.11,0.12,1,0.28,Midwest,Iowa
+0.33,0.17,0.12,Benton,0.09,0.11,1,0.28,Midwest,Iowa
+0.29,0.17,0.17,Black Hawk,0.09,0.15,1,0.24,Midwest,Iowa
+0.32,0.18,0.13,Boone,0.09,0.11,1,0.26,Midwest,Iowa
+0.32,0.15,0.07,Bremer,0.09,0.10,1,0.25,Midwest,Iowa
+0.33,0.16,0.16,Buchanan,0.09,0.12,1,0.27,Midwest,Iowa
+0.31,0.16,0.18,Buena Vista,0.10,0.10,1,0.25,Midwest,Iowa
+0.33,0.15,0.13,Butler,0.10,0.11,1,0.29,Midwest,Iowa
+0.33,0.18,0.17,Calhoun,0.11,0.12,1,0.25,Midwest,Iowa
+0.30,0.16,0.12,Carroll,0.09,0.11,1,0.25,Midwest,Iowa
+0.32,0.17,0.19,Cass,0.11,0.13,1,0.26,Midwest,Iowa
+0.33,0.16,0.10,Cedar,0.10,0.11,1,0.32,Midwest,Iowa
+0.31,0.17,0.15,Cerro Gordo,0.10,0.13,1,0.28,Midwest,Iowa
+0.36,0.15,0.14,Cherokee,0.10,0.12,1,0.30,Midwest,Iowa
+0.31,0.18,0.14,Chickasaw,0.10,0.12,1,0.24,Midwest,Iowa
+0.30,0.19,0.21,Clarke,0.11,0.12,1,0.28,Midwest,Iowa
+0.31,0.15,0.16,Clay,0.10,0.12,1,0.25,Midwest,Iowa
+0.35,0.16,0.17,Clayton,0.10,0.13,1,0.29,Midwest,Iowa
+0.31,0.18,0.18,Clinton,0.10,0.13,1,0.28,Midwest,Iowa
+0.33,0.17,0.16,Crawford,0.11,0.09,1,0.31,Midwest,Iowa
+0.31,0.16,0.07,Dallas,0.07,0.09,1,0.27,Midwest,Iowa
+0.31,0.20,0.25,Davis,0.11,0.14,1,0.31,Midwest,Iowa
+0.31,0.19,0.27,Decatur,0.10,0.14,1,0.25,Midwest,Iowa
+0.32,0.16,0.12,Delaware,0.10,0.11,1,0.29,Midwest,Iowa
+0.32,0.19,0.24,Des Moines,0.11,0.14,1,0.27,Midwest,Iowa
+0.33,0.15,0.10,Dickinson,0.10,0.12,1,0.25,Midwest,Iowa
+0.28,0.16,0.14,Dubuque,0.09,0.12,1,0.23,Midwest,Iowa
+0.35,0.16,0.17,Emmet,0.10,0.11,1,0.30,Midwest,Iowa
+0.39,0.17,0.18,Fayette,0.10,0.12,1,0.29,Midwest,Iowa
+0.33,0.18,0.18,Floyd,0.11,0.13,1,0.29,Midwest,Iowa
+0.33,0.17,0.19,Franklin,0.11,0.11,1,0.26,Midwest,Iowa
+0.33,0.17,0.17,Fremont,0.10,0.11,1,0.28,Midwest,Iowa
+0.29,0.17,0.18,Greene,0.11,0.12,1,0.30,Midwest,Iowa
+0.29,0.15,0.09,Grundy,0.09,0.10,1,0.27,Midwest,Iowa
+0.35,0.16,0.15,Guthrie,0.10,0.12,1,0.31,Midwest,Iowa
+0.30,0.16,0.16,Hamilton,0.10,0.13,1,0.28,Midwest,Iowa
+0.33,0.15,0.13,Hancock,0.10,0.11,1,0.26,Midwest,Iowa
+0.33,0.15,0.19,Hardin,0.10,0.12,1,0.28,Midwest,Iowa
+0.32,0.17,0.15,Harrison,0.10,0.11,1,0.28,Midwest,Iowa
+0.33,0.17,0.18,Henry,0.10,0.14,1,0.28,Midwest,Iowa
+0.32,0.17,0.17,Howard,0.10,0.12,1,0.29,Midwest,Iowa
+0.33,0.17,0.15,Humboldt,0.10,0.11,1,0.27,Midwest,Iowa
+0.31,0.17,0.15,Ida,0.11,0.13,1,0.29,Midwest,Iowa
+0.30,0.16,0.09,Iowa,0.09,0.11,1,0.23,Midwest,Iowa
+0.33,0.17,0.17,Jackson,0.10,0.12,1,0.27,Midwest,Iowa
+0.34,0.17,0.14,Jasper,0.10,0.13,1,0.30,Midwest,Iowa
+0.28,0.17,0.21,Jefferson,0.10,0.13,1,0.23,Midwest,Iowa
+0.23,0.17,0.11,Johnson,0.07,0.14,1,0.16,Midwest,Iowa
+0.32,0.16,0.14,Jones,0.10,0.12,1,0.24,Midwest,Iowa
+0.29,0.17,0.18,Keokuk,0.10,0.12,1,0.30,Midwest,Iowa
+0.31,0.15,0.13,Kossuth,0.10,0.10,1,0.27,Midwest,Iowa
+0.32,0.18,0.24,Lee,0.10,0.15,1,0.28,Midwest,Iowa
+0.30,0.16,0.12,Linn,0.09,0.12,1,0.22,Midwest,Iowa
+0.35,0.17,0.15,Louisa,0.10,0.10,1,0.29,Midwest,Iowa
+0.32,0.17,0.25,Lucas,0.11,0.13,1,0.30,Midwest,Iowa
+0.30,0.15,0.10,Lyon,0.09,0.10,1,0.27,Midwest,Iowa
+0.34,0.17,0.10,Madison,0.09,0.12,1,0.26,Midwest,Iowa
+0.31,0.19,0.16,Mahaska,0.09,0.14,1,0.26,Midwest,Iowa
+0.31,0.16,0.13,Marion,0.09,0.12,1,0.23,Midwest,Iowa
+0.33,0.17,0.18,Marshall,0.10,0.11,1,0.27,Midwest,Iowa
+0.34,0.17,0.13,Mills,0.10,0.10,1,0.31,Midwest,Iowa
+0.31,0.15,0.17,Mitchell,0.10,0.11,1,0.25,Midwest,Iowa
+0.30,0.17,0.19,Monona,0.11,0.13,1,0.29,Midwest,Iowa
+0.33,0.17,0.18,Monroe,0.10,0.13,1,0.32,Midwest,Iowa
+0.34,0.19,0.30,Montgomery,0.11,0.13,1,0.30,Midwest,Iowa
+0.35,0.18,0.17,Muscatine,0.10,0.11,1,0.27,Midwest,Iowa
+0.31,0.16,0.14,O'Brien,0.10,0.11,1,0.22,Midwest,Iowa
+0.32,0.16,0.15,Osceola,0.10,0.11,1,0.30,Midwest,Iowa
+0.33,0.17,0.23,Page,0.11,0.13,1,0.28,Midwest,Iowa
+0.33,0.16,0.15,Palo Alto,0.10,0.11,1,0.28,Midwest,Iowa
+0.33,0.16,0.10,Plymouth,0.09,0.10,1,0.25,Midwest,Iowa
+0.31,0.17,0.19,Pocahontas,0.11,0.12,1,0.31,Midwest,Iowa
+0.29,0.19,0.18,Polk,0.08,0.12,1,0.22,Midwest,Iowa
+0.37,0.19,0.18,Pottawattamie,0.10,0.12,1,0.30,Midwest,Iowa
+0.31,0.17,0.14,Poweshiek,0.09,0.13,1,0.23,Midwest,Iowa
+0.35,0.17,0.25,Ringgold,0.12,0.13,1,0.30,Midwest,Iowa
+0.31,0.15,0.15,Sac,0.10,0.11,1,0.26,Midwest,Iowa
+0.31,0.18,0.16,Scott,0.09,0.14,1,0.23,Midwest,Iowa
+0.31,0.16,0.12,Shelby,0.11,0.11,1,0.33,Midwest,Iowa
+0.28,0.15,0.09,Sioux,0.08,0.09,1,0.25,Midwest,Iowa
+0.26,0.17,0.10,Story,0.07,0.15,1,0.20,Midwest,Iowa
+0.33,0.18,0.18,Tama,0.10,0.12,1,0.33,Midwest,Iowa
+0.30,0.17,0.17,Taylor,0.11,0.12,1,0.24,Midwest,Iowa
+0.37,0.18,0.19,Union,0.10,0.13,1,0.27,Midwest,Iowa
+0.32,0.18,0.24,Van Buren,0.11,0.13,1,0.30,Midwest,Iowa
+0.33,0.21,0.22,Wapello,0.11,0.14,1,0.32,Midwest,Iowa
+0.31,0.15,0.08,Warren,0.08,0.11,1,0.29,Midwest,Iowa
+0.31,0.15,0.15,Washington,0.09,0.11,1,0.27,Midwest,Iowa
+0.31,0.17,0.25,Wayne,0.11,0.12,1,0.26,Midwest,Iowa
+0.31,0.20,0.20,Webster,0.10,0.14,1,0.27,Midwest,Iowa
+0.32,0.16,0.14,Winnebago,0.10,0.12,1,0.31,Midwest,Iowa
+0.25,0.15,0.10,Winneshiek,0.08,0.11,1,0.21,Midwest,Iowa
+0.34,0.20,0.21,Woodbury,0.10,0.12,1,0.27,Midwest,Iowa
+0.34,0.17,0.15,Worth,0.10,0.12,1,0.31,Midwest,Iowa
+0.34,0.16,0.18,Wright,0.11,0.11,1,0.30,Midwest,Iowa
+0.34,0.17,0.25,Allen,0.11,0.15,1,0.30,Midwest,Kansas
+0.32,0.17,0.21,Anderson,0.11,0.15,1,0.29,Midwest,Kansas
+0.30,0.19,0.22,Atchison,0.10,0.17,1,0.28,Midwest,Kansas
+0.37,0.17,0.17,Barber,0.11,0.13,1,0.28,Midwest,Kansas
+0.35,0.18,0.22,Barton,0.11,0.12,1,0.28,Midwest,Kansas
+0.36,0.19,0.29,Bourbon,0.11,0.16,1,0.28,Midwest,Kansas
+0.31,0.19,0.27,Brown,0.12,0.16,1,0.32,Midwest,Kansas
+0.31,0.17,0.14,Butler,0.09,0.13,1,0.26,Midwest,Kansas
+0.30,0.16,0.17,Chase,0.11,0.14,1,0.29,Midwest,Kansas
+0.33,0.18,0.26,Chautauqua,0.13,0.15,1,0.36,Midwest,Kansas
+0.39,0.20,0.27,Cherokee,0.11,0.16,1,0.33,Midwest,Kansas
+0.33,0.14,0.18,Cheyenne,0.11,0.12,1,0.34,Midwest,Kansas
+0.30,0.18,0.17,Clark,0.12,0.12,1,0.28,Midwest,Kansas
+0.36,0.15,0.16,Clay,0.11,0.14,1,0.28,Midwest,Kansas
+0.33,0.18,0.19,Cloud,0.11,0.14,1,0.29,Midwest,Kansas
+0.33,0.16,0.13,Coffey,0.10,0.13,1,0.26,Midwest,Kansas
+0.34,0.14,0.16,Comanche,0.11,0.12,1,0.27,Midwest,Kansas
+0.37,0.20,0.21,Cowley,0.11,0.15,1,0.30,Midwest,Kansas
+0.35,0.20,0.25,Crawford,0.10,0.17,1,0.27,Midwest,Kansas
+0.36,0.17,0.19,Decatur,0.13,0.12,1,0.28,Midwest,Kansas
+0.33,0.18,0.16,Dickinson,0.10,0.14,1,0.30,Midwest,Kansas
+0.31,0.17,0.21,Doniphan,0.10,0.14,1,0.29,Midwest,Kansas
+0.23,0.17,0.15,Douglas,0.07,0.17,1,0.19,Midwest,Kansas
+0.33,0.16,0.14,Edwards,0.11,0.11,1,0.29,Midwest,Kansas
+0.35,0.17,0.28,Elk,0.13,0.15,1,0.27,Midwest,Kansas
+0.29,0.20,0.12,Ellis,0.08,0.14,1,0.26,Midwest,Kansas
+0.33,0.17,0.14,Ellsworth,0.10,0.12,1,0.33,Midwest,Kansas
+0.35,0.18,0.26,Finney,0.11,0.09,1,0.22,Midwest,Kansas
+0.33,0.19,0.22,Ford,0.11,0.08,1,0.31,Midwest,Kansas
+0.33,0.18,0.19,Franklin,0.09,0.15,1,0.31,Midwest,Kansas
+0.31,0.20,0.20,Geary,0.07,0.18,1,0.26,Midwest,Kansas
+0.32,0.15,0.15,Gove,0.11,0.12,1,0.26,Midwest,Kansas
+0.30,0.15,0.18,Graham,0.12,0.13,1,0.27,Midwest,Kansas
+0.33,0.18,0.17,Grant,0.11,0.07,1,0.26,Midwest,Kansas
+0.34,0.16,0.11,Gray,0.09,0.10,1,0.25,Midwest,Kansas
+0.31,0.15,0.15,Greeley,0.11,0.09,1,0.27,Midwest,Kansas
+0.32,0.19,0.25,Greenwood,0.13,0.15,1,0.29,Midwest,Kansas
+0.38,0.19,0.18,Hamilton,0.11,0.09,1,0.22,Midwest,Kansas
+0.34,0.18,0.21,Harper,0.11,0.14,1,0.35,Midwest,Kansas
+0.32,0.16,0.19,Harvey,0.10,0.13,1,0.27,Midwest,Kansas
+0.34,0.17,0.15,Haskell,0.10,0.09,1,0.28,Midwest,Kansas
+0.31,0.15,0.10,Hodgeman,0.11,0.10,1,0.27,Midwest,Kansas
+0.35,0.16,0.15,Jackson,0.10,0.13,1,0.30,Midwest,Kansas
+0.31,0.16,0.13,Jefferson,0.09,0.12,1,0.23,Midwest,Kansas
+0.30,0.16,0.19,Jewell,0.13,0.13,1,0.30,Midwest,Kansas
+0.23,0.13,0.08,Johnson,0.08,0.12,1,0.18,Midwest,Kansas
+0.30,0.17,0.19,Kearny,0.10,0.09,1,0.27,Midwest,Kansas
+0.32,0.17,0.17,Kingman,0.11,0.14,1,0.30,Midwest,Kansas
+0.32,0.18,0.14,Kiowa,0.11,0.13,1,0.27,Midwest,Kansas
+0.36,0.20,0.27,Labette,0.11,0.16,1,0.33,Midwest,Kansas
+0.33,0.15,0.18,Lane,0.11,0.11,1,0.26,Midwest,Kansas
+0.31,0.18,0.14,Leavenworth,0.09,0.15,1,0.26,Midwest,Kansas
+0.31,0.16,0.19,Lincoln,0.12,0.13,1,0.25,Midwest,Kansas
+0.32,0.17,0.22,Linn,0.11,0.15,1,0.29,Midwest,Kansas
+0.32,0.15,0.13,Logan,0.10,0.14,1,0.28,Midwest,Kansas
+0.34,0.21,0.21,Lyon,0.10,0.16,1,0.23,Midwest,Kansas
+0.33,0.16,0.15,Marion,0.11,0.13,1,0.25,Midwest,Kansas
+0.34,0.17,0.14,Marshall,0.11,0.13,1,0.26,Midwest,Kansas
+0.30,0.15,0.11,McPherson,0.09,0.12,1,0.25,Midwest,Kansas
+0.26,0.15,0.16,Meade,0.10,0.11,1,0.26,Midwest,Kansas
+0.33,0.16,0.12,Miami,0.10,0.13,1,0.26,Midwest,Kansas
+0.32,0.15,0.16,Mitchell,0.10,0.13,1,0.28,Midwest,Kansas
+0.35,0.20,0.25,Montgomery,0.12,0.17,1,0.27,Midwest,Kansas
+0.35,0.16,0.20,Morris,0.11,0.13,1,0.29,Midwest,Kansas
+0.31,0.17,0.16,Morton,0.11,0.11,1,0.33,Midwest,Kansas
+0.31,0.15,0.12,Nemaha,0.10,0.13,1,0.28,Midwest,Kansas
+0.33,0.19,0.26,Neosho,0.11,0.16,1,0.29,Midwest,Kansas
+0.31,0.16,0.14,Ness,0.12,0.11,1,0.27,Midwest,Kansas
+0.34,0.17,0.16,Norton,0.10,0.13,1,0.26,Midwest,Kansas
+0.36,0.17,0.17,Osage,0.11,0.14,1,0.29,Midwest,Kansas
+0.34,0.16,0.21,Osborne,0.12,0.14,1,0.30,Midwest,Kansas
+0.37,0.16,0.13,Ottawa,0.10,0.12,1,0.30,Midwest,Kansas
+0.31,0.17,0.17,Pawnee,0.11,0.13,1,0.25,Midwest,Kansas
+0.28,0.16,0.19,Phillips,0.11,0.13,1,0.31,Midwest,Kansas
+0.32,0.15,0.12,Pottawatomie,0.09,0.12,1,0.25,Midwest,Kansas
+0.33,0.16,0.16,Pratt,0.10,0.13,1,0.24,Midwest,Kansas
+0.33,0.16,0.17,Rawlins,0.12,0.13,1,0.32,Midwest,Kansas
+0.33,0.17,0.21,Reno,0.11,0.14,1,0.27,Midwest,Kansas
+0.29,0.16,0.18,Republic,0.12,0.13,1,0.35,Midwest,Kansas
+0.31,0.17,0.20,Rice,0.10,0.13,1,0.26,Midwest,Kansas
+0.24,0.17,0.17,Riley,0.06,0.19,1,0.17,Midwest,Kansas
+0.32,0.17,0.16,Rooks,0.11,0.15,1,0.30,Midwest,Kansas
+0.31,0.16,0.19,Rush,0.12,0.14,1,0.30,Midwest,Kansas
+0.30,0.17,0.20,Russell,0.12,0.14,1,0.23,Midwest,Kansas
+0.33,0.18,0.19,Saline,0.10,0.15,1,0.26,Midwest,Kansas
+0.31,0.16,0.13,Scott,0.11,0.11,1,0.29,Midwest,Kansas
+0.31,0.18,0.19,Sedgwick,0.11,0.15,1,0.25,Midwest,Kansas
+0.35,0.18,0.22,Seward,0.11,0.08,1,0.27,Midwest,Kansas
+0.32,0.20,0.21,Shawnee,0.11,0.16,1,0.24,Midwest,Kansas
+0.32,0.17,0.16,Sheridan,0.12,0.12,1,0.30,Midwest,Kansas
+0.32,0.18,0.23,Sherman,0.11,0.15,1,0.30,Midwest,Kansas
+0.33,0.17,0.18,Smith,0.12,0.13,1,0.27,Midwest,Kansas
+0.33,0.17,0.20,Stafford,0.12,0.12,1,0.33,Midwest,Kansas
+0.30,0.17,0.17,Stanton,0.12,0.06,1,0.32,Midwest,Kansas
+0.34,0.16,0.14,Stevens,0.10,0.09,1,0.29,Midwest,Kansas
+0.34,0.16,0.19,Sumner,0.10,0.14,1,0.30,Midwest,Kansas
+0.32,0.16,0.13,Thomas,0.08,0.13,1,0.26,Midwest,Kansas
+0.30,0.15,0.12,Trego,0.11,0.12,1,0.27,Midwest,Kansas
+0.32,0.15,0.14,Wabaunsee,0.10,0.12,1,0.26,Midwest,Kansas
+0.33,0.15,0.13,Wallace,0.11,0.11,1,0.26,Midwest,Kansas
+0.32,0.15,0.15,Washington,0.11,0.12,1,0.31,Midwest,Kansas
+0.31,0.17,0.15,Wichita,0.12,0.09,1,0.27,Midwest,Kansas
+0.31,0.19,0.26,Wilson,0.12,0.16,1,0.27,Midwest,Kansas
+0.30,0.19,0.26,Woodson,0.12,0.16,1,0.29,Midwest,Kansas
+0.38,0.23,0.35,Wyandotte,0.13,0.18,1,0.33,Midwest,Kansas
+0.27,0.16,0.24,Aitkin,0.12,0.11,1,0.29,Midwest,Minnesota
+0.30,0.16,0.11,Anoka,0.08,0.09,1,0.19,Midwest,Minnesota
+0.29,0.17,0.19,Becker,0.10,0.11,1,0.25,Midwest,Minnesota
+0.29,0.19,0.25,Beltrami,0.10,0.14,1,0.23,Midwest,Minnesota
+0.28,0.18,0.15,Benton,0.08,0.12,1,0.22,Midwest,Minnesota
+0.30,0.15,0.17,Big Stone,0.10,0.10,1,0.22,Midwest,Minnesota
+0.28,0.18,0.17,Blue Earth,0.07,0.12,1,0.19,Midwest,Minnesota
+0.28,0.15,0.12,Brown,0.09,0.10,1,0.21,Midwest,Minnesota
+0.28,0.19,0.14,Carlton,0.09,0.11,1,0.20,Midwest,Minnesota
+0.24,0.13,0.06,Carver,0.06,0.07,1,0.16,Midwest,Minnesota
+0.27,0.18,0.26,Cass,0.11,0.12,1,0.24,Midwest,Minnesota
+0.30,0.16,0.18,Chippewa,0.09,0.10,1,0.33,Midwest,Minnesota
+0.30,0.16,0.07,Chisago,0.07,0.09,1,0.23,Midwest,Minnesota
+0.28,0.16,0.15,Clay,0.07,0.10,1,0.23,Midwest,Minnesota
+0.30,0.19,0.27,Clearwater,0.11,0.14,1,0.24,Midwest,Minnesota
+0.26,0.17,0.16,Cook,0.11,0.10,1,0.20,Midwest,Minnesota
+0.30,0.16,0.19,Cottonwood,0.10,0.10,1,0.32,Midwest,Minnesota
+0.29,0.17,0.16,Crow Wing,0.10,0.12,1,0.21,Midwest,Minnesota
+0.26,0.14,0.10,Dakota,0.07,0.09,1,0.17,Midwest,Minnesota
+0.29,0.15,0.10,Dodge,0.08,0.08,1,0.18,Midwest,Minnesota
+0.26,0.15,0.13,Douglas,0.09,0.10,1,0.22,Midwest,Minnesota
+0.27,0.15,0.21,Faribault,0.10,0.10,1,0.26,Midwest,Minnesota
+0.26,0.16,0.17,Fillmore,0.09,0.10,1,0.21,Midwest,Minnesota
+0.31,0.16,0.18,Freeborn,0.09,0.09,1,0.27,Midwest,Minnesota
+0.31,0.17,0.12,Goodhue,0.09,0.10,1,0.22,Midwest,Minnesota
+0.30,0.15,0.17,Grant,0.10,0.10,1,0.27,Midwest,Minnesota
+0.23,0.14,0.17,Hennepin,0.07,0.12,1,0.17,Midwest,Minnesota
+0.26,0.16,0.11,Houston,0.09,0.10,1,0.25,Midwest,Minnesota
+0.28,0.17,0.19,Hubbard,0.10,0.11,1,0.23,Midwest,Minnesota
+0.28,0.17,0.12,Isanti,0.08,0.10,1,0.20,Midwest,Minnesota
+0.31,0.18,0.22,Itasca,0.10,0.11,1,0.23,Midwest,Minnesota
+0.31,0.15,0.15,Jackson,0.09,0.09,1,0.20,Midwest,Minnesota
+0.27,0.18,0.21,Kanabec,0.10,0.12,1,0.23,Midwest,Minnesota
+0.27,0.16,0.19,Kandiyohi,0.09,0.10,1,0.23,Midwest,Minnesota
+0.29,0.16,0.14,Kittson,0.10,0.10,1,0.29,Midwest,Minnesota
+0.25,0.17,0.23,Koochiching,0.10,0.13,1,0.27,Midwest,Minnesota
+0.29,0.14,0.14,Lac qui Parle,0.10,0.09,1,0.27,Midwest,Minnesota
+0.28,0.15,0.15,Lake,0.10,0.11,1,0.20,Midwest,Minnesota
+0.29,0.16,0.19,Lake of the Woods,0.10,0.09,1,0.26,Midwest,Minnesota
+0.33,0.15,0.11,Le Sueur,0.08,0.09,1,0.19,Midwest,Minnesota
+0.29,0.15,0.13,Lincoln,0.10,0.09,1,0.25,Midwest,Minnesota
+0.29,0.15,0.16,Lyon,0.08,0.11,1,0.17,Midwest,Minnesota
+0.29,0.25,0.33,Mahnomen,0.14,0.14,1,0.29,Midwest,Minnesota
+0.30,0.14,0.13,Marshall,0.09,0.10,1,0.25,Midwest,Minnesota
+0.33,0.15,0.20,Martin,0.10,0.10,1,0.29,Midwest,Minnesota
+0.34,0.15,0.11,McLeod,0.08,0.10,1,0.21,Midwest,Minnesota
+0.28,0.16,0.13,Meeker,0.09,0.10,1,0.25,Midwest,Minnesota
+0.33,0.19,0.17,Mille Lacs,0.09,0.13,1,0.26,Midwest,Minnesota
+0.29,0.17,0.16,Morrison,0.09,0.11,1,0.23,Midwest,Minnesota
+0.30,0.17,0.16,Mower,0.09,0.10,1,0.26,Midwest,Minnesota
+0.30,0.15,0.13,Murray,0.10,0.09,1,0.23,Midwest,Minnesota
+0.30,0.16,0.11,Nicollet,0.07,0.09,1,0.17,Midwest,Minnesota
+0.29,0.17,0.18,Nobles,0.09,0.08,1,0.28,Midwest,Minnesota
+0.31,0.17,0.19,Norman,0.10,0.10,1,0.31,Midwest,Minnesota
+0.24,0.13,0.13,Olmsted,0.07,0.09,1,0.20,Midwest,Minnesota
+0.27,0.15,0.16,Otter Tail,0.10,0.10,1,0.22,Midwest,Minnesota
+0.27,0.16,0.13,Pennington,0.08,0.11,1,0.22,Midwest,Minnesota
+0.31,0.19,0.25,Pine,0.10,0.12,1,0.26,Midwest,Minnesota
+0.28,0.16,0.18,Pipestone,0.10,0.10,1,0.25,Midwest,Minnesota
+0.31,0.18,0.16,Polk,0.09,0.10,1,0.25,Midwest,Minnesota
+0.30,0.15,0.13,Pope,0.09,0.09,1,0.28,Midwest,Minnesota
+0.25,0.16,0.24,Ramsey,0.08,0.13,1,0.18,Midwest,Minnesota
+0.31,0.16,0.12,Red Lake,0.09,0.11,1,0.24,Midwest,Minnesota
+0.33,0.17,0.18,Redwood,0.10,0.10,1,0.24,Midwest,Minnesota
+0.31,0.15,0.17,Renville,0.09,0.10,1,0.23,Midwest,Minnesota
+0.27,0.16,0.16,Rice,0.08,0.10,1,0.22,Midwest,Minnesota
+0.28,0.15,0.12,Rock,0.09,0.10,1,0.22,Midwest,Minnesota
+0.33,0.16,0.12,Roseau,0.08,0.09,1,0.26,Midwest,Minnesota
+0.25,0.14,0.07,Scott,0.06,0.07,1,0.17,Midwest,Minnesota
+0.27,0.16,0.09,Sherburne,0.07,0.09,1,0.22,Midwest,Minnesota
+0.31,0.15,0.14,Sibley,0.09,0.09,1,0.28,Midwest,Minnesota
+0.26,0.19,0.20,St. Louis,0.09,0.13,1,0.19,Midwest,Minnesota
+0.27,0.15,0.14,Stearns,0.07,0.11,1,0.21,Midwest,Minnesota
+0.28,0.16,0.17,Steele,0.08,0.09,1,0.19,Midwest,Minnesota
+0.29,0.17,0.12,Stevens,0.08,0.10,1,0.22,Midwest,Minnesota
+0.28,0.16,0.15,Swift,0.09,0.10,1,0.28,Midwest,Minnesota
+0.29,0.17,0.25,Todd,0.10,0.10,1,0.26,Midwest,Minnesota
+0.30,0.16,0.19,Traverse,0.10,0.09,1,0.26,Midwest,Minnesota
+0.30,0.14,0.11,Wabasha,0.08,0.09,1,0.19,Midwest,Minnesota
+0.28,0.17,0.22,Wadena,0.10,0.13,1,0.21,Midwest,Minnesota
+0.30,0.16,0.14,Waseca,0.08,0.10,1,0.23,Midwest,Minnesota
+0.26,0.13,0.07,Washington,0.07,0.08,1,0.18,Midwest,Minnesota
+0.30,0.15,0.16,Watonwan,0.09,0.08,1,0.25,Midwest,Minnesota
+0.30,0.16,0.13,Wilkin,0.09,0.09,1,0.26,Midwest,Minnesota
+0.27,0.17,0.15,Winona,0.08,0.11,1,0.21,Midwest,Minnesota
+0.28,0.16,0.07,Wright,0.07,0.08,1,0.19,Midwest,Minnesota
+0.28,0.15,0.15,Yellow Medicine,0.09,0.10,1,0.22,Midwest,Minnesota
+0.30,0.24,0.23,Adair,0.09,0.18,1,0.28,Midwest,Missouri
+0.28,0.18,0.13,Andrew,0.10,0.13,1,0.32,Midwest,Missouri
+0.31,0.18,0.17,Atchison,0.11,0.14,1,0.34,Midwest,Missouri
+0.35,0.21,0.28,Audrain,0.11,0.16,1,0.27,Midwest,Missouri
+0.32,0.21,0.33,Barry,0.12,0.15,1,0.31,Midwest,Missouri
+0.32,0.23,0.28,Barton,0.12,0.16,1,0.31,Midwest,Missouri
+0.35,0.21,0.26,Bates,0.12,0.16,1,0.32,Midwest,Missouri
+0.32,0.20,0.31,Benton,0.14,0.16,1,0.32,Midwest,Missouri
+0.36,0.22,0.29,Bollinger,0.11,0.16,1,0.34,Midwest,Missouri
+0.27,0.20,0.18,Boone,0.08,0.17,1,0.20,Midwest,Missouri
+0.35,0.22,0.27,Buchanan,0.10,0.16,1,0.28,Midwest,Missouri
+0.37,0.23,0.32,Butler,0.12,0.18,1,0.29,Midwest,Missouri
+0.39,0.20,0.22,Caldwell,0.11,0.16,1,0.32,Midwest,Missouri
+0.34,0.19,0.20,Callaway,0.09,0.14,1,0.31,Midwest,Missouri
+0.28,0.20,0.27,Camden,0.13,0.16,1,0.24,Midwest,Missouri
+0.33,0.20,0.21,Cape Girardeau,0.10,0.16,1,0.30,Midwest,Missouri
+0.34,0.20,0.24,Carroll,0.11,0.14,1,0.30,Midwest,Missouri
+0.33,0.24,0.35,Carter,0.12,0.17,1,0.31,Midwest,Missouri
+0.31,0.18,0.14,Cass,0.09,0.13,1,0.28,Midwest,Missouri
+0.34,0.22,0.33,Cedar,0.14,0.17,1,0.32,Midwest,Missouri
+0.32,0.20,0.20,Chariton,0.12,0.15,1,0.31,Midwest,Missouri
+0.30,0.20,0.17,Christian,0.09,0.13,1,0.24,Midwest,Missouri
+0.33,0.20,0.24,Clark,0.11,0.16,1,0.31,Midwest,Missouri
+0.29,0.19,0.12,Clay,0.09,0.14,1,0.24,Midwest,Missouri
+0.35,0.19,0.17,Clinton,0.10,0.15,1,0.27,Midwest,Missouri
+0.30,0.20,0.18,Cole,0.10,0.15,1,0.23,Midwest,Missouri
+0.35,0.22,0.20,Cooper,0.10,0.16,1,0.26,Midwest,Missouri
+0.33,0.24,0.30,Crawford,0.12,0.17,1,0.28,Midwest,Missouri
+0.37,0.22,0.27,Dade,0.13,0.16,1,0.33,Midwest,Missouri
+0.33,0.23,0.33,Dallas,0.13,0.16,1,0.29,Midwest,Missouri
+0.36,0.22,0.28,Daviess,0.11,0.15,1,0.30,Midwest,Missouri
+0.39,0.20,0.20,DeKalb,0.10,0.16,1,0.33,Midwest,Missouri
+0.35,0.22,0.32,Dent,0.12,0.17,1,0.34,Midwest,Missouri
+0.32,0.23,0.35,Douglas,0.13,0.17,1,0.33,Midwest,Missouri
+0.33,0.24,0.42,Dunklin,0.13,0.20,1,0.33,Midwest,Missouri
+0.33,0.21,0.16,Franklin,0.10,0.15,1,0.32,Midwest,Missouri
+0.33,0.19,0.20,Gasconade,0.11,0.15,1,0.33,Midwest,Missouri
+0.32,0.20,0.22,Gentry,0.11,0.15,1,0.29,Midwest,Missouri
+0.29,0.20,0.24,Greene,0.10,0.17,1,0.22,Midwest,Missouri
+0.34,0.21,0.27,Grundy,0.12,0.15,1,0.31,Midwest,Missouri
+0.33,0.20,0.27,Harrison,0.12,0.15,1,0.30,Midwest,Missouri
+0.32,0.21,0.26,Henry,0.12,0.16,1,0.30,Midwest,Missouri
+0.31,0.21,0.40,Hickory,0.15,0.18,1,0.31,Midwest,Missouri
+0.31,0.19,0.22,Holt,0.11,0.14,1,0.30,Midwest,Missouri
+0.34,0.21,0.23,Howard,0.10,0.16,1,0.28,Midwest,Missouri
+0.32,0.21,0.31,Howell,0.12,0.17,1,0.30,Midwest,Missouri
+0.34,0.24,0.33,Iron,0.12,0.18,1,0.32,Midwest,Missouri
+0.30,0.21,0.24,Jackson,0.11,0.18,1,0.24,Midwest,Missouri
+0.33,0.24,0.25,Jasper,0.10,0.16,1,0.27,Midwest,Missouri
+0.31,0.21,0.15,Jefferson,0.09,0.14,1,0.31,Midwest,Missouri
+0.29,0.21,0.17,Johnson,0.08,0.17,1,0.26,Midwest,Missouri
+0.32,0.22,0.34,Knox,0.12,0.17,1,0.25,Midwest,Missouri
+0.32,0.23,0.26,Laclede,0.11,0.18,1,0.32,Midwest,Missouri
+0.31,0.19,0.20,Lafayette,0.10,0.14,1,0.32,Midwest,Missouri
+0.30,0.21,0.27,Lawrence,0.11,0.15,1,0.25,Midwest,Missouri
+0.36,0.21,0.23,Lewis,0.10,0.15,1,0.35,Midwest,Missouri
+0.33,0.21,0.21,Lincoln,0.09,0.15,1,0.30,Midwest,Missouri
+0.30,0.21,0.30,Linn,0.12,0.16,1,0.30,Midwest,Missouri
+0.28,0.20,0.24,Livingston,0.10,0.16,1,0.29,Midwest,Missouri
+0.31,0.20,0.26,Macon,0.12,0.15,1,0.32,Midwest,Missouri
+0.36,0.22,0.30,Madison,0.12,0.16,1,0.33,Midwest,Missouri
+0.33,0.20,0.24,Maries,0.11,0.15,1,0.31,Midwest,Missouri
+0.36,0.22,0.26,Marion,0.11,0.16,1,0.30,Midwest,Missouri
+0.29,0.24,0.32,McDonald,0.12,0.16,1,0.34,Midwest,Missouri
+0.36,0.20,0.22,Mercer,0.12,0.15,1,0.27,Midwest,Missouri
+0.35,0.23,0.27,Miller,0.12,0.17,1,0.29,Midwest,Missouri
+0.33,0.27,0.40,Mississippi,0.14,0.22,1,0.36,Midwest,Missouri
+0.30,0.20,0.20,Moniteau,0.09,0.14,1,0.26,Midwest,Missouri
+0.31,0.20,0.25,Monroe,0.12,0.16,1,0.30,Midwest,Missouri
+0.33,0.21,0.25,Montgomery,0.12,0.16,1,0.30,Midwest,Missouri
+0.27,0.22,0.32,Morgan,0.13,0.17,1,0.27,Midwest,Missouri
+0.34,0.24,0.33,New Madrid,0.13,0.19,1,0.38,Midwest,Missouri
+0.32,0.21,0.20,Newton,0.11,0.14,1,0.28,Midwest,Missouri
+0.28,0.22,0.17,Nodaway,0.09,0.19,1,0.30,Midwest,Missouri
+0.34,0.24,0.38,Oregon,0.14,0.18,1,0.30,Midwest,Missouri
+0.33,0.18,0.13,Osage,0.09,0.12,1,0.26,Midwest,Missouri
+0.33,0.22,0.35,Ozark,0.14,0.16,1,0.34,Midwest,Missouri
+0.34,0.26,0.40,Pemiscot,0.14,0.23,1,0.30,Midwest,Missouri
+0.32,0.19,0.16,Perry,0.10,0.13,1,0.26,Midwest,Missouri
+0.35,0.23,0.26,Pettis,0.11,0.16,1,0.31,Midwest,Missouri
+0.30,0.21,0.26,Phelps,0.10,0.17,1,0.31,Midwest,Missouri
+0.31,0.22,0.27,Pike,0.11,0.16,1,0.30,Midwest,Missouri
+0.31,0.18,0.09,Platte,0.09,0.14,1,0.22,Midwest,Missouri
+0.32,0.21,0.28,Polk,0.11,0.17,1,0.29,Midwest,Missouri
+0.33,0.21,0.19,Pulaski,0.07,0.17,1,0.29,Midwest,Missouri
+0.32,0.20,0.28,Putnam,0.12,0.16,1,0.35,Midwest,Missouri
+0.35,0.19,0.17,Ralls,0.11,0.13,1,0.29,Midwest,Missouri
+0.33,0.23,0.26,Randolph,0.11,0.17,1,0.27,Midwest,Missouri
+0.35,0.19,0.20,Ray,0.10,0.15,1,0.33,Midwest,Missouri
+0.33,0.22,0.34,Reynolds,0.13,0.18,1,0.35,Midwest,Missouri
+0.34,0.24,0.37,Ripley,0.13,0.18,1,0.31,Midwest,Missouri
+0.38,0.23,0.23,Saline,0.11,0.16,1,0.29,Midwest,Missouri
+0.32,0.22,0.30,Schuyler,0.12,0.18,1,0.30,Midwest,Missouri
+0.35,0.21,0.25,Scotland,0.11,0.14,1,0.31,Midwest,Missouri
+0.36,0.23,0.31,Scott,0.12,0.17,1,0.34,Midwest,Missouri
+0.33,0.23,0.48,Shannon,0.12,0.18,1,0.29,Midwest,Missouri
+0.33,0.21,0.24,Shelby,0.12,0.16,1,0.28,Midwest,Missouri
+0.28,0.16,0.09,St. Charles,0.08,0.12,1,0.21,Midwest,Missouri
+0.31,0.20,0.34,St. Clair,0.13,0.17,1,0.34,Midwest,Missouri
+0.34,0.23,0.26,St. Francois,0.11,0.18,1,0.32,Midwest,Missouri
+0.28,0.17,0.14,St. Louis,0.11,0.16,1,0.23,Midwest,Missouri
+0.32,0.26,0.43,St. Louis City,0.13,0.26,1,0.25,Midwest,Missouri
+0.29,0.20,0.19,Ste. Genevieve,0.10,0.14,1,0.29,Midwest,Missouri
+0.34,0.20,0.26,Stoddard,0.11,0.16,1,0.32,Midwest,Missouri
+0.32,0.20,0.28,Stone,0.13,0.16,1,0.28,Midwest,Missouri
+0.34,0.22,0.25,Sullivan,0.12,0.13,1,0.32,Midwest,Missouri
+0.31,0.23,0.29,Taney,0.12,0.18,1,0.31,Midwest,Missouri
+0.31,0.24,0.33,Texas,0.12,0.17,1,0.34,Midwest,Missouri
+0.31,0.22,0.27,Vernon,0.11,0.16,1,0.27,Midwest,Missouri
+0.29,0.19,0.19,Warren,0.10,0.14,1,0.31,Midwest,Missouri
+0.37,0.25,0.39,Washington,0.12,0.18,1,0.33,Midwest,Missouri
+0.35,0.24,0.41,Wayne,0.13,0.17,1,0.35,Midwest,Missouri
+0.33,0.21,0.28,Webster,0.11,0.16,1,0.27,Midwest,Missouri
+0.31,0.19,0.21,Worth,0.12,0.14,1,0.30,Midwest,Missouri
+0.36,0.25,0.34,Wright,0.13,0.18,1,0.31,Midwest,Missouri
+0.30,0.17,0.16,Adams,0.09,0.12,1,0.25,Midwest,Nebraska
+0.27,0.15,0.19,Antelope,0.11,0.12,1,0.28,Midwest,Nebraska
+0.30,0.15,0.16,Arthur,0.10,0.15,1,0.29,Midwest,Nebraska
+0.33,0.15,0.24,Banner,0.12,0.14,1,0.33,Midwest,Nebraska
+0.28,0.16,0.22,Blaine,0.10,0.16,1,0.27,Midwest,Nebraska
+0.28,0.14,0.13,Boone,0.10,0.12,1,0.29,Midwest,Nebraska
+0.32,0.18,0.17,Box Butte,0.11,0.15,1,0.28,Midwest,Nebraska
+0.33,0.15,0.20,Boyd,0.13,0.12,1,0.30,Midwest,Nebraska
+0.31,0.15,0.18,Brown,0.11,0.14,1,0.31,Midwest,Nebraska
+0.30,0.15,0.15,Buffalo,0.07,0.13,1,0.24,Midwest,Nebraska
+0.33,0.18,0.16,Burt,0.11,0.13,1,0.35,Midwest,Nebraska
+0.28,0.16,0.12,Butler,0.10,0.12,1,0.24,Midwest,Nebraska
+0.34,0.18,0.10,Cass,0.08,0.11,1,0.25,Midwest,Nebraska
+0.28,0.14,0.14,Cedar,0.10,0.11,1,0.29,Midwest,Nebraska
+0.27,0.14,0.11,Chase,0.10,0.11,1,0.27,Midwest,Nebraska
+0.26,0.16,0.22,Cherry,0.10,0.13,1,0.31,Midwest,Nebraska
+0.28,0.17,0.12,Cheyenne,0.09,0.13,1,0.26,Midwest,Nebraska
+0.32,0.15,0.16,Clay,0.10,0.11,1,0.28,Midwest,Nebraska
+0.31,0.15,0.15,Colfax,0.10,0.07,1,0.27,Midwest,Nebraska
+0.29,0.14,0.12,Cuming,0.10,0.12,1,0.25,Midwest,Nebraska
+0.34,0.15,0.19,Custer,0.10,0.12,1,0.29,Midwest,Nebraska
+0.34,0.18,0.22,Dakota,0.10,0.12,1,0.29,Midwest,Nebraska
+0.28,0.17,0.22,Dawes,0.09,0.15,1,0.28,Midwest,Nebraska
+0.33,0.17,0.20,Dawson,0.10,0.10,1,0.25,Midwest,Nebraska
+0.27,0.16,0.19,Deuel,0.11,0.12,1,0.27,Midwest,Nebraska
+0.31,0.15,0.16,Dixon,0.11,0.11,1,0.32,Midwest,Nebraska
+0.31,0.18,0.17,Dodge,0.10,0.12,1,0.25,Midwest,Nebraska
+0.28,0.17,0.18,Douglas,0.09,0.14,1,0.22,Midwest,Nebraska
+0.34,0.16,0.21,Dundy,0.11,0.12,1,0.29,Midwest,Nebraska
+0.31,0.15,0.14,Fillmore,0.10,0.11,1,0.29,Midwest,Nebraska
+0.36,0.16,0.19,Franklin,0.11,0.12,1,0.32,Midwest,Nebraska
+0.35,0.16,0.18,Frontier,0.10,0.12,1,0.28,Midwest,Nebraska
+0.33,0.16,0.19,Furnas,0.11,0.14,1,0.28,Midwest,Nebraska
+0.35,0.17,0.16,Gage,0.10,0.13,1,0.30,Midwest,Nebraska
+0.31,0.15,0.24,Garden,0.11,0.11,1,0.30,Midwest,Nebraska
+0.28,0.15,0.15,Garfield,0.11,0.13,1,0.28,Midwest,Nebraska
+0.34,0.16,0.15,Gosper,0.10,0.12,1,0.26,Midwest,Nebraska
+0.29,0.17,0.17,Grant,0.11,0.14,1,0.32,Midwest,Nebraska
+0.33,0.15,0.19,Greeley,0.11,0.12,1,0.35,Midwest,Nebraska
+0.33,0.17,0.19,Hall,0.10,0.11,1,0.28,Midwest,Nebraska
+0.30,0.15,0.10,Hamilton,0.09,0.11,1,0.23,Midwest,Nebraska
+0.31,0.15,0.17,Harlan,0.11,0.12,1,0.27,Midwest,Nebraska
+0.30,0.15,0.18,Hayes,0.11,0.12,1,0.32,Midwest,Nebraska
+0.34,0.17,0.21,Hitchcock,0.12,0.14,1,0.28,Midwest,Nebraska
+0.32,0.15,0.17,Holt,0.10,0.12,1,0.31,Midwest,Nebraska
+0.27,0.15,0.14,Hooker,0.12,0.12,1,0.27,Midwest,Nebraska
+0.31,0.16,0.15,Howard,0.09,0.12,1,0.32,Midwest,Nebraska
+0.35,0.16,0.17,Jefferson,0.10,0.12,1,0.32,Midwest,Nebraska
+0.30,0.19,0.17,Johnson,0.10,0.13,1,0.29,Midwest,Nebraska
+0.32,0.16,0.13,Kearney,0.09,0.10,1,0.26,Midwest,Nebraska
+0.28,0.17,0.20,Keith,0.10,0.12,1,0.29,Midwest,Nebraska
+0.28,0.15,0.31,Keya Paha,0.12,0.14,1,0.35,Midwest,Nebraska
+0.32,0.17,0.18,Kimball,0.11,0.13,1,0.30,Midwest,Nebraska
+0.30,0.16,0.22,Knox,0.11,0.13,1,0.32,Midwest,Nebraska
+0.26,0.16,0.16,Lancaster,0.07,0.14,1,0.19,Midwest,Nebraska
+0.33,0.20,0.19,Lincoln,0.09,0.12,1,0.25,Midwest,Nebraska
+0.29,0.16,0.13,Logan,0.10,0.12,1,0.30,Midwest,Nebraska
+0.30,0.17,0.24,Loup,0.12,0.15,1,0.33,Midwest,Nebraska
+0.32,0.18,0.18,Madison,0.09,0.12,1,0.25,Midwest,Nebraska
+0.31,0.15,0.27,McPherson,0.10,0.13,1,0.32,Midwest,Nebraska
+0.34,0.16,0.15,Merrick,0.10,0.12,1,0.28,Midwest,Nebraska
+0.31,0.19,0.20,Morrill,0.11,0.12,1,0.26,Midwest,Nebraska
+0.31,0.16,0.16,Nance,0.10,0.12,1,0.23,Midwest,Nebraska
+0.35,0.16,0.17,Nemaha,0.09,0.14,1,0.26,Midwest,Nebraska
+0.31,0.14,0.19,Nuckolls,0.11,0.12,1,0.31,Midwest,Nebraska
+0.34,0.15,0.13,Otoe,0.10,0.12,1,0.30,Midwest,Nebraska
+0.32,0.15,0.22,Pawnee,0.12,0.14,1,0.31,Midwest,Nebraska
+0.26,0.14,0.15,Perkins,0.09,0.10,1,0.24,Midwest,Nebraska
+0.35,0.15,0.13,Phelps,0.09,0.11,1,0.27,Midwest,Nebraska
+0.35,0.15,0.13,Pierce,0.09,0.11,1,0.30,Midwest,Nebraska
+0.30,0.16,0.11,Platte,0.09,0.11,1,0.25,Midwest,Nebraska
+0.30,0.15,0.12,Polk,0.10,0.11,1,0.30,Midwest,Nebraska
+0.30,0.17,0.17,Red Willow,0.09,0.13,1,0.24,Midwest,Nebraska
+0.36,0.17,0.21,Richardson,0.11,0.14,1,0.33,Midwest,Nebraska
+0.32,0.16,0.22,Rock,0.11,0.11,1,0.33,Midwest,Nebraska
+0.33,0.17,0.13,Saline,0.09,0.12,1,0.31,Midwest,Nebraska
+0.29,0.15,0.07,Sarpy,0.07,0.11,1,0.20,Midwest,Nebraska
+0.27,0.16,0.11,Saunders,0.09,0.11,1,0.27,Midwest,Nebraska
+0.34,0.19,0.22,Scotts Bluff,0.11,0.11,1,0.25,Midwest,Nebraska
+0.29,0.14,0.09,Seward,0.08,0.12,1,0.23,Midwest,Nebraska
+0.30,0.18,0.26,Sheridan,0.12,0.14,1,0.32,Midwest,Nebraska
+0.34,0.15,0.18,Sherman,0.11,0.12,1,0.30,Midwest,Nebraska
+0.31,0.16,0.23,Sioux,0.10,0.12,1,0.31,Midwest,Nebraska
+0.33,0.17,0.13,Stanton,0.09,0.11,1,0.25,Midwest,Nebraska
+0.30,0.15,0.15,Thayer,0.11,0.12,1,0.30,Midwest,Nebraska
+0.31,0.15,0.26,Thomas,0.10,0.12,1,0.31,Midwest,Nebraska
+0.41,0.31,0.44,Thurston,0.14,0.18,1,0.30,Midwest,Nebraska
+0.31,0.15,0.15,Valley,0.11,0.13,1,0.26,Midwest,Nebraska
+0.31,0.14,0.09,Washington,0.08,0.11,1,0.22,Midwest,Nebraska
+0.30,0.16,0.12,Wayne,0.07,0.14,1,0.26,Midwest,Nebraska
+0.32,0.15,0.16,Webster,0.11,0.13,1,0.33,Midwest,Nebraska
+0.28,0.17,0.20,Wheeler,0.11,0.14,1,0.29,Midwest,Nebraska
+0.32,0.16,0.15,York,0.08,0.12,1,0.25,Midwest,Nebraska
+0.33,0.15,0.14,Adams,0.10,0.07,1,0.32,Midwest,North Dakota
+0.33,0.16,0.14,Barnes,0.09,0.07,1,0.25,Midwest,North Dakota
+0.35,0.32,0.41,Benson,0.14,0.15,1,0.32,Midwest,North Dakota
+0.30,0.16,0.09,Billings,0.08,0.05,1,0.32,Midwest,North Dakota
+0.30,0.17,0.12,Bottineau,0.10,0.07,1,0.28,Midwest,North Dakota
+0.30,0.15,0.10,Bowman,0.09,0.05,1,0.30,Midwest,North Dakota
+0.30,0.19,0.10,Burke,0.10,0.07,1,0.31,Midwest,North Dakota
+0.29,0.15,0.09,Burleigh,0.07,0.06,1,0.21,Midwest,North Dakota
+0.27,0.16,0.12,Cass,0.07,0.10,1,0.21,Midwest,North Dakota
+0.31,0.15,0.14,Cavalier,0.10,0.05,1,0.30,Midwest,North Dakota
+0.33,0.16,0.16,Dickey,0.09,0.07,1,0.26,Midwest,North Dakota
+0.29,0.16,0.12,Divide,0.10,0.05,1,0.36,Midwest,North Dakota
+0.30,0.20,0.13,Dunn,0.09,0.05,1,0.36,Midwest,North Dakota
+0.32,0.19,0.14,Eddy,0.12,0.09,1,0.29,Midwest,North Dakota
+0.31,0.16,0.19,Emmons,0.11,0.09,1,0.37,Midwest,North Dakota
+0.29,0.16,0.10,Foster,0.10,0.07,1,0.34,Midwest,North Dakota
+0.29,0.18,0.15,Golden Valley,0.10,0.08,1,0.33,Midwest,North Dakota
+0.29,0.19,0.17,Grand Forks,0.07,0.10,1,0.22,Midwest,North Dakota
+0.32,0.17,0.24,Grant,0.11,0.08,1,0.32,Midwest,North Dakota
+0.30,0.14,0.11,Griggs,0.10,0.06,1,0.30,Midwest,North Dakota
+0.31,0.17,0.15,Hettinger,0.09,0.07,1,0.30,Midwest,North Dakota
+0.29,0.17,0.18,Kidder,0.10,0.08,1,0.29,Midwest,North Dakota
+0.33,0.16,0.12,LaMoure,0.10,0.06,1,0.29,Midwest,North Dakota
+0.34,0.16,0.18,Logan,0.11,0.06,1,0.29,Midwest,North Dakota
+0.29,0.17,0.16,McHenry,0.09,0.08,1,0.29,Midwest,North Dakota
+0.32,0.15,0.18,McIntosh,0.11,0.07,1,0.32,Midwest,North Dakota
+0.34,0.21,0.12,McKenzie,0.08,0.07,1,0.32,Midwest,North Dakota
+0.33,0.17,0.15,McLean,0.11,0.07,1,0.29,Midwest,North Dakota
+0.31,0.18,0.09,Mercer,0.09,0.06,1,0.26,Midwest,North Dakota
+0.32,0.19,0.12,Morton,0.08,0.06,1,0.26,Midwest,North Dakota
+0.34,0.22,0.14,Mountrail,0.10,0.06,1,0.34,Midwest,North Dakota
+0.30,0.16,0.16,Nelson,0.11,0.06,1,0.28,Midwest,North Dakota
+0.31,0.16,0.21,Oliver,0.10,0.05,1,0.28,Midwest,North Dakota
+0.32,0.16,0.11,Pembina,0.10,0.08,1,0.29,Midwest,North Dakota
+0.33,0.17,0.15,Pierce,0.10,0.09,1,0.28,Midwest,North Dakota
+0.31,0.19,0.18,Ramsey,0.09,0.09,1,0.24,Midwest,North Dakota
+0.32,0.18,0.12,Ransom,0.09,0.07,1,0.30,Midwest,North Dakota
+0.30,0.16,0.10,Renville,0.09,0.06,1,0.31,Midwest,North Dakota
+0.33,0.17,0.12,Richland,0.08,0.08,1,0.26,Midwest,North Dakota
+0.41,0.38,0.41,Rolette,0.16,0.18,1,0.34,Midwest,North Dakota
+0.32,0.15,0.10,Sargent,0.09,0.06,1,0.33,Midwest,North Dakota
+0.32,0.16,0.27,Sheridan,0.11,0.08,1,0.33,Midwest,North Dakota
+0.39,0.40,0.42,Sioux,0.15,0.16,1,0.31,Midwest,North Dakota
+0.28,0.16,0.07,Slope,0.10,0.04,1,0.29,Midwest,North Dakota
+0.29,0.17,0.09,Stark,0.07,0.05,1,0.26,Midwest,North Dakota
+0.31,0.15,0.11,Steele,0.10,0.05,1,0.29,Midwest,North Dakota
+0.30,0.17,0.14,Stutsman,0.08,0.08,1,0.29,Midwest,North Dakota
+0.31,0.16,0.17,Towner,0.11,0.07,1,0.29,Midwest,North Dakota
+0.36,0.17,0.11,Traill,0.09,0.07,1,0.26,Midwest,North Dakota
+0.30,0.15,0.14,Walsh,0.10,0.07,1,0.32,Midwest,North Dakota
+0.30,0.21,0.11,Ward,0.07,0.08,1,0.27,Midwest,North Dakota
+0.32,0.16,0.14,Wells,0.10,0.08,1,0.33,Midwest,North Dakota
+0.35,0.21,0.09,Williams,0.07,0.05,1,0.30,Midwest,North Dakota
+0.38,0.29,0.37,Adair,0.16,0.19,1,0.38,Midwest,Oklahoma
+0.35,0.19,0.18,Alfalfa,0.12,0.14,1,0.40,Midwest,Oklahoma
+0.36,0.23,0.31,Atoka,0.13,0.18,1,0.30,Midwest,Oklahoma
+0.36,0.16,0.16,Beaver,0.11,0.11,1,0.31,Midwest,Oklahoma
+0.34,0.20,0.19,Beckham,0.10,0.15,1,0.31,Midwest,Oklahoma
+0.38,0.18,0.25,Blaine,0.12,0.15,1,0.36,Midwest,Oklahoma
+0.35,0.23,0.26,Bryan,0.12,0.17,1,0.32,Midwest,Oklahoma
+0.36,0.23,0.29,Caddo,0.13,0.17,1,0.37,Midwest,Oklahoma
+0.34,0.18,0.10,Canadian,0.09,0.13,1,0.29,Midwest,Oklahoma
+0.32,0.22,0.22,Carter,0.12,0.16,1,0.32,Midwest,Oklahoma
+0.35,0.26,0.29,Cherokee,0.14,0.18,1,0.28,Midwest,Oklahoma
+0.34,0.24,0.38,Choctaw,0.15,0.20,1,0.35,Midwest,Oklahoma
+0.31,0.18,0.26,Cimarron,0.14,0.14,1,0.35,Midwest,Oklahoma
+0.30,0.19,0.14,Cleveland,0.09,0.15,1,0.25,Midwest,Oklahoma
+0.36,0.23,0.26,Coal,0.15,0.18,1,0.36,Midwest,Oklahoma
+0.35,0.22,0.24,Comanche,0.11,0.19,1,0.30,Midwest,Oklahoma
+0.36,0.20,0.25,Cotton,0.13,0.15,1,0.36,Midwest,Oklahoma
+0.30,0.23,0.26,Craig,0.14,0.17,1,0.32,Midwest,Oklahoma
+0.36,0.22,0.23,Creek,0.13,0.16,1,0.35,Midwest,Oklahoma
+0.30,0.19,0.19,Custer,0.10,0.15,1,0.30,Midwest,Oklahoma
+0.33,0.24,0.31,Delaware,0.16,0.17,1,0.33,Midwest,Oklahoma
+0.34,0.19,0.17,Dewey,0.12,0.14,1,0.36,Midwest,Oklahoma
+0.32,0.19,0.17,Ellis,0.12,0.13,1,0.37,Midwest,Oklahoma
+0.36,0.19,0.19,Garfield,0.11,0.15,1,0.33,Midwest,Oklahoma
+0.36,0.21,0.24,Garvin,0.12,0.16,1,0.35,Midwest,Oklahoma
+0.33,0.20,0.17,Grady,0.11,0.15,1,0.29,Midwest,Oklahoma
+0.37,0.16,0.16,Grant,0.11,0.13,1,0.41,Midwest,Oklahoma
+0.32,0.20,0.29,Greer,0.11,0.16,1,0.33,Midwest,Oklahoma
+0.37,0.20,0.34,Harmon,0.15,0.16,1,0.36,Midwest,Oklahoma
+0.35,0.18,0.15,Harper,0.12,0.12,1,0.36,Midwest,Oklahoma
+0.36,0.22,0.37,Haskell,0.14,0.17,1,0.38,Midwest,Oklahoma
+0.36,0.24,0.29,Hughes,0.14,0.19,1,0.35,Midwest,Oklahoma
+0.31,0.19,0.23,Jackson,0.11,0.15,1,0.34,Midwest,Oklahoma
+0.35,0.21,0.31,Jefferson,0.14,0.16,1,0.34,Midwest,Oklahoma
+0.39,0.23,0.27,Johnston,0.13,0.18,1,0.36,Midwest,Oklahoma
+0.29,0.22,0.26,Kay,0.12,0.17,1,0.30,Midwest,Oklahoma
+0.29,0.17,0.14,Kingfisher,0.10,0.11,1,0.29,Midwest,Oklahoma
+0.30,0.23,0.26,Kiowa,0.15,0.17,1,0.33,Midwest,Oklahoma
+0.36,0.22,0.27,Latimer,0.13,0.19,1,0.34,Midwest,Oklahoma
+0.39,0.24,0.31,Le Flore,0.13,0.19,1,0.33,Midwest,Oklahoma
+0.37,0.20,0.20,Lincoln,0.12,0.16,1,0.39,Midwest,Oklahoma
+0.32,0.18,0.17,Logan,0.10,0.15,1,0.30,Midwest,Oklahoma
+0.35,0.18,0.22,Love,0.12,0.14,1,0.33,Midwest,Oklahoma
+0.32,0.17,0.16,Major,0.11,0.13,1,0.32,Midwest,Oklahoma
+0.34,0.20,0.26,Marshall,0.14,0.15,1,0.38,Midwest,Oklahoma
+0.35,0.23,0.24,Mayes,0.13,0.17,1,0.35,Midwest,Oklahoma
+0.30,0.17,0.14,McClain,0.10,0.13,1,0.28,Midwest,Oklahoma
+0.34,0.23,0.29,McCurtain,0.14,0.21,1,0.37,Midwest,Oklahoma
+0.36,0.22,0.33,McIntosh,0.15,0.18,1,0.38,Midwest,Oklahoma
+0.38,0.21,0.20,Murray,0.13,0.15,1,0.33,Midwest,Oklahoma
+0.35,0.23,0.31,Muskogee,0.14,0.19,1,0.31,Midwest,Oklahoma
+0.34,0.19,0.18,Noble,0.12,0.15,1,0.32,Midwest,Oklahoma
+0.35,0.22,0.23,Nowata,0.13,0.16,1,0.30,Midwest,Oklahoma
+0.32,0.26,0.29,Okfuskee,0.15,0.20,1,0.28,Midwest,Oklahoma
+0.30,0.18,0.25,Oklahoma,0.11,0.17,1,0.29,Midwest,Oklahoma
+0.37,0.23,0.29,Okmulgee,0.14,0.19,1,0.35,Midwest,Oklahoma
+0.37,0.21,0.24,Osage,0.13,0.17,1,0.31,Midwest,Oklahoma
+0.33,0.23,0.33,Ottawa,0.14,0.18,1,0.34,Midwest,Oklahoma
+0.34,0.20,0.23,Pawnee,0.13,0.16,1,0.36,Midwest,Oklahoma
+0.30,0.22,0.22,Payne,0.09,0.20,1,0.26,Midwest,Oklahoma
+0.33,0.22,0.29,Pittsburg,0.13,0.17,1,0.36,Midwest,Oklahoma
+0.36,0.22,0.21,Pontotoc,0.12,0.17,1,0.34,Midwest,Oklahoma
+0.36,0.21,0.25,Pottawatomie,0.12,0.17,1,0.30,Midwest,Oklahoma
+0.31,0.22,0.33,Pushmataha,0.16,0.19,1,0.33,Midwest,Oklahoma
+0.31,0.18,0.17,Roger Mills,0.12,0.13,1,0.37,Midwest,Oklahoma
+0.32,0.18,0.14,Rogers,0.11,0.14,1,0.30,Midwest,Oklahoma
+0.36,0.26,0.34,Seminole,0.14,0.19,1,0.39,Midwest,Oklahoma
+0.37,0.24,0.38,Sequoyah,0.14,0.19,1,0.34,Midwest,Oklahoma
+0.33,0.20,0.22,Stephens,0.12,0.15,1,0.35,Midwest,Oklahoma
+0.31,0.18,0.19,Texas,0.11,0.10,1,0.29,Midwest,Oklahoma
+0.34,0.21,0.33,Tillman,0.14,0.15,1,0.36,Midwest,Oklahoma
+0.30,0.18,0.20,Tulsa,0.10,0.17,1,0.29,Midwest,Oklahoma
+0.34,0.18,0.14,Wagoner,0.11,0.14,1,0.31,Midwest,Oklahoma
+0.29,0.18,0.19,Washington,0.12,0.15,1,0.29,Midwest,Oklahoma
+0.41,0.19,0.19,Washita,0.11,0.15,1,0.34,Midwest,Oklahoma
+0.32,0.19,0.17,Woods,0.10,0.15,1,0.37,Midwest,Oklahoma
+0.39,0.19,0.16,Woodward,0.10,0.13,1,0.29,Midwest,Oklahoma
+0.31,0.14,0.15,Aurora,0.09,0.09,1,0.31,Midwest,South Dakota
+0.32,0.17,0.22,Beadle,0.10,0.13,1,0.26,Midwest,South Dakota
+0.37,0.29,0.46,Bennett,0.14,0.19,1,0.27,Midwest,South Dakota
+0.33,0.17,0.18,Bon Homme,0.09,0.12,1,0.27,Midwest,South Dakota
+0.28,0.14,0.12,Brookings,0.06,0.14,1,0.20,Midwest,South Dakota
+0.30,0.15,0.13,Brown,0.08,0.11,1,0.23,Midwest,South Dakota
+0.35,0.17,0.19,Brule,0.10,0.12,1,0.24,Midwest,South Dakota
+0.42,0.37,0.48,Buffalo,0.15,0.24,1,0.31,Midwest,South Dakota
+0.27,0.17,0.23,Butte,0.10,0.11,1,0.24,Midwest,South Dakota
+0.33,0.15,0.10,Campbell,0.11,0.12,1,0.30,Midwest,South Dakota
+0.35,0.21,0.31,Charles Mix,0.12,0.14,1,0.26,Midwest,South Dakota
+0.34,0.15,0.26,Clark,0.10,0.11,1,0.27,Midwest,South Dakota
+0.29,0.20,0.18,Clay,0.07,0.16,1,0.22,Midwest,South Dakota
+0.30,0.17,0.14,Codington,0.08,0.12,1,0.23,Midwest,South Dakota
+0.39,0.35,0.45,Corson,0.15,0.21,1,0.29,Midwest,South Dakota
+0.29,0.13,0.19,Custer,0.10,0.11,1,0.23,Midwest,South Dakota
+0.35,0.16,0.15,Davison,0.08,0.12,1,0.24,Midwest,South Dakota
+0.32,0.19,0.20,Day,0.12,0.15,1,0.26,Midwest,South Dakota
+0.33,0.14,0.13,Deuel,0.09,0.09,1,0.30,Midwest,South Dakota
+0.40,0.32,0.33,Dewey,0.14,0.22,1,0.31,Midwest,South Dakota
+0.29,0.15,0.14,Douglas,0.10,0.11,1,0.26,Midwest,South Dakota
+0.30,0.14,0.14,Edmunds,0.09,0.11,1,0.26,Midwest,South Dakota
+0.31,0.16,0.24,Fall River,0.12,0.14,1,0.25,Midwest,South Dakota
+0.30,0.16,0.21,Faulk,0.11,0.11,1,0.31,Midwest,South Dakota
+0.32,0.15,0.14,Grant,0.09,0.12,1,0.30,Midwest,South Dakota
+0.33,0.17,0.27,Gregory,0.12,0.13,1,0.30,Midwest,South Dakota
+0.34,0.16,0.15,Haakon,0.11,0.11,1,0.28,Midwest,South Dakota
+0.32,0.15,0.13,Hamlin,0.09,0.10,1,0.24,Midwest,South Dakota
+0.30,0.14,0.12,Hand,0.10,0.11,1,0.29,Midwest,South Dakota
+0.28,0.17,0.15,Hanson,0.09,0.11,1,0.26,Midwest,South Dakota
+0.31,0.16,0.15,Harding,0.09,0.12,1,0.28,Midwest,South Dakota
+0.29,0.15,0.15,Hughes,0.08,0.11,1,0.22,Midwest,South Dakota
+0.32,0.14,0.20,Hutchinson,0.10,0.11,1,0.31,Midwest,South Dakota
+0.31,0.14,0.08,Hyde,0.09,0.10,1,0.29,Midwest,South Dakota
+0.34,0.25,0.43,Jackson,0.13,0.16,1,0.30,Midwest,South Dakota
+0.29,0.14,0.19,Jerauld,0.10,0.10,1,0.28,Midwest,South Dakota
+0.30,0.15,0.23,Jones,0.10,0.12,1,0.28,Midwest,South Dakota
+0.34,0.14,0.13,Kingsbury,0.09,0.10,1,0.29,Midwest,South Dakota
+0.29,0.15,0.11,Lake,0.09,0.12,1,0.25,Midwest,South Dakota
+0.25,0.15,0.18,Lawrence,0.08,0.13,1,0.23,Midwest,South Dakota
+0.28,0.15,0.05,Lincoln,0.06,0.09,1,0.22,Midwest,South Dakota
+0.33,0.22,0.35,Lyman,0.11,0.14,1,0.24,Midwest,South Dakota
+0.31,0.16,0.19,Marshall,0.10,0.13,1,0.27,Midwest,South Dakota
+0.28,0.14,0.13,McCook,0.09,0.10,1,0.28,Midwest,South Dakota
+0.30,0.15,0.25,McPherson,0.11,0.13,1,0.28,Midwest,South Dakota
+0.28,0.18,0.15,Meade,0.08,0.11,1,0.25,Midwest,South Dakota
+0.32,0.28,0.43,Mellette,0.15,0.18,1,0.30,Midwest,South Dakota
+0.31,0.15,0.15,Miner,0.10,0.11,1,0.27,Midwest,South Dakota
+0.28,0.17,0.14,Minnehaha,0.07,0.12,1,0.23,Midwest,South Dakota
+0.34,0.18,0.15,Moody,0.10,0.12,1,0.26,Midwest,South Dakota
+0.28,0.18,0.20,Pennington,0.09,0.12,1,0.21,Midwest,South Dakota
+0.34,0.15,0.19,Perkins,0.10,0.12,1,0.33,Midwest,South Dakota
+0.30,0.14,0.16,Potter,0.11,0.11,1,0.32,Midwest,South Dakota
+0.34,0.21,0.29,Roberts,0.12,0.14,1,0.25,Midwest,South Dakota
+0.30,0.15,0.21,Sanborn,0.09,0.11,1,0.28,Midwest,South Dakota
+0.45,0.41,0.54,Shannon,0.17,0.26,1,0.24,Midwest,South Dakota
+0.31,0.15,0.17,Spink,0.09,0.12,1,0.25,Midwest,South Dakota
+0.33,0.15,0.12,Stanley,0.08,0.10,1,0.27,Midwest,South Dakota
+0.32,0.13,0.07,Sully,0.09,0.10,1,0.29,Midwest,South Dakota
+0.38,0.38,0.53,Todd,0.16,0.23,1,0.29,Midwest,South Dakota
+0.30,0.18,0.28,Tripp,0.11,0.14,1,0.26,Midwest,South Dakota
+0.33,0.14,0.12,Turner,0.09,0.10,1,0.34,Midwest,South Dakota
+0.31,0.14,0.09,Union,0.08,0.10,1,0.25,Midwest,South Dakota
+0.29,0.15,0.21,Walworth,0.10,0.13,1,0.30,Midwest,South Dakota
+0.29,0.15,0.17,Yankton,0.09,0.12,1,0.21,Midwest,South Dakota
+0.43,0.36,0.49,Ziebach,0.15,0.20,1,0.28,Midwest,South Dakota
+0.31,0.16,0.29,Adams,0.12,0.12,1,0.25,Midwest,Wisconsin
+0.28,0.20,0.24,Ashland,0.11,0.15,1,0.23,Midwest,Wisconsin
+0.33,0.17,0.21,Barron,0.10,0.13,1,0.25,Midwest,Wisconsin
+0.28,0.17,0.24,Bayfield,0.12,0.13,1,0.21,Midwest,Wisconsin
+0.27,0.16,0.17,Brown,0.09,0.11,1,0.21,Midwest,Wisconsin
+0.33,0.15,0.15,Buffalo,0.10,0.11,1,0.26,Midwest,Wisconsin
+0.29,0.18,0.27,Burnett,0.13,0.13,1,0.26,Midwest,Wisconsin
+0.29,0.14,0.08,Calumet,0.08,0.09,1,0.23,Midwest,Wisconsin
+0.29,0.16,0.16,Chippewa,0.09,0.12,1,0.20,Midwest,Wisconsin
+0.34,0.17,0.24,Clark,0.10,0.12,1,0.21,Midwest,Wisconsin
+0.33,0.16,0.12,Columbia,0.09,0.11,1,0.23,Midwest,Wisconsin
+0.29,0.16,0.22,Crawford,0.10,0.13,1,0.22,Midwest,Wisconsin
+0.22,0.13,0.14,Dane,0.07,0.12,1,0.15,Midwest,Wisconsin
+0.28,0.17,0.14,Dodge,0.09,0.11,1,0.23,Midwest,Wisconsin
+0.28,0.15,0.17,Door,0.11,0.12,1,0.22,Midwest,Wisconsin
+0.32,0.19,0.21,Douglas,0.09,0.13,1,0.25,Midwest,Wisconsin
+0.30,0.16,0.16,Dunn,0.08,0.13,1,0.22,Midwest,Wisconsin
+0.32,0.17,0.15,Eau Claire,0.08,0.13,1,0.21,Midwest,Wisconsin
+0.34,0.16,0.20,Florence,0.12,0.12,1,0.25,Midwest,Wisconsin
+0.31,0.15,0.14,Fond du Lac,0.09,0.11,1,0.24,Midwest,Wisconsin
+0.32,0.19,0.26,Forest,0.12,0.14,1,0.25,Midwest,Wisconsin
+0.30,0.17,0.19,Grant,0.09,0.13,1,0.23,Midwest,Wisconsin
+0.31,0.15,0.12,Green,0.09,0.11,1,0.24,Midwest,Wisconsin
+0.31,0.16,0.20,Green Lake,0.11,0.12,1,0.23,Midwest,Wisconsin
+0.28,0.15,0.13,Iowa,0.09,0.11,1,0.22,Midwest,Wisconsin
+0.29,0.17,0.24,Iron,0.12,0.15,1,0.21,Midwest,Wisconsin
+0.33,0.19,0.21,Jackson,0.10,0.13,1,0.23,Midwest,Wisconsin
+0.29,0.16,0.14,Jefferson,0.09,0.11,1,0.17,Midwest,Wisconsin
+0.34,0.18,0.21,Juneau,0.11,0.13,1,0.29,Midwest,Wisconsin
+0.32,0.17,0.22,Kenosha,0.09,0.12,1,0.23,Midwest,Wisconsin
+0.35,0.14,0.12,Kewaunee,0.09,0.10,1,0.30,Midwest,Wisconsin
+0.25,0.16,0.12,La Crosse,0.08,0.12,1,0.21,Midwest,Wisconsin
+0.33,0.16,0.19,Lafayette,0.09,0.10,1,0.18,Midwest,Wisconsin
+0.29,0.16,0.23,Langlade,0.11,0.13,1,0.23,Midwest,Wisconsin
+0.32,0.16,0.17,Lincoln,0.10,0.13,1,0.23,Midwest,Wisconsin
+0.31,0.16,0.15,Manitowoc,0.09,0.11,1,0.22,Midwest,Wisconsin
+0.30,0.16,0.15,Marathon,0.09,0.11,1,0.25,Midwest,Wisconsin
+0.33,0.16,0.20,Marinette,0.11,0.13,1,0.24,Midwest,Wisconsin
+0.33,0.16,0.22,Marquette,0.11,0.12,1,0.25,Midwest,Wisconsin
+0.41,0.32,0.44,Menominee,0.18,0.20,1,0.31,Midwest,Wisconsin
+0.31,0.20,0.32,Milwaukee,0.11,0.17,1,0.23,Midwest,Wisconsin
+0.32,0.17,0.23,Monroe,0.10,0.12,1,0.27,Midwest,Wisconsin
+0.29,0.16,0.15,Oconto,0.10,0.11,1,0.25,Midwest,Wisconsin
+0.30,0.15,0.19,Oneida,0.11,0.12,1,0.24,Midwest,Wisconsin
+0.32,0.14,0.13,Outagamie,0.08,0.11,1,0.20,Midwest,Wisconsin
+0.27,0.13,0.06,Ozaukee,0.09,0.09,1,0.21,Midwest,Wisconsin
+0.32,0.15,0.20,Pepin,0.11,0.11,1,0.26,Midwest,Wisconsin
+0.31,0.16,0.11,Pierce,0.08,0.11,1,0.23,Midwest,Wisconsin
+0.30,0.16,0.15,Polk,0.10,0.12,1,0.21,Midwest,Wisconsin
+0.35,0.16,0.15,Portage,0.08,0.12,1,0.20,Midwest,Wisconsin
+0.32,0.16,0.20,Price,0.11,0.12,1,0.19,Midwest,Wisconsin
+0.32,0.17,0.19,Racine,0.10,0.13,1,0.23,Midwest,Wisconsin
+0.33,0.16,0.22,Richland,0.10,0.11,1,0.19,Midwest,Wisconsin
+0.34,0.18,0.24,Rock,0.10,0.13,1,0.24,Midwest,Wisconsin
+0.32,0.18,0.30,Rusk,0.12,0.14,1,0.28,Midwest,Wisconsin
+0.30,0.16,0.17,Sauk,0.09,0.11,1,0.27,Midwest,Wisconsin
+0.28,0.20,0.29,Sawyer,0.13,0.15,1,0.27,Midwest,Wisconsin
+0.33,0.17,0.18,Shawano,0.11,0.12,1,0.24,Midwest,Wisconsin
+0.28,0.15,0.13,Sheboygan,0.09,0.11,1,0.24,Midwest,Wisconsin
+0.28,0.15,0.06,St. Croix,0.08,0.09,1,0.23,Midwest,Wisconsin
+0.34,0.16,0.18,Taylor,0.10,0.12,1,0.27,Midwest,Wisconsin
+0.31,0.16,0.17,Trempealeau,0.09,0.10,1,0.24,Midwest,Wisconsin
+0.34,0.18,0.30,Vernon,0.10,0.12,1,0.27,Midwest,Wisconsin
+0.27,0.17,0.24,Vilas,0.13,0.14,1,0.20,Midwest,Wisconsin
+0.27,0.17,0.16,Walworth,0.09,0.11,1,0.26,Midwest,Wisconsin
+0.29,0.16,0.22,Washburn,0.12,0.12,1,0.25,Midwest,Wisconsin
+0.30,0.14,0.07,Washington,0.08,0.10,1,0.20,Midwest,Wisconsin
+0.27,0.13,0.07,Waukesha,0.08,0.09,1,0.17,Midwest,Wisconsin
+0.26,0.16,0.16,Waupaca,0.10,0.11,1,0.25,Midwest,Wisconsin
+0.32,0.17,0.22,Waushara,0.11,0.11,1,0.27,Midwest,Wisconsin
+0.28,0.15,0.16,Winnebago,0.09,0.12,1,0.23,Midwest,Wisconsin
+0.34,0.15,0.17,Wood,0.10,0.12,1,0.23,Midwest,Wisconsin
