@@ -82,9 +82,9 @@
 <div class="box" id = "viz">
 
     <div class="columns">
-        <button onclick="update(overweight)" style="margin-left: 50px">Overweight</button>
-        <button onclick="update(obese)">Obese</button>
-        <button onclick="update(extremelyObese)">Extremely Obese</button>
+        <button onclick="switchDataSets(overweight)" style="margin-left: 50px">Overweight</button>
+        <button onclick="switchDataSets(obese)">Obese</button>
+        <button onclick="switchDataSets(extremelyObese)">Extremely Obese</button>
     </div>
 
     <div id="obesity"></div>
@@ -179,7 +179,7 @@
                 .style("text-anchor", "middle")
                 .text("% of Population");
 
-            function update(data) {
+            function switchDataSets(data) {
                 var slice = svg.selectAll("rect")
                     .data(data)
                 slice
@@ -194,7 +194,7 @@
                     .attr("fill", "#6874E8")
                     .transition().delay(function (d, i) { return 100 + 100 * i; }).style("opacity", "1");
             }
-            update(obese);
+            switchDataSets(obese);
         </script>
 
 </div>
