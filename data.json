@@ -1,0 +1,86 @@
+[
+    {
+        "category": "Non-Hispanic White",
+        "values": [
+            {
+                "gender": "Men",
+                "percent": 37.9
+            },
+            {
+                "gender": "Women",
+                "percent": 38.0
+            },
+            {
+                "gender": "Boys",
+                "percent": 14.6
+            },
+            {
+                "gender": "Girls",
+                "percent": 13.5
+            }
+        ]
+    },
+    {
+        "category": "Non-Hispanic Black",
+        "values": [
+            {
+                "gender": "Men",
+                "percent": 36.9
+            },
+            {
+                "gender": "Women",
+                "percent": 54.8
+            },
+            {
+                "gender": "Boys",
+                "percent": 19.0
+            },
+            {
+                "gender": "Girls",
+                "percent": 25.1
+            }
+        ]
+    },
+    {
+        "category": "Non-Hispanic Asian",
+        "values": [
+            {
+                "gender": "Men",
+                "percent": 12.7
+            },
+            {
+                "gender": "Women",
+                "percent": 10.1
+            },
+            {
+                "gender": "Boys",
+                "percent": 11.7
+            },
+            {
+                "gender": "Girls",
+                "percent": 10.1
+            }
+        ]
+    },
+    {
+        "category": "Hispanic",
+        "values": [
+            {
+                "gender": "Men",
+                "percent": 43.1
+            },
+            {
+                "gender": "Women",
+                "percent": 50.6
+            },
+            {
+                "gender": "Boys",
+                "percent": 28.0
+            },
+            {
+                "gender": "Girls",
+                "percent": 23.6
+            }
+        ]
+    }
+]
