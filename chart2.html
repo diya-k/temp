@@ -30,7 +30,8 @@
         color: white;
         margin-top: 15px;
     }
-    .button2{
+
+    .button2 {
         color: white;
         margin-top: 15px;
     }
@@ -55,35 +56,29 @@
     .axis line {
         fill: none;
         stroke: #000;
-        /* shape-rendering: crispEdges; */
     }
-
-    /* .x.axis path {
-  display: none;
-} --> */
 </style>
 <div class="box">
-        <h1>Adult Obesity in America</h1>
-        <h3>Obesity is one of the biggest health concerns in communities across the country. Obesity rates vary state-to-state, but remain high nationwide. 
-                Across the United States, more than one in three adults are obese. Individuals who are obese are at 
-                increased risk for type 2 diabetes, heart disease, some forms of cancer, dementia and a number of other health concerns.
-                Factors that may contribute to weight gain among adults and youth include genes, eating habits, physical inactivity,medical conditions or medications, 
-                and where and how people live, including their access to healthy foods and safe places to be active.</h3><p>
-                    Visualization: Prevalence of obesity among youth aged 2-19 years and adults aged 20 and over, by sex, race and ethnicity. 2015-2016.
-        </p>
+    <h1>Adult Obesity in America</h1>
+    <h3>Obesity is one of the biggest health concerns in communities across the country. Obesity rates vary state-to-state, but
+        remain high nationwide. Across the United States, more than one in three adults are obese. Individuals who are obese
+        are at increased risk for type 2 diabetes, heart disease, some forms of cancer, dementia and a number of other health
+        concerns. Factors that may contribute to weight gain among adults and youth include genes, eating habits, physical
+        inactivity,medical conditions or medications, and where and how people live, including their access to healthy foods
+        and safe places to be active.</h3>
+    <p>
+        Visualization: Prevalence of obesity among youth aged 2-19 years and adults aged 20 and over, by sex, race and ethnicity.
+        2015-2016.
+    </p>
 </div>
 
 <body>
     <script src="https://d3js.org/d3.v3.min.js"></script>
     <script>
         var margin = { top: 20, right: 30, bottom: 70, left: 60 },
-                width = 700 - margin.left - margin.right,
-                height = 500 - margin.top - margin.bottom;
+            width = 700 - margin.left - margin.right,
+            height = 500 - margin.top - margin.bottom;
 
-        // var margin = { top: 20, right: 20, bottom: 30, left: 40 },
-        //     width = 800 - margin.left - margin.right,
-        //     height = 500 - margin.top - margin.bottom;
-        
         var x0 = d3.scale.ordinal()
             .rangeRoundBands([0, width], .1);
 
@@ -100,8 +95,6 @@
         var yAxis = d3.svg.axis()
             .scale(y)
             .orient("left");
-           
-
 
         //order: men, women, boys, girls
         var color = d3.scale.ordinal()
@@ -112,7 +105,6 @@
             .attr("height", height + margin.top + margin.bottom)
             .append("g")
             .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-// svg.call(tip)
         d3.json("data.json", function (error, data) {
 
             var categoriesNames = data.map(function (d) { return d.category; });
@@ -126,30 +118,25 @@
                 .attr("class", "x axis")
                 .attr("transform", "translate(0," + height + ")")
                 .call(xAxis);
-                svg.append("text")             
-      .attr("transform",
-            "translate(" + (width/2) + " ," + 
-                           (height + margin.top + 20) + ")")
-      .style("text-anchor", "middle")
-      .text("Race and Ethnic Category");
+            svg.append("text")
+                .attr("transform",
+                    "translate(" + (width / 2) + " ," +
+                    (height + margin.top + 20) + ")")
+                .style("text-anchor", "middle")
+                .text("Race and Ethnic Category");
 
             svg.append("g")
                 .attr("class", "y axis")
                 .style('opacity', '0')
                 .call(yAxis)
-                svg.append("text")
-      .attr("transform", "rotate(-90)")
-      .attr("y", 0 - margin.left)
-      .attr("x",0 - (height / 2))
-      .attr("dy", "1em")
-      .style("text-anchor", "middle")
-      .text("% of Population"); 
-            //   .append("text")
-            //       .attr("transform", "rotate(-90)")
-            //       .attr("y", 6)
-            //       .attr("dy", ".71em")
-            //       .style("text-anchor", "end")
-            //       .style('font-weight','bold');
+            svg.append("text")
+                .attr("transform", "rotate(-90)")
+                .attr("y", 0 - margin.left)
+                .attr("x", 0 - (height / 2))
+                .attr("dy", "1em")
+                .style("text-anchor", "middle")
+                .text("% of Population");
+
             svg.select('.y').transition().duration(500).delay(1300).style('opacity', '1');
 
             var slice = svg.selectAll(".slice")
@@ -166,28 +153,13 @@
                 .style("fill", function (d) { return color(d.gender) })
                 .attr("y", function (d) { return y(0); })
                 .attr("height", function (d) { return height - y(0); })
-            //   .on("mouseover", function(d) {
-            //       d3.select(this).style("fill", d3.rgb(color(d.gender)).darker(2));
-            //   })
-            //   .on("mouseout", function(d) {
-            //       d3.select(this).style("fill", color(d.gender));
-            //   });
-
             slice.selectAll("rect")
                 .transition()
                 .delay(function (d) { return Math.random() * 1000; })
                 .duration(1000)
                 .attr("y", function (d) { return y(d.percent); })
                 .attr("height", function (d) { return height - y(d.percent); })
-                // .on("mouseover", function(d){
-                //     div.transition()
-                //       .duration(200)
-                //       .style("opacity", 0.9)
-                //     div.html(d.percent + "<br/>")
-                    // .style("")
-                // });
 
-            //Legend
             var legend = svg.selectAll(".legend")
                 .data(data[0].values.map(function (d) { return d.gender; }))
                 .enter().append("g")
@@ -214,9 +186,9 @@
 
     </script>
 </body>
-    <div className="idk" style="padding-top: 20px">
-        <a class="button2" href="index.html" style="margin-left: 50px">Page 1</a>
-        <a class="button1" href="chart2.html">Page 2</a>
-        <a class="button2" href="chart3.html">Page 3</a>
+<div className="idk" style="padding-top: 20px">
+    <a class="button2" href="index.html" style="margin-left: 50px">Page 1</a>
+    <a class="button1" href="chart2.html">Page 2</a>
+    <a class="button2" href="chart3.html">Page 3</a>
 
-    </div>
+</div>

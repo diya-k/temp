@@ -1,12 +1,6 @@
 <html>
 <meta charset="utf-8">
 
-<!-- Example based on http://bl.ocks.org/mbostock/3887118 -->
-<!-- Tooltip example from http://www.d3noob.org/2013/01/adding-tooltips-to-d3js-graph.html -->
-<!-- Coding style based on http://gist.github.com/mbostock/5977197 -->
-<!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
-    crossorigin="anonymous"> -->
-
 <style>
     .dot {
         stroke: white;
@@ -19,7 +13,7 @@
         pointer-events: none;
     }
 
-     a.button2:link,
+    a.button2:link,
     a.button2.active {
         width: 100px;
         height: 15px;
@@ -46,6 +40,7 @@
         color: white;
         margin-top: 15px;
     }
+
     .button2 {
         color: white;
         margin-top: 15px;
@@ -62,6 +57,7 @@
     .box {
         padding: 10px;
     }
+
     body {
         font: 13px sans-serif;
     }
@@ -70,29 +66,25 @@
     .axis line {
         fill: none;
         stroke: #000;
-        /* shape-rendering: crispEdges; */
     }
 </style>
-<!-- <style src="commonStyle.css"></style> -->
 <div class="box">
-        <h1>Adult Obesity in America</h1>
-        <h3>Obesity is one of the biggest health concerns in communities across the country. Obesity rates vary state-to-state, but remain high nationwide. 
-                Across the United States, more than one in three adults are obese. Individuals who are obese are at 
-                increased risk for type 2 diabetes, heart disease, some forms of cancer, dementia and a number of other health concerns.
-                Factors that may contribute to weight gain among adults and youth include genes, eating habits, physical inactivity,medical conditions or medications, 
-                and where and how people live, including their access to healthy foods and safe places to be active.</h3>
-        <p>
-                Visualization: Prevalence of food insecurity (the state of being without reliable access to a sufficient quantity of affordable, nutritious food)
-                among obese adults, per county. 
-                <li>Click the legend icons on the right to filter by region.</li>
-        </p>
+    <h1>Adult Obesity in America</h1>
+    <h3>Obesity is one of the biggest health concerns in communities across the country. Obesity rates vary state-to-state, but
+        remain high nationwide. Across the United States, more than one in three adults are obese. Individuals who are obese
+        are at increased risk for type 2 diabetes, heart disease, some forms of cancer, dementia and a number of other health
+        concerns. Factors that may contribute to weight gain among adults and youth include genes, eating habits, physical
+        inactivity,medical conditions or medications, and where and how people live, including their access to healthy foods
+        and safe places to be active.</h3>
+    <p>
+        Visualization: Prevalence of food insecurity (the state of being without reliable access to a sufficient quantity of affordable,
+        nutritious food) among obese adults, per county.
+        <li>Click the legend icons on the right to filter by region.</li>
+    </p>
 </div>
 
 <body>
-        <div class="box">
-
-
-        <!-- <div id="main"> -->
+    <div class="box">
         <script src="https://d3js.org/d3.v3.min.js"></script>
 
         <script>
@@ -100,43 +92,25 @@
                 width = 700 - margin.left - margin.right,
                 height = 500 - margin.top - margin.bottom;
 
-            /* 
-             * value accessor - returns the value to encode for a given data object.
-             * scale - maps value to a visual display encoding, such as a pixel position.
-             * map function - maps from data value to display value
-             * axis - sets up axis
-             */
-
-            // setup x 
-            var xValue = function (d) { return d.AdultObesity; }, // data -> value
+            var xValue = function (d) { return d.AdultObesity; },
                 xScale = d3.scale.linear().domain([0.08, 0.58]).range([0, width]),
-                // xScale = d3.scale.linear().range([0, width]), // value -> display
-                xMap = function (d) { return xScale(xValue(d)); }, // data -> display
+                xMap = function (d) { return xScale(xValue(d)); },
                 xAxis = d3.svg.axis().scale(xScale).orient("bottom");
 
-            // setup y
-            var yValue = function (d) { return d.FoodInsecure; }, // data -> value
+            var yValue = function (d) { return d.FoodInsecure; },
                 yScale = d3.scale.linear().domain([0, 0.35]).range([height, 0]);
-            // yScale = d3.scale.linear().range([height, 0]), // value -> display
-            yMap = function (d) { return yScale(yValue(d)); }, // data -> display
+            yMap = function (d) { return yScale(yValue(d)); },
                 yAxis = d3.svg.axis().scale(yScale).orient("left");
 
-            // setup fill color
             var cValue = function (d) { return d.Region; },
-            color = d3.scale.ordinal().range(["#392759", "#EF233C", "#6874E8", "#F7ACCF"]);
-                // color = d3.scale.ordinal().range(["#7FB800", "#00A6ED", "#FFB400", "#F6511D"]);
+                color = d3.scale.ordinal().range(["#392759", "#EF233C", "#6874E8", "#F7ACCF"]);
 
-            // add the graph canvas to the body of the webpage
             var svg = d3.select("body").append("svg")
                 .attr("width", width + margin.left + margin.right)
                 .attr("height", height + margin.top + margin.bottom)
                 .append("g")
                 .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-            // add the tooltip area to the webpage
-          
-
-            // load data
             d3.csv("Obesity.csv", function (error, data) {
 
                 data.forEach(function (d) {
@@ -145,38 +119,32 @@
                     //    console.log(d);
                 });
 
-                // x-axis
                 svg.append("g")
                     .attr("class", "x axis")
                     .attr("transform", "translate(0," + height + ")")
                     .call(xAxis)
-                    svg.append("text")             
-      .attr("transform",
-            "translate(" + (width/2) + " ," + 
-                           (height + margin.top + 20) + ")")
-      .style("text-anchor", "middle")
-      .text("Adult Obesity (fraction of population)");
-
-                // y-axis
+                svg.append("text")
+                    .attr("transform",
+                        "translate(" + (width / 2) + " ," +
+                        (height + margin.top + 20) + ")")
+                    .style("text-anchor", "middle")
+                    .text("Adult Obesity (fraction of population)");
                 svg.append("g")
                     .attr("class", "y axis")
                     .call(yAxis)
-                    svg.append("text")
-      .attr("transform", "rotate(-90)")
-      .attr("y", 0 - margin.left)
-      .attr("x",0 - (height / 2))
-      .attr("dy", "1em")
-      .style("text-anchor", "middle")
-      .text("Food Insecure (fraction of population)"); 
+                svg.append("text")
+                    .attr("transform", "rotate(-90)")
+                    .attr("y", 0 - margin.left)
+                    .attr("x", 0 - (height / 2))
+                    .attr("dy", "1em")
+                    .style("text-anchor", "middle")
+                    .text("Food Insecure (fraction of population)");
 
                 var highlight = function (d) {
-
                     d3.selectAll(".dot")
                         .transition()
                         .duration(200)
-                        // .style("fill", "white")
                         .style("opacity", 0)
-                        // .attr("r", 2)
 
                     d3.selectAll("." + d.Region)
                         .transition()
@@ -185,14 +153,13 @@
                         .attr("r", 7)
                 }
 
-                // // Highlight the specie that is hovered
                 var doNotHighlight = function () {
                     d3.selectAll(".dot")
-                    .transition()
-                    .duration(200)
-                    .style("fill", function (d) { return color(d.Region) })
-                    .style("opacity", 1)
-                    .attr("r", 6)
+                        .transition()
+                        .duration(200)
+                        .style("fill", function (d) { return color(d.Region) })
+                        .style("opacity", 1)
+                        .attr("r", 6)
 
                 }
 
@@ -209,8 +176,6 @@
                     .on("mouseover", highlight)
                     .on("mouseleave", doNotHighlight)
 
-
-                // draw legend
                 var clicked = "";
                 var legend = svg.selectAll(".legend")
                     .data(color.domain())
@@ -218,7 +183,6 @@
                     .attr("class", "legend")
                     .attr("transform", function (d, i) { return "translate(0," + i * 20 + ")"; });
 
-                // draw legend colored rectangles
                 legend.append("rect")
                     .attr("x", width - 18)
                     .attr("width", 18)
@@ -245,18 +209,17 @@
                     .style("text-anchor", "end")
                     .text(function (d) { return d; }
                     );
-
-
             });
 
         </script>
-</div>
+    </div>
 
 </body>
-<div className = "idk" style="padding-top: 20px">
-<a class="button2" href="index.html" style="margin-left: 70px">Page 1</a>
-<a class="button2" href="chart2.html">Page 2</a>
-<a class="button1" href="chart3.html">Page 3</a>
+<div className="idk" style="padding-top: 20px">
+    <a class="button2" href="index.html" style="margin-left: 70px">Page 1</a>
+    <a class="button2" href="chart2.html">Page 2</a>
+    <a class="button1" href="chart3.html">Page 3</a>
 
 </div>
+
 </html>
