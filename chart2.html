@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
+<script src="https://d3js.org/d3.v3.min.js"></script>
+<script src="https://rawgit.com/susielu/d3-annotation/master/d3-annotation.min.js"></script>
+
 <style>
     /* source: https://www.cdc.gov/nchs/data/databriefs/db288_table.pdf */
 
@@ -67,14 +70,14 @@
         inactivity,medical conditions or medications, and where and how people live, including their access to healthy foods
         and safe places to be active.</h3>
     <p>
-        Visualization: Prevalence of obesity among youth aged 2-19 years and adults aged 20 and over, by sex, race and ethnicity. Pregnant females were excluded from the analysis.
-        2015-2016.
+        Visualization: Prevalence of obesity among youth aged 2-19 years and adults aged 20 and over, by sex, race and ethnicity.
+        Pregnant females were excluded from the analysis. 2015-2016.
     </p>
 </div>
 
 <body>
-    <script src="https://d3js.org/d3.v3.min.js"></script>
     <script>
+
         var margin = { top: 20, right: 30, bottom: 70, left: 60 },
             width = 700 - margin.left - margin.right,
             height = 500 - margin.top - margin.bottom;
@@ -183,7 +186,6 @@
             legend.transition().duration(500).delay(function (d, i) { return 1300 + 100 * i; }).style("opacity", "1");
 
         });
-
     </script>
 </body>
 <div className="idk" style="padding-top: 20px">

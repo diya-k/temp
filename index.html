@@ -79,7 +79,7 @@
         <li>Click the buttons below to change the weight category</li>
     </p>
 </div>
-<div class="box">
+<div class="box" id = "viz">
 
     <div class="columns">
         <button onclick="update(overweight)" style="margin-left: 50px">Overweight</button>
@@ -91,6 +91,19 @@
 
     <body>
         <script>
+            var tooltip = d3.select("#obesity")
+                .append("div")
+                .attr("class", "tooltip")
+                .style("background-color", "white")
+                .style("border", "solid")
+                .style("border-width", "1px")
+                .style("border-radius", "5px")
+                .style("padding", "5px")
+                .style("margin-left", "500px")
+                .style("width", "150px")
+                .style("margin-top", "20px")
+                .style("text-align", "center")
+                .text("The prevalence of obesity increased significantly among adult men and women between 1980- 2000")
             var obese
                 = [
                     { Year: "1960-1962", val: 13.4 },
@@ -127,19 +140,6 @@
                 { Year: "2005-2006", val: 6.2 },
                 { Year: "2007-2008", val: 6.0 },
             ];
-            const annotations = [
-                {
-                    note: {
-                        label: "annotaiton label",
-                    },
-                    className: "show-bg",
-                    x: 300,
-                    y: 200,
-                    dy: -80,
-                    dx: -100
-
-                }
-            ]
             var margin = { top: 30, right: 30, bottom: 70, left: 60 },
                 width = 700 - margin.left - margin.right,
                 height = 500 - margin.left - margin.right;
